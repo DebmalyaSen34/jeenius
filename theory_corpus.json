@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "theory_001",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Displacement vs Distance",
+    "content": "When we speak of distance, we should not mistake it for displacement. These two are entirely different quantities. Displacement is a vector quantity. Its magnitude is equal to the \"shortest distance\" between the initial position and final position of the particle. On the other hand, distance is the length of the path followed by the particle. Distance is a scalar quantity and can never be negative, whereas displacement is unique for a given set of initial and final positions and can be negative, zero, or positive. In general, distance ≥ |displacement|."
+  },
+  {
+    "chunk_id": "theory_002",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Average Speed",
+    "content": "Average speed is defined as the ratio of total distance travelled by the particle to the total time taken in which this distance is travelled. It is mathematically expressed as $v_{av} = \\frac{\\text{Total distance}}{\\text{Total time taken}}$. If a particle travels a distance $S_1$ with speed $v_1$ and distance $S_2$ with speed $v_2$, the average speed is given by the total distance divided by the total time. If the distances are equal ($S_1 = S_2$), the average speed is the harmonic mean of the individual speeds: $v_{av} = \\frac{2v_1v_2}{v_1 + v_2}$."
+  },
+  {
+    "chunk_id": "theory_003",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Graphs of Motion",
+    "content": "In a position-time graph, the slope represents the velocity of the particle. A straight line with a constant slope indicates uniform velocity. If the slope is positive, the particle moves in the positive direction; if negative, it moves in the negative direction. A curved line indicates non-uniform motion (acceleration). Similarly, in a velocity-time graph, the slope represents the acceleration, while the area under the v-t graph represents the displacement of the particle."
+  },
+  {
+    "chunk_id": "theory_004",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Motion Under Gravity",
+    "content": "When a body moves under the influence of gravity alone, it is said to be in free fall. Near the Earth's surface, the acceleration due to gravity ($g$) is approximately constant ($9.8 m/s^2$ or $10 m/s^2$) and always acts vertically downward. Consequently, the equations of uniformly accelerated motion apply with $a = -g$ (assuming upward is positive). A key property of this motion is time symmetry: in the absence of air resistance, the time taken to rise to the maximum height is equal to the time taken to fall back to the initial level."
+  },
+  {
+    "chunk_id": "theory_005",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Trajectory Equation",
+    "content": "The path traced by a moving point is called its trajectory. The equation that relates the coordinates (e.g., x and y) of the particle, eliminating the time variable $t$, is known as the trajectory equation or locus equation. For example, if a particle's position is given by $x(t)$ and $y(t)$, solving one equation for $t$ and substituting it into the other yields the function $y = f(x)$, which describes the geometric shape of the path (such as a parabola, circle, or straight line)."
+  },
+  {
+    "chunk_id": "theory_006",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Relative Velocity",
+    "content": "Relative velocity describes how the motion of an object appears to an observer in a different frame of reference. The relative velocity of object B with respect to object A is defined as $\\vec{v}_{BA} = \\vec{v}_B - \\vec{v}_A$. This concept is often used to analyze problems involving moving platforms, such as a person walking on a moving train. For an observer on the ground, the velocity of the person is the vector sum of the person's velocity relative to the train and the train's velocity relative to the ground."
+  },
+  {
+    "chunk_id": "theory_007",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Non-Uniform Motion",
+    "content": "In non-uniform motion, position, velocity, and acceleration can vary with time. Instantaneous velocity is the time derivative of position ($v = \\frac{dx}{dt}$), and instantaneous acceleration is the time derivative of velocity ($a = \\frac{dv}{dt}$). To find maxima or minima for displacement or velocity, calculus methods are used (e.g., setting $\\frac{dx}{dt} = 0$ to find the time of maximum displacement). This approach is essential when motion is defined by polynomial functions of time rather than constant acceleration."
+  },
+  {
+    "chunk_id": "theory_008",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Uniformly Accelerated Motion",
+    "content": "For motion in a straight line with constant acceleration $a$, the relationships between velocity ($v$), position ($s$), and time ($t$) are given by the kinematic equations: $v = u + at$, $s = ut + \\frac{1}{2}at^2$, and $v^2 = u^2 + 2as$. An important consequence of these equations is that for a body starting from rest, the distance traveled in the $n$th second is proportional to $(2n - 1)$, resulting in a ratio of $1:3:5$ for consecutive seconds."
+  },
+  {
+    "chunk_id": "theory_009",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Work-Energy Theorem in Kinematics",
+    "content": "The area under an acceleration-displacement ($a-s$) graph represents the integral $\\int a \\, ds$. Since $a = v \\frac{dv}{ds}$, this integral is equal to $\\int v \\, dv = \\frac{v^2}{2} - \\frac{u^2}{2}$. Therefore, the area under the $a-s$ graph between two positions is related to the change in the square of the velocity (specifically, half the difference of squares). This is a kinematic representation of the work-energy principle."
+  }
+]

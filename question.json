@@ -1,0 +1,152 @@
+[
+  {
+    "id": "q_001",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Displacement vs Distance",
+    "difficulty_level": 0.2,
+    "question_text": "A particle moves in a semicircular path of radius R. What is the ratio of distance traveled to the magnitude of displacement?",
+    "options": [
+      "π",
+      "π/2",
+      "2/π",
+      "1"
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "Distance is the arc length = πR. Displacement is the straight line diameter = 2R. Ratio = πR / 2R = π/2."
+  },
+  {
+    "id": "q_002",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Average Speed",
+    "difficulty_level": 0.3,
+    "question_text": "A train travels from city A to B with a constant speed of 10 m/s and returns to A with a constant speed of 20 m/s. What is the average speed for the entire journey?",
+    "options": [
+      "15 m/s",
+      "13.33 m/s",
+      "25 m/s",
+      "12.5 m/s"
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "For equal distances covered at speeds v1 and v2, Average Speed = (2 * v1 * v2) / (v1 + v2) = (2 * 10 * 20) / (30) = 400/30 = 13.33 m/s."
+  },
+  {
+    "id": "q_003",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Graphs",
+    "difficulty_level": 0.3,
+    "question_text": "In a position-time graph, if the plot is a straight line with a constant negative slope, what does it indicate about the particle's motion?",
+    "options": [
+      "The particle is at rest.",
+      "The particle is moving with uniform positive acceleration.",
+      "The particle is moving with uniform negative velocity.",
+      "The particle is moving with uniform positive velocity."
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "The slope of a position-time graph represents velocity. A constant negative slope indicates a constant (uniform) negative velocity."
+  },
+  {
+    "id": "q_004",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Motion Under Gravity",
+    "difficulty_level": 0.5,
+    "question_text": "A coin is tossed vertically upward with an initial speed of 5.0 m/s. Assuming g = 10 m/s², what represents the total time of flight before it returns to the release point?",
+    "options": [
+      "0.5 s",
+      "1.0 s",
+      "2.0 s",
+      "5.0 s"
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "Time to reach max height = u/g = 5/10 = 0.5s. Total time of flight = 2 * (u/g) = 2 * 0.5 = 1.0 s."
+  },
+  {
+    "id": "q_005",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Non-Uniform Motion",
+    "difficulty_level": 0.6,
+    "question_text": "The position of a particle is given by x = 2t² - t³. At what time instant does the particle attain its maximum positive displacement?",
+    "options": [
+      "t = 2.0 s",
+      "t = 1.0 s",
+      "t = 4/3 s",
+      "t = 2/3 s"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "Velocity v = dx/dt = 4t - 3t². For max displacement, v = 0. 4t - 3t² = 0 => t(4 - 3t) = 0. t = 4/3 s (since t=0 is the start)."
+  },
+  {
+    "id": "q_006",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Relative Velocity",
+    "difficulty_level": 0.5,
+    "question_text": "Train A moves North at 15 m/s. A monkey runs on the roof of Train A against its motion with a velocity of 5 m/s with respect to the train. What is the velocity of the monkey as observed by a person on the ground?",
+    "options": [
+      "10 m/s North",
+      "20 m/s North",
+      "10 m/s South",
+      "5 m/s South"
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "V(monkey,ground) = V(monkey,train) + V(train,ground). Taking North as positive: V(m,g) = (-5) + 15 = +10 m/s (North)."
+  },
+  {
+    "id": "q_007",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Uniformly Accelerated Motion",
+    "difficulty_level": 0.5,
+    "question_text": "A body starts from rest and moves with uniform acceleration. What is the ratio of distances covered in the 1st, 2nd, and 3rd seconds of its motion?",
+    "options": [
+      "1 : 2 : 3",
+      "1 : 4 : 9",
+      "1 : 3 : 5",
+      "1 : 5 : 9"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "Distance in nth second Sn ∝ (2n - 1). For n=1, 2, 3, the ratio is (2*1-1) : (2*2-1) : (2*3-1) = 1 : 3 : 5."
+  },
+  {
+    "id": "q_008",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Trajectory Equation",
+    "difficulty_level": 0.8,
+    "question_text": "A particle moves such that its position vector is r = (2 sin 3t)i + 2(1 - cos 3t)j. What is the shape of the particle's trajectory?",
+    "options": [
+      "Straight Line",
+      "Parabola",
+      "Ellipse",
+      "Circle"
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "x = 2 sin 3t, y = 2(1 - cos 3t). Re-arrange: x/2 = sin 3t, (y-2)/2 = -cos 3t. Squaring and adding: (x²/4) + (y-2)²/4 = 1 => x² + (y-2)² = 4. This is a Circle."
+  },
+  {
+    "id": "q_009",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Collision Avoidance",
+    "difficulty_level": 0.9,
+    "question_text": "Car 1 (velocity v1) and Car 2 (velocity v2) move in the same direction where v1 > v2. When separated by distance 'd', Car 1 applies brakes with retardation 'a1' and Car 2 accelerates with 'a2'. What is the minimum initial separation 'd' to avoid collision?",
+    "options": [
+      "(v1 - v2)² / (a1 + a2)",
+      "(v1 - v2)² / 2(a1 + a2)",
+      "(v1 + v2)² / 2(a1 - a2)",
+      "(v1 - v2) / 2(a1 + a2)"
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "Based on Illustration 4.48. Using relative motion: v_rel = v1 - v2, a_rel = a1 + a2 (relative retardation is sum of magnitudes). Using v² - u² = 2as with final relative velocity 0: 0 - (v1-v2)² = 2(-(a1+a2))d. Solving for d gives (v1 - v2)² / 2(a1 + a2)."
+  },
+  {
+    "id": "q_010",
+    "topic": "Kinematics_1D",
+    "sub_concept": "Acceleration-Displacement Graph",
+    "difficulty_level": 0.8,
+    "question_text": "A particle starts from rest (v0 = 0). The area under the Acceleration-Displacement (a-s) graph from s=0 to s=x is 'A'. What is the velocity of the particle at position x?",
+    "options": [
+      "A",
+      "2A",
+      "√A",
+      "√(2A)"
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "Using the work-energy principle derived from kinematics: ∫ a ds = ∫ v dv = v²/2 - v0²/2. Since v0=0, Area A = v²/2. Therefore, v = √(2A)."
+  }
+]
