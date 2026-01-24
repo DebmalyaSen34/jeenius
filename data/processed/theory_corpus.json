@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "theory_001",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Displacement vs Distance",
+    "content": "Distance is the total length of the path traveled by a particle. It is a scalar quantity and can never be negative. Displacement is the shortest straight-line distance from the initial to the final position. It is a vector quantity and can be positive, negative, or zero. Magnitude of displacement <= Distance."
+  },
+  {
+    "chunk_id": "theory_002",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Average Speed",
+    "content": "Average speed is defined as the total distance traveled divided by the total time taken. v_avg = Total Distance / Total Time. It is a scalar quantity."
+  },
+  {
+    "chunk_id": "theory_003",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Average Velocity",
+    "content": "Average velocity is defined as the total displacement divided by the total time taken. v_avg_vector = Total Displacement / Total Time. It is a vector quantity."
+  },
+  {
+    "chunk_id": "theory_004",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Equations of Motion",
+    "content": "For motion with constant acceleration 'a', the kinematic equations are: 1) v = u + at, 2) s = ut + 0.5*a*t^2, 3) v^2 = u^2 + 2as. Here u is initial velocity, v is final velocity, s is displacement, and t is time."
+  },
+  {
+    "chunk_id": "theory_005",
+    "topic": "Kinematics_1D",
+    "concept_tag": "Motion Under Gravity",
+    "content": "For free fall near Earth's surface, acceleration is constant and acts downwards: a = -g (taking upward as positive). The equations become: 1) v = u - gt, 2) h = ut - 0.5*gt^2. At maximum height, velocity v = 0."
+  },
+  {
+    "chunk_id": "theory_006",
+    "topic": "Kinematics_2D",
+    "concept_tag": "Projectile Motion",
+    "content": "Projectile motion is 2D motion under gravity. Horizontal motion has constant velocity (ax = 0). Vertical motion has constant acceleration (ay = -g). The path is a parabola. Time of flight T = 2u*sin(theta)/g. Horizontal Range R = u^2*sin(2*theta)/g."
+  }
+]

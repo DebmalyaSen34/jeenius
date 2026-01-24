@@ -1,0 +1,5 @@
+python-dotenv
+google-generativeai
+langchain-huggingface
+langchain-google-genai
+faiss-cpu

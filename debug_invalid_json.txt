@@ -1,0 +1,362 @@
+[
+  {
+    "id": "q_obj1_001",
+    "sub_concept": "Vector Addition and Change in Velocity",
+    "difficulty_level": 0.4,
+    "question_text": "A motor car is going due north at a speed of 50 km/h. It makes a 90° left turn without changing the speed. The change in the velocity of the car is about",
+    "options": [
+      "50 km/h towards west",
+      "70 km/h towards south-west",
+      "70 km/h towards north-west",
+      "zero"
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "Let North be the +y direction and East be the +x direction.\nInitial velocity $\\vec{v}_1 = 50 \\hat{j}\\,\\text{km/h}$.\nA 90° left turn from North leads to West. So, the final velocity is towards West with the same speed.\nFinal velocity $\\vec{v}_2 = -50 \\hat{i}\\,\\text{km/h}$.\nChange in velocity $\\Delta\\vec{v} = \\vec{v}_2 - \\vec{v}_1 = (-50 \\hat{i} - 50 \\hat{j})\\,\\text{km/h}$.\nThe magnitude of the change in velocity is $|\\Delta\\vec{v}| = \\sqrt{(-50)^2 + (-50)^2} = \\sqrt{2 \\times 50^2} = 50\\sqrt{2}\\,\\text{km/h}$.\n$50\\sqrt{2} \\approx 50 \\times 1.414 = 70.7\\,\\text{km/h}$.\nThe direction of the vector $(-50 \\hat{i} - 50 \\hat{j})$ is towards South-West."
+  },
+  {
+    "id": "q_obj1_003",
+    "sub_concept": "Kinematics with Constant Acceleration",
+    "difficulty_level": 0.5,
+    "question_text": "A particle has a velocity u towards east at t = 0. Its acceleration is towards west and is constant. Let $x_A$ and $x_B$ be the magnitude of displacements in the first 10 seconds and the next 10 seconds",
+    "options": [
+      "$x_A < x_B$",
+      "$x_A = x_B$",
+      "$x_A > x_B$",
+      "the information is insufficient to decide the relation of $x_A$ with $x_B$"
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "Let East be the positive direction. Initial velocity $u$ is positive. Acceleration $a$ is towards West, so it is negative, $-a$.\nDisplacement in the first 10 seconds ($t=0$ to $t=10$ s):\n$s_A = ut_A + \\frac{1}{2}(-a)t_A^2 = u(10) - \\frac{1}{2}a(10)^2 = 10u - 50a$.\nTo find the displacement in the next 10 seconds ($t=10$ s to $t=20$ s), we first find the velocity at $t=10$ s:\n$v_{10} = u + (-a)(10) = u - 10a$.\nDisplacement in the next 10 seconds ($t=10$ s to $t=20$ s) using $v_{10}$ as initial velocity for this interval:\n$s_B = v_{10}(10) + \\frac{1}{2}(-a)(10)^2 = (u - 10a)(10) - 50a = 10u - 100a - 50a = 10u - 150a$.\nThe question asks for the magnitudes of displacements, $x_A = |s_A|$ and $x_B = |s_B|$.\nWe have $s_A = 10u - 50a$ and $s_B = 10u - 150a$.\nThe relationship between $s_A$ and $s_B$ (and thus $x_A$ and $x_B$) depends on the values of $u$ and $a$. For example:\n1.  If $u=10\\,\\text{m/s}$ and $a=0.1\\,\\text{m/s}^2$:\n    $s_A = 10(10) - 50(0.1) = 100 - 5 = 95\\,\\text{m}$. ($x_A=95\\,\\text{m}$)\n    $s_B = 10(10) - 150(0.1) = 100 - 15 = 85\\,\\text{m}$. ($x_B=85\\,\\text{m}$)\n    In this case, $x_A > x_B$.\n2.  If $u=10\\,\\text{m/s}$ and $a=1\\,\\text{m/s}^2$:\n    $s_A = 10(10) - 50(1) = 50\\,\\text{m}$. ($x_A=50\\,\\text{m}$)\n    $s_B = 10(10) - 150(1) = -50\\,\\text{m}$. ($x_B=50\\,\\text{m}$)\n    In this case, $x_A = x_B$.\n3.  If $u=5\\,\\text{m/s}$ and $a=1\\,\\text{m/s}^2$:\n    $s_A = 5(10) - 50(1) = 0\\,\\text{m}$. ($x_A=0\\,\\text{m}$)\n    $s_B = 5(10) - 150(1) = -100\\,\\text{m}$. ($x_B=100\\,\\text{m}$)\n    In this case, $x_A < x_B$.\nSince the relationship varies with $u$ and $a$, the information is insufficient."
+  },
+  {
+    "id": "q_obj1_004",
+    "sub_concept": "Average Velocity",
+    "difficulty_level": 0.3,
+    "question_text": "A person travelling on a straight line moves with a uniform velocity $v_1$ for some time and with uniform velocity $v_2$ for the next equal time. The average velocity $v$ is given by",
+    "options": [
+      "$v = \\frac{v_1 + v_2}{2}$",
+      "$v = \\sqrt{v_1v_2}$",
+      "$\\frac{2}{v} = \\frac{1}{v_1} + \\frac{1}{v_2}$",
+      "$\\frac{1}{v} = \\frac{1}{v_1} + \\frac{1}{v_2}$"
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "Let the equal time interval be $\\Delta t$.\nDistance covered in the first interval $s_1 = v_1 \\Delta t$.\nDistance covered in the second interval $s_2 = v_2 \\Delta t$.\nTotal distance covered $S = s_1 + s_2 = v_1 \\Delta t + v_2 \\Delta t = (v_1 + v_2) \\Delta t$.\nTotal time taken $T = \\Delta t + \\Delta t = 2 \\Delta t$.\nAverage velocity (for motion in a straight line, displacement = distance) $v = \\frac{S}{T} = \\frac{(v_1 + v_2) \\Delta t}{2 \\Delta t} = \\frac{v_1 + v_2}{2}$."
+  },
+  {
+    "id": "q_obj1_005",
+    "sub_concept": "Average Velocity",
+    "difficulty_level": 0.3,
+    "question_text": "A person travelling on a straight line moves with a uniform velocity $v_1$ for a distance $x$ and with a uniform velocity $v_2$ for the next equal distance. The average velocity $v$ is given by",
+    "options": [
+      "$v = \\frac{v_1 + v_2}{2}$",
+      "$v = \\sqrt{v_1v_2}$",
+      "$\\frac{2}{v} = \\frac{1}{v_1} + \\frac{1}{v_2}$",
+      "$\\frac{1}{v} = \\frac{1}{v_1} + \\frac{1}{v_2}$"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "Let the equal distance be $x$.\nTime taken for the first distance $t_1 = \\frac{x}{v_1}$.\nTime taken for the second distance $t_2 = \\frac{x}{v_2}$.\nTotal distance covered $S = x + x = 2x$.\nTotal time taken $T = t_1 + t_2 = \\frac{x}{v_1} + \\frac{x}{v_2} = x \\left(\\frac{1}{v_1} + \\frac{1}{v_2}\\right)$.\nAverage velocity $v = \\frac{S}{T} = \\frac{2x}{x \\left(\\frac{1}{v_1} + \\frac{1}{v_2}\\right)} = \\frac{2}{\\frac{1}{v_1} + \\frac{1}{v_2}}$.\nRearranging the expression, we get $\\frac{2}{v} = \\frac{1}{v_1} + \\frac{1}{v_2}$."
+  },
+  {
+    "id": "q_obj1_006",
+    "sub_concept": "Acceleration due to Gravity",
+    "difficulty_level": 0.2,
+    "question_text": "A stone is released from an elevator going up with an acceleration $a$. The acceleration of the stone after the release is",
+    "options": [
+      "$a$ upward",
+      "$(g-a)$ upward",
+      "$(g-a)$ downward",
+      "$g$ downward"
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "Once the stone is released from the elevator, the only force acting on it is gravity. Therefore, its acceleration immediately after release is the acceleration due to gravity, $g$, directed downward. The initial velocity of the stone would be the velocity of the elevator at the moment of release, but its subsequent acceleration is independent of the elevator's motion."
+  },
+  {
+    "id": "q_obj1_007",
+    "sub_concept": "Kinematics and Conservation of Energy (or symmetry)",
+    "difficulty_level": 0.4,
+    "question_text": "A person standing near the edge of the top of a building throws two balls A and B. The ball A is thrown vertically upward and B is thrown vertically downward with the same speed. The ball A hits the ground with a speed $V_A$ and the ball B hits the ground with a speed $V_B$. We have",
+    "options": [
+      "$V_A > V_B$",
+      "$V_A < V_B$",
+      "$V_A = V_B$",
+      "the relation between $V_A$ and $V_B$ depends on height of the building above the ground"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "Let the initial speed of both balls be $u$, and the height of the building be $H$. Assume negligible air resistance.\nFor ball A (thrown vertically upward): The ball goes up, reaches its maximum height, and then falls. When it returns to the level from which it was thrown (the edge of the building), its speed will again be $u$, but its direction will be downward. This is due to the symmetry of projectile motion.\nNow, consider the fall of ball A from the building edge to the ground. Its initial downward speed is $u$, and it falls through a height $H$.\nUsing the kinematic equation $v^2 = u_{initial}^2 + 2gH$ (taking downward as positive):\n$V_A^2 = u^2 + 2gH$.\nFor ball B (thrown vertically downward): Its initial downward speed is $u$, and it falls through a height $H$.\nUsing the same kinematic equation:\n$V_B^2 = u^2 + 2gH$.\nComparing the expressions for $V_A^2$ and $V_B^2$, we find $V_A^2 = V_B^2$. Since speeds are magnitudes, they are positive, so $V_A = V_B$."
+  },
+  {
+    "id": "q_obj1_008",
+    "sub_concept": "Projectile Motion",
+    "difficulty_level": 0.3,
+    "question_text": "In a projectile motion the velocity",
+    "options": [
+      "is always perpendicular to the acceleration",
+      "is never perpendicular to the acceleration",
+      "is perpendicular to the acceleration for one instant only",
+      "is perpendicular to the acceleration for two instants"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "In projectile motion (neglecting air resistance), the acceleration is always constant and directed vertically downward ($a_y = -g$, $a_x = 0$).\nThe velocity vector has both horizontal and vertical components, $\\vec{v} = v_x \\hat{i} + v_y \\hat{j}$.\nAt the highest point of the trajectory, the vertical component of the velocity $v_y$ becomes zero. At this point, the velocity is purely horizontal ($v = v_x \\hat{i}$). Since the acceleration is purely vertical ($a = -g \\hat{j}$), the velocity vector is perpendicular to the acceleration vector at this single instant.\nAt all other points in the trajectory, the velocity vector has a non-zero vertical component, so it is not perpendicular to the purely vertical acceleration."
+  },
+  {
+    "id": "q_obj1_009",
+    "sub_concept": "Projectile Motion",
+    "difficulty_level": 0.3,
+    "question_text": "Two bullets are fired simultaneously, horizontally and with different speeds from the same place. Which bullet will hit the ground first?",
+    "options": [
+      "the faster one",
+      "the slower one",
+      "both will reach simultaneously",
+      "depends on the masses"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "In projectile motion, the horizontal and vertical components of motion are independent of each other (assuming negligible air resistance).\nBoth bullets are fired horizontally from the same place, meaning they have the same initial vertical velocity ($u_y = 0$). They also start from the same height. The time it takes for an object to fall to the ground from rest (vertically) depends only on the height and the acceleration due to gravity, $H = \\frac{1}{2}gt^2$, so $t = \\sqrt{\\frac{2H}{g}}$.\nSince both bullets have the same initial vertical velocity (zero) and fall from the same height, they will take the same amount of time to hit the ground, regardless of their horizontal speeds or masses."
+  },
+  {
+    "id": "q_obj1_010",
+    "sub_concept": "Projectile Motion",
+    "difficulty_level": 0.3,
+    "question_text": "The range of a projectile fired at an angle of 15° is 50 m. If it is fired with the same speed at an angle of 45°, its range will be",
+    "options": [
+      "25 m",
+      "37 m",
+      "50 m",
+      "100 m"
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "The horizontal range of a projectile is given by the formula $R = \\frac{u^2 \\sin(2\\theta)}{g}$, where $u$ is the initial speed and $\\theta$ is the projection angle.\nGiven $R_1 = 50\\,\\text{m}$ for $\\theta_1 = 15^\\circ$:\n$50 = \\frac{u^2 \\sin(2 \\times 15^\\circ)}{g} = \\frac{u^2 \\sin(30^\\circ)}{g} = \\frac{u^2 (1/2)}{g}$.\nSo, $\\frac{u^2}{2g} = 50 \\implies \\frac{u^2}{g} = 100$.\nNow, for $\\theta_2 = 45^\\circ$ with the same speed $u$:\n$R_2 = \\frac{u^2 \\sin(2 \\times 45^\\circ)}{g} = \\frac{u^2 \\sin(90^\\circ)}{g} = \\frac{u^2 (1)}{g}$.\nSubstitute the value of $\\frac{u^2}{g}$:\n$R_2 = 100\\,\\text{m}$."
+  },
+  {
+    "id": "q_obj1_011",
+    "sub_concept": "Projectile Motion",
+    "difficulty_level": 0.4,
+    "question_text": "Two projectiles A and B are projected with angle of projection 15° for the projectile A and 45° for the projectile B. If $R_A$ and $R_B$ be the horizontal range for the two projectiles, then",
+    "options": [
+      "$R_A < R_B$",
+      "$R_A = R_B$",
+      "$R_A > R_B$",
+      "the information is insufficient to decide the relation of $R_A$ with $R_B$"
+    ],
+    "correct_option_index": 3,
+    "solution_logic": "The horizontal range of a projectile is given by $R = \\frac{u^2 \\sin(2\\theta)}{g}$.\nFor projectile A, $R_A = \\frac{u_A^2 \\sin(2 \\times 15^\\circ)}{g} = \\frac{u_A^2 \\sin(30^\\circ)}{g} = \\frac{u_A^2}{2g}$.\nFor projectile B, $R_B = \\frac{u_B^2 \\sin(2 \\times 45^\\circ)}{g} = \\frac{u_B^2 \\sin(90^\\circ)}{g} = \\frac{u_B^2}{g}$.\nThe problem states that the projectiles are fired at different angles (15° and 45°), but it does not specify whether they are fired with the same initial speed ($u_A$ and $u_B$).\nIf $u_A = u_B$, then $R_B = 2R_A$, so $R_A < R_B$.\nIf $u_A \\neq u_B$, the relationship between $R_A$ and $R_B$ cannot be determined without knowing the values of $u_A$ and $u_B$.\nTherefore, the information is insufficient."
+  },
+  {
+    "id": "q_obj1_012",
+    "sub_concept": "Relative Velocity (River-Boat Problems)",
+    "difficulty_level": 0.4,
+    "question_text": "A river is flowing from west to east at a speed of 5 metres per minute. A man on the south bank of the river, capable of swimming at 10 metres per minute in still water, wants to swim across the river in the shortest time. He should swim in a direction",
+    "options": [
+      "due north",
+      "30° east of north",
+      "30° north of west",
+      "60° east of north"
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "Let the river flow be along the East direction (x-axis) and the direction across the river be North (y-axis).\nVelocity of river with respect to ground $\\vec{v}_{rg} = 5 \\hat{i}\\,\\text{m/min}$.\nSpeed of man with respect to still water (i.e., relative to water) $v_{mw} = 10\\,\\text{m/min}$.\nTo cross the river in the shortest time, the man's component of velocity perpendicular to the river flow (i.e., along the North-South direction) must be maximized. This happens when the man directs his swimming effort entirely in that direction.\nSo, the man should aim his body (and thus his velocity relative to water, $\\vec{v}_{mw}$) directly across the river, which is Due North.\nIn this case, $\\vec{v}_{mw} = 10 \\hat{j}\\,\\text{m/min}$.\nHis resultant velocity relative to the ground will be $\\vec{v}_{mg} = \\vec{v}_{mw} + \\vec{v}_{rg} = (10 \\hat{j} + 5 \\hat{i})\\,\\text{m/min}$. He will still drift east, but the time to cross is minimized because his speed component across the river is maximized at $10\\,\\text{m/min}$."
+  },
+  {
+    "id": "q_obj2_001",
+    "sub_concept": "Displacement, Distance, Speed, Velocity",
+    "difficulty_level": 0.3,
+    "question_text": "Consider the motion of the tip of the minute hand of a clock. In one hour",
+    "options": [
+      "the displacement is zero",
+      "the distance covered is zero",
+      "the average speed is zero",
+      "the average velocity is zero"
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "In one hour, the minute hand of a clock completes one full revolution.\n(a) Displacement is the shortest distance between the initial and final positions. Since the tip starts and ends at the same point after one revolution, its displacement is zero. This statement is correct.\n(b) Distance covered is the total path length. The tip traces a full circle, so the distance covered is the circumference ($2\\pi r$, where $r$ is the length of the minute hand), which is not zero. This statement is incorrect.\n(c) Average speed is total distance divided by total time. Since the distance covered is not zero, the average speed is not zero. This statement is incorrect.\n(d) Average velocity is total displacement divided by total time. Since the displacement is zero, the average velocity is also zero. This statement is correct."
+  },
+  {
+    "id": "q_obj2_002",
+    "sub_concept": "Kinematic Equations and Definitions",
+    "difficulty_level": 0.4,
+    "question_text": "A particle moves along the X-axis as $x = u(t − 2 s) + a(t − 2 s)^2$.",
+    "options": [
+      "the initial velocity of the particle is u",
+      "the acceleration of the particle is a",
+      "the acceleration of the particle is 2a",
+      "at t = 2s particle is at the origin"
+    ],
+    "correct_option_index": 2,
+    "solution_logic": "The given position equation is $x = u(t - 2) + a(t - 2)^2$.\nLet $t' = t - 2$. Then the equation becomes $x = ut' + at'^2$.\nThis equation is in the form $x = v_0 t' + \\frac{1}{2} A t'^2$, where $v_0$ is the initial velocity for the time variable $t'$ and $A$ is the constant acceleration.\nComparing the given equation with the standard form:\n$v_0 = u$ (This means the velocity at $t'=0$, which corresponds to $t=2s$, is $u$. So option (a) is incorrect if 'initial velocity' means at $t=0s$).\n$\\frac{1}{2} A = a \\implies A = 2a$. So, the acceleration of the particle is $2a$. This means option (c) is correct and (b) is incorrect.\nAt $t=2s$, $t'=0$. Substituting $t'=0$ into the equation, $x = u(0) + a(0)^2 = 0$. So, at $t=2s$, the particle is at the origin. This means option (d) is correct."
+  },
+  {
+    "id": "q_obj2_003",
+    "sub_concept": "Definitions of Speed, Velocity, Acceleration",
+    "difficulty_level": 0.5,
+    "question_text": "Pick the correct statements : (Infinite accelerations are not allowed.)",
+    "options": [
+      "Average speed of a particle in a given time is never less than the magnitude of the average velocity.",
+      "It is possible to have a situation in which $\\frac{d\\vec{v}}{dt} \\neq 0$ but $|\\vec{v}|=0$.",
+      "The average velocity of a particle is zero in a time interval. It is possible that the instantaneous velocity is never zero in the interval.",
+      "The average velocity of a particle moving on a straight line is zero in a time interval. It is possible that the instantaneous velocity is never zero in the interval."
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "(a) Average speed is defined as $\\frac{\\text{Total distance}}{\\text{Total time}}$. The magnitude of average velocity is defined as $\\frac{|\\text{Total displacement}|}{\\text{Total time}}$. Since total distance covered is always greater than or equal to the magnitude of total displacement ($Total\\,distance \\ge |Total\\,displacement|$), the average speed is always greater than or equal to the magnitude of the average velocity. Thus, it is never less than. This statement is correct.\n(b) $\\frac{d\\vec{v}}{dt}$ represents acceleration, and $|\\vec{v}|$ represents speed. It is possible for the instantaneous speed to be zero ($|\\vec{v}|=0$) while the acceleration is non-zero ($\\frac{d\\vec{v}}{dt} \\neq 0$). For example, when a ball thrown vertically upward reaches its maximum height, its instantaneous speed is zero, but its acceleration is $g$ (downward), which is non-zero. This statement is correct.\n(c) If the average velocity of a particle is zero in a time interval, it means the net displacement is zero. This happens if the particle returns to its starting point. It is possible for the instantaneous velocity to be never zero in this interval if the particle moves along a closed path (e.g., uniform circular motion) and completes a full cycle. In this case, the average velocity is zero (net displacement is zero), but the particle is always moving, so its instantaneous velocity is never zero. This statement is correct.\n(d) If a particle moves on a straight line and its average velocity is zero in a time interval, its net displacement is zero. To achieve zero displacement on a straight line, the particle must return to its starting point. To return, it must reverse its direction of motion at some point. At the instant it reverses direction on a straight line, its instantaneous velocity must momentarily be zero. Therefore, it is not possible for the instantaneous velocity to be *never* zero in the interval. This statement is incorrect.\nOptions (a), (b), (c) are correct."
+  },
+  {
+    "id": "q_obj2_004",
+    "sub_concept": "Definitions of Speed, Velocity, Acceleration",
+    "difficulty_level": 0.4,
+    "question_text": "An object may have",
+    "options": [
+      "varying speed without having varying velocity",
+      "varying velocity without having varying speed",
+      "nonzero acceleration without having varying velocity",
+      "nonzero acceleration without having varying speed"
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "(a) Speed is the magnitude of velocity. If speed varies, the magnitude of velocity varies, which implies velocity (a vector quantity) must also vary. So, this statement is incorrect.\n(b) Velocity is a vector (magnitude and direction). Speed is its magnitude. An object can have varying velocity (due to change in direction) while its speed remains constant. A classic example is uniform circular motion, where the speed is constant but the direction of velocity continuously changes, so the velocity is varying. This statement is correct.\n(c) Nonzero acceleration means there is a change in velocity. Therefore, if acceleration is non-zero, the velocity must be varying. This statement is incorrect.\n(d) Nonzero acceleration without having varying speed. This is possible in uniform circular motion, where there is centripetal acceleration (non-zero) due to the continuous change in the direction of velocity, but the speed (magnitude of velocity) remains constant. This statement is correct."
+  },
+  {
+    "id": "q_obj2_005",
+    "sub_concept": "Kinematics in One Dimension",
+    "difficulty_level": 0.4,
+    "question_text": "Mark the correct statements for a particle going on a straight line:",
+    "options": [
+      "If the velocity and acceleration have opposite sign, the object is slowing down.",
+      "If the position and velocity have opposite sign, the particle is moving towards the origin.",
+      "If the velocity is zero at an instant, the acceleration should also be zero at that instant.",
+      "If the velocity is zero for a time interval, the acceleration is zero at any instant within the time interval."
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "(a) If velocity and acceleration have opposite signs, it means they are in opposite directions. This causes the object's speed to decrease, so it is slowing down (decelerating). This statement is correct.\n(b) Let the origin be $x=0$. If position $x > 0$ and velocity $v < 0$, the particle is to the right of the origin and moving towards the left (towards the origin). If position $x < 0$ and velocity $v > 0$, the particle is to the left of the origin and moving towards the right (towards the origin). In both cases, the particle is moving towards the origin. This statement is correct.\n(c) If the velocity is zero at an instant, the acceleration is not necessarily zero. For example, a ball thrown vertically upwards has zero instantaneous velocity at its maximum height, but its acceleration is $g$ (non-zero) at that instant. This statement is incorrect.\n(d) If the velocity of a particle is zero for a time interval, it means the particle is at rest during that entire interval. If its velocity is constantly zero, then its rate of change of velocity (acceleration) must also be zero throughout that interval. This statement is correct.\nOptions (a), (b), (d) are correct."
+  },
+  {
+    "id": "q_obj2_006",
+    "sub_concept": "Kinematics in One Dimension",
+    "difficulty_level": 0.4,
+    "question_text": "The velocity of a particle is zero at t = 0.",
+    "options": [
+      "The acceleration at t = 0 must be zero.",
+      "The acceleration at t = 0 may be zero.",
+      "If the acceleration is zero from t = 0 to t = 10 s, the speed is also zero in this interval.",
+      "If the speed is zero from t = 0 to t = 10 s the acceleration is also zero in this interval."
+    ],
+    "correct_option_index": 1,
+    "solution_logic": "Given that the velocity of a particle is zero at $t=0$.\n(a) The acceleration at $t=0$ must be zero. This is incorrect. A particle starting from rest (velocity zero) can immediately have a non-zero acceleration (e.g., a dropped ball has $v=0$ at $t=0$ but $a=g$).\n(b) The acceleration at $t=0$ may be zero. This is correct. A particle can be at rest and remain at rest, in which case its acceleration is zero. Or it could start accelerating immediately. 'May be zero' covers this possibility.\n(c) If the acceleration is zero from $t=0$ to $t=10s$, and the initial velocity at $t=0$ is zero, then the velocity will remain zero throughout this interval ($v(t) = v(0) + \\int_0^t a(t')dt' = 0 + \\int_0^t 0 dt' = 0$). Thus, the speed (magnitude of velocity) is also zero in this interval. This statement is correct.\n(d) If the speed of a particle is zero from $t=0$ to $t=10s$, it means its velocity is zero throughout that interval. If velocity is constantly zero, then its rate of change, which is acceleration, must also be zero throughout that interval. This statement is correct.\nOptions (b), (c), (d) are correct."
+  },
+  {
+    "id": "q_obj2_007",
+    "sub_concept": "Definitions of Speed, Velocity",
+    "difficulty_level": 0.3,
+    "question_text": "Mark the correct statements :",
+    "options": [
+      "The magnitude of the velocity of a particle is equal to its speed.",
+      "The magnitude of average velocity in an interval is equal to its average speed in that interval.",
+      "It is possible to have a situation in which the speed of a particle is always zero but the average speed is not zero.",
+      "It is possible to have a situation in which the speed of the particle is never zero but the average speed in an interval is zero."
+    ],
+    "correct_option_index": 0,
+    "solution_logic": "(a) By definition, speed is the magnitude of the instantaneous velocity of a particle. This statement is correct.\n(b) Magnitude of average velocity is $|\\frac{\\text{Total displacement}}{\\text{Total time}}|$. Average speed is $\\frac{\\text{Total distance}}{\\text{Total time}}$. These two are equal only if the particle moves in a straight line without changing direction. If the path is curved or the particle reverses direction, total distance > magnitude of total displacement, so average speed > magnitude of average velocity. Thus, they are not always equal. This statement is incorrect.\n(c) If the speed of a particle is always zero, it means the particle is always at rest. If it is always at rest, the total distance covered is zero. Therefore, the average speed (total distance/total time) must also be zero. The statement 'average speed is not zero' contradicts 'speed is always zero'. This situation is impossible. This statement is incorrect.\n(d) If the speed of the particle is never zero, it means the particle is always in motion. If the average speed in an interval is zero, this implies that the total distance covered is zero. If the total distance covered is zero, then the speed must have been zero throughout the interval, which contradicts the condition that the speed is never zero. This situation is impossible. This statement is incorrect."
+  },
+  {
+    "id": "q_exe_001",
+    "sub_concept": "Displacement and Distance",
+    "difficulty_level": 0.3,
+    "question_text": "A man has to go 50 m due north, 40 m due east and 20 m due south to reach a field. (a) What distance he has to walk to reach the field? (b) What is his displacement from his house to the field?",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "(a) Distance walked:\nDistance is the total path length covered. The man walks 50 m + 40 m + 20 m.\nTotal distance $= 50\\,\\text{m} + 40\\,\\text{m} + 20\\,\\text{m} = 110\\,\\text{m}$.\n\n(b) Displacement from his house to the field:\nDisplacement is the vector from the initial position to the final position.\nLet North be the +y direction and East be the +x direction.\nDisplacement components:\nEast-West component: $40\\,\\text{m}$ East.\nNorth-South component: $50\\,\\text{m}$ North - $20\\,\\text{m}$ South $= 30\\,\\text{m}$ North.\nThe displacement vector is $\\vec{d} = (40\\,\\text{m})\\hat{i} + (30\\,\\text{m})\\hat{j}$.\nThe magnitude of the displacement is $|\\vec{d}| = \\sqrt{(40\\,\\text{m})^2 + (30\\,\\text{m})^2} = \\sqrt{1600 + 900} = \\sqrt{2500} = 50\\,\\text{m}$.\nThe direction is $\\tan\\alpha = \\frac{30}{40} = \\frac{3}{4}$ North of East. ($\\alpha \\approx 36.87^\\circ$ North of East)."
+  },
+  {
+    "id": "q_exe_002",
+    "sub_concept": "Displacement and Distance",
+    "difficulty_level": 0.3,
+    "question_text": "A particle starts from the origin, goes along the X-axis to the point (20 m, 0) and then returns along the same line to the point (-20m, 0). Find the distance and displacement of the particle during the trip.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Distance travelled:\n1. From origin (0,0) to (20 m, 0): Distance $= 20\\,\\text{m}$.\n2. From (20 m, 0) to (-20 m, 0): Distance $= |(-20) - 20| = |-40| = 40\\,\\text{m}$.\nTotal distance travelled $= 20\\,\\text{m} + 40\\,\\text{m} = 60\\,\\text{m}$.\n\nDisplacement:\nDisplacement is the vector from the initial position to the final position.\nInitial position $= (0,0)$.\nFinal position $= (-20\\,\\text{m}, 0)$.\nDisplacement $= (\\text{final position}) - (\\text{initial position}) = (-20 - 0)\\,\\text{m} = -20\\,\\text{m}$.\nThe displacement is $20\\,\\text{m}$ in the negative X direction."
+  },
+  {
+    "id": "q_exe_003",
+    "sub_concept": "Average Speed and Average Velocity",
+    "difficulty_level": 0.4,
+    "question_text": "It is 260 km from Patna to Ranchi by air and 320 km by road. An aeroplane takes 30 minutes to go from Patna to Ranchi whereas a delux bus takes 8 hours. (a) Find the average speed of the plane. (b) Find the average speed of the bus. (c) Find the average velocity of the plane. (d) Find the average velocity of the bus.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nDistance by air (magnitude of displacement) $= 260\\,\\text{km}$.\nDistance by road $= 320\\,\\text{km}$.\nTime for aeroplane $t_{plane} = 30\\,\\text{minutes} = 0.5\\,\\text{hours}$.\nTime for bus $t_{bus} = 8\\,\\text{hours}$.\n\n(a) Average speed of the plane:\nAverage speed $= \\frac{\\text{Total distance travelled}}{\\text{Total time}}$.\nThe plane travels $260\\,\\text{km}$ by air (which is its path).\nAverage speed of plane $= \\frac{260\\,\\text{km}}{0.5\\,\\text{h}} = 520\\,\\text{km/h}$.\n\n(b) Average speed of the bus:\nAverage speed $= \\frac{\\text{Total distance travelled}}{\\text{Total time}}$.\nThe bus travels $320\\,\\text{km}$ by road.\nAverage speed of bus $= \\frac{320\\,\\text{km}}{8\\,\\text{h}} = 40\\,\\text{km/h}$.\n\n(c) Average velocity of the plane:\nAverage velocity $= \\frac{\\text{Total displacement}}{\\text{Total time}}$.\nThe displacement from Patna to Ranchi is $260\\,\\text{km}$ (straight line distance).\nAverage velocity of plane $= \\frac{260\\,\\text{km}}{0.5\\,\\text{h}} = 520\\,\\text{km/h}$ (directed from Patna to Ranchi).\n\n(d) Average velocity of the bus:\nThe displacement from Patna to Ranchi is the same for both, $260\\,\\text{km}$.\nAverage velocity of bus $= \\frac{260\\,\\text{km}}{8\\,\\text{h}} = 32.5\\,\\text{km/h}$ (directed from Patna to Ranchi)."
+  },
+  {
+    "id": "q_exe_004",
+    "sub_concept": "Average Speed and Average Velocity",
+    "difficulty_level": 0.3,
+    "question_text": "When a person leaves his home for sightseeing by his car, the meter reads 12352 km. When he returns home after two hours the reading is 12416 km. (a) What is the average speed of the car during this period? (b) What is the average velocity?",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial odometer reading $= 12352\\,\\text{km}$.\nFinal odometer reading $= 12416\\,\\text{km}$.\nTotal time taken $= 2\\,\\text{hours}$.\n\n(a) Average speed of the car:\nTotal distance travelled $= \\text{Final reading} - \\text{Initial reading} = 12416\\,\\text{km} - 12352\\,\\text{km} = 64\\,\\text{km}$.\nAverage speed $= \\frac{\\text{Total distance travelled}}{\\text{Total time taken}} = \\frac{64\\,\\text{km}}{2\\,\\text{h}} = 32\\,\\text{km/h}$.\n\n(b) Average velocity:\nThe person returns home, meaning the final position is the same as the initial position. Therefore, the total displacement is zero.\nAverage velocity $= \\frac{\\text{Total displacement}}{\\text{Total time taken}} = \\frac{0\\,\\text{km}}{2\\,\\text{h}} = 0\\,\\text{km/h}$."
+  },
+  {
+    "id": "q_exe_005",
+    "sub_concept": "Average Acceleration",
+    "difficulty_level": 0.3,
+    "question_text": "An athlete takes 2.0 s to reach his maximum speed of 18.0 km/h. What is the magnitude of his average acceleration?",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial speed $u = 0$ (assuming starts from rest).\nFinal speed $v = 18.0\\,\\text{km/h}$.\nConvert final speed to m/s: $v = 18.0 \\times \\frac{1000\\,\\text{m}}{3600\\,\\text{s}} = 18.0 \\times \\frac{5}{18}\\,\\text{m/s} = 5.0\\,\\text{m/s}$.\nTime taken $\\Delta t = 2.0\\,\\text{s}$.\n\nAverage acceleration $a_{avg} = \\frac{\\text{Change in velocity}}{\\text{Time taken}} = \\frac{v - u}{\\Delta t}$.\n$a_{avg} = \\frac{5.0\\,\\text{m/s} - 0\\,\\text{m/s}}{2.0\\,\\text{s}} = \\frac{5.0}{2.0}\\,\\text{m/s}^2 = 2.5\\,\\text{m/s}^2$.\nSince motion is in one direction, average acceleration's magnitude is simply $2.5\\,\\text{m/s}^2$."
+  },
+  {
+    "id": "q_exe_013",
+    "sub_concept": "Kinematics with Constant Acceleration",
+    "difficulty_level": 0.3,
+    "question_text": "An object having a velocity 4.0 m/s is accelerated at the rate of 1.2 m/s$^2$ for 5.0 s. Find the distance travelled during the period of acceleration.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial velocity $u = 4.0\\,\\text{m/s}$.\nAcceleration $a = 1.2\\,\\text{m/s}^2$.\nTime $t = 5.0\\,\\text{s}$.\n\nUsing the kinematic equation for distance travelled:\n$s = ut + \\frac{1}{2}at^2$\n$s = (4.0\\,\\text{m/s})(5.0\\,\\text{s}) + \\frac{1}{2}(1.2\\,\\text{m/s}^2)(5.0\\,\\text{s})^2$\n$s = 20.0\\,\\text{m} + \\frac{1}{2}(1.2)(25.0)\\,\\text{m}$\n$s = 20.0\\,\\text{m} + 0.6 \\times 25.0\\,\\text{m}$\n$s = 20.0\\,\\text{m} + 15.0\\,\\text{m}$\n$s = 35.0\\,\\text{m}$."
+  },
+  {
+    "id": "q_exe_014",
+    "sub_concept": "Kinematics with Constant Acceleration",
+    "difficulty_level": 0.3,
+    "question_text": "A person travelling at 43.2 km/h applies the brake giving a deceleration of 6.0 m/s$^2$ to his scooter. How far will it travel before stopping?",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial velocity $u = 43.2\\,\\text{km/h}$.\nDeceleration $a = -6.0\\,\\text{m/s}^2$.\nFinal velocity $v = 0$ (before stopping).\n\nFirst, convert the initial velocity from km/h to m/s:\n$u = 43.2\\,\\text{km/h} \\times \\frac{1000\\,\\text{m}}{1\\,\\text{km}} \\times \\frac{1\\,\\text{h}}{3600\\,\\text{s}} = 43.2 \\times \\frac{5}{18}\\,\\text{m/s} = 2.4 \\times 5\\,\\text{m/s} = 12.0\\,\\text{m/s}$.\n\nUsing the kinematic equation $v^2 = u^2 + 2as$:\n$0^2 = (12.0\\,\\text{m/s})^2 + 2(-6.0\\,\\text{m/s}^2)s$\n$0 = 144 - 12s$\n$12s = 144$\n$s = \\frac{144}{12}\\,\\text{m} = 12\\,\\text{m}$."
+  },
+  {
+    "id": "q_exe_015",
+    "sub_concept": "Multi-Phase Kinematics with Constant Acceleration",
+    "difficulty_level": 0.5,
+    "question_text": "A train starts from rest and moves with a constant acceleration of 2.0 m/s$^2$ for half a minute. The brakes are then applied and the train comes to rest in one minute. Find (a) the total distance moved by the train, (b) the maximum speed attained by the train and (c) the position(s) of the train at half the maximum speed.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Let's break the motion into two phases:\n\n**Phase 1: Acceleration**\nInitial velocity $u_1 = 0$ (starts from rest).\nAcceleration $a_1 = 2.0\\,\\text{m/s}^2$.\nTime $t_1 = 0.5\\,\\text{minute} = 30\\,\\text{s}$.\n\nFinal velocity at the end of Phase 1 (maximum speed): $v_{max} = u_1 + a_1t_1 = 0 + (2.0\\,\\text{m/s}^2)(30\\,\\text{s}) = 60\\,\\text{m/s}$.\nDistance covered in Phase 1: $s_1 = u_1t_1 + \\frac{1}{2}a_1t_1^2 = 0 + \\frac{1}{2}(2.0\\,\\text{m/s}^2)(30\\,\\text{s})^2 = 1 \\times 900\\,\\text{m} = 900\\,\\text{m}$.\n\n**Phase 2: Deceleration**\nInitial velocity $u_2 = v_{max} = 60\\,\\text{m/s}$.\nFinal velocity $v_2 = 0$ (comes to rest).\nTime $t_2 = 1\\,\\text{minute} = 60\\,\\text{s}$.\n\nAcceleration during Phase 2 (deceleration): $a_2 = \\frac{v_2 - u_2}{t_2} = \\frac{0 - 60\\,\\text{m/s}}{60\\,\\text{s}} = -1.0\\,\\text{m/s}^2$.\nDistance covered in Phase 2: $s_2 = u_2t_2 + \\frac{1}{2}a_2t_2^2 = (60\\,\\text{m/s})(60\\,\\text{s}) + \\frac{1}{2}(-1.0\\,\\text{m/s}^2)(60\\,\\text{s})^2 = 3600\\,\\text{m} - \\frac{1}{2}(1.0)(3600)\\,\\text{m} = 3600\\,\\text{m} - 1800\\,\\text{m} = 1800\\,\\text{m}$.\n\n(a) Total distance moved by the train:\nTotal distance $S = s_1 + s_2 = 900\\,\\text{m} + 1800\\,\\text{m} = 2700\\,\\text{m} = 2.7\\,\\text{km}$.\n\n(b) Maximum speed attained by the train:\nMaximum speed $v_{max} = 60\\,\\text{m/s}$.\n\n(c) Position(s) of the train at half the maximum speed:\nHalf the maximum speed $v_{half} = \\frac{60\\,\\text{m/s}}{2} = 30\\,\\text{m/s}$.\n\n**During Phase 1 (acceleration):**\nWe want to find time $t'$ when speed is $30\\,\\text{m/s}$:\n$v_{half} = u_1 + a_1t' \\implies 30\\,\\text{m/s} = 0 + (2.0\\,\\text{m/s}^2)t' \\implies t' = 15\\,\\text{s}$.\nPosition at this time: $s' = u_1t' + \\frac{1}{2}a_1(t')^2 = 0 + \\frac{1}{2}(2.0\\,\\text{m/s}^2)(15\\,\\text{s})^2 = 225\\,\\text{m}$.\n\n**During Phase 2 (deceleration):**\nThe train is moving from $60\\,\\text{m/s}$ down to $0\\,\\text{m/s}$. It passes $30\\,\\text{m/s}$ again.\nLet $t''$ be the time from the start of Phase 2 when the speed is $30\\,\\text{m/s}$.\n$v_{half} = u_2 + a_2t'' \\implies 30\\,\\text{m/s} = 60\\,\\text{m/s} + (-1.0\\,\\text{m/s}^2)t'' \\implies -30\\,\\text{m/s} = -1.0\\,\\text{m/s}^2 t'' \\implies t'' = 30\\,\\text{s}$.\nDistance covered during this part of Phase 2: $s'' = u_2t'' + \\frac{1}{2}a_2(t'')^2 = (60\\,\\text{m/s})(30\\,\\text{s}) + \\frac{1}{2}(-1.0\\,\\text{m/s}^2)(30\\,\\text{s})^2 = 1800\\,\\text{m} - 450\\,\\text{m} = 1350\\,\\text{m}$.\nPosition from the start of motion: $s_1 + s'' = 900\\,\\text{m} + 1350\\,\\text{m} = 2250\\,\\text{m} = 2.25\\,\\text{km}$.\n\nSo, the positions at half the maximum speed are $225\\,\\text{m}$ and $2250\\,\\text{m}$ from the start."
+  },
+  {
+    "id": "q_exe_016",
+    "sub_concept": "Kinematics with Constant Deceleration",
+    "difficulty_level": 0.3,
+    "question_text": "A bullet travelling with a velocity of 16 m/s penetrates a tree trunk and comes to rest in 0.4 m. Find the time taken during the retardation.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial velocity $u = 16\\,\\text{m/s}$.\nFinal velocity $v = 0$ (comes to rest).\nDistance $s = 0.4\\,\\text{m}$.\n\nFirst, find the acceleration (retardation) using $v^2 = u^2 + 2as$:\n$0^2 = (16\\,\\text{m/s})^2 + 2a(0.4\\,\\text{m})$\n$0 = 256 + 0.8a$\n$0.8a = -256$\n$a = -\\frac{256}{0.8}\\,\\text{m/s}^2 = -320\\,\\text{m/s}^2$.\n\nNow, find the time taken using $v = u + at$:\n$0 = 16\\,\\text{m/s} + (-320\\,\\text{m/s}^2)t$\n$320t = 16$\n$t = \\frac{16}{320}\\,\\text{s} = \\frac{1}{20}\\,\\text{s} = 0.05\\,\\text{s}$."
+  },
+  {
+    "id": "q_exe_017",
+    "sub_concept": "Kinematics with Constant Deceleration",
+    "difficulty_level": 0.3,
+    "question_text": "A bullet going with speed 350 m/s enters a concrete wall and penetrates a distance of 5.0 cm before coming to rest. Find the deceleration.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial velocity $u = 350\\,\\text{m/s}$.\nFinal velocity $v = 0$ (comes to rest).\nDistance $s = 5.0\\,\\text{cm} = 0.05\\,\\text{m}$.\n\nUsing the kinematic equation $v^2 = u^2 + 2as$:\n$0^2 = (350\\,\\text{m/s})^2 + 2a(0.05\\,\\text{m})$\n$0 = 122500 + 0.1a$\n$0.1a = -122500$\n$a = -\\frac{122500}{0.1}\\,\\text{m/s}^2 = -1225000\\,\\text{m/s}^2$.\nDeceleration is the magnitude of acceleration, so Deceleration $= 1.225 \\times 10^6\\,\\text{m/s}^2$."
+  },
+  {
+    "id": "q_exe_018",
+    "sub_concept": "Average Velocity and Distance with Constant Acceleration",
+    "difficulty_level": 0.3,
+    "question_text": "A particle starting from rest moves with constant acceleration. If it takes 5.0s to reach the speed 18.0 km/h find (a) the average velocity during this period, and (b) the distance travelled by the particle during this period.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial velocity $u = 0$ (starts from rest).\nFinal speed $v = 18.0\\,\\text{km/h}$. Convert to m/s: $v = 18.0 \\times \\frac{5}{18}\\,\\text{m/s} = 5.0\\,\\text{m/s}$.\nTime $t = 5.0\\,\\text{s}$.\n\n(a) Average velocity during this period:\nFor constant acceleration, average velocity is the arithmetic mean of initial and final velocities.\n$v_{avg} = \\frac{u + v}{2} = \\frac{0 + 5.0\\,\\text{m/s}}{2} = 2.5\\,\\text{m/s}$.\n\n(b) Distance travelled by the particle during this period:\nDistance $s = v_{avg} \\times t = (2.5\\,\\text{m/s})(5.0\\,\\text{s}) = 12.5\\,\\text{m}$."
+  },
+  {
+    "id": "q_exe_019",
+    "sub_concept": "Kinematics with Reaction Time and Braking",
+    "difficulty_level": 0.4,
+    "question_text": "A driver takes 0.20 s to apply the brakes after he sees a need for it. This is called the reaction time of the driver. If he is driving a car at a speed of 54 km/h and the brakes cause a deceleration of 6.0 m/s$^2$, find the distance travelled by the car after he sees the need to put the brakes on.",
+    "options": [],
+    "correct_option_index": -1,
+    "solution_logic": "Given:\nInitial speed $u = 54\\,\\text{km/h}$. Convert to m/s: $u = 54 \\times \\frac{5}{18}\\,\\text{m/s} = 15\\,\\text{m/s}$.\nReaction time $t_{reaction} = 0.20\\,\\text{s}$.\nDeceleration $a = -6.0\\,\\text{m/s}^2$ (during braking).\nFinal velocity $v = 0$ (after braking).\n\nThe total distance travelled consists of two parts:\n1.  Distance travelled during reaction time ($s_r$): During this time, the car moves at a constant speed $u$.\n    $s_r = u \\times t_{reaction} = (15\\,\\text{m/s})(0.20\\,\\text{s}) = 3.0\\,\\text{m}$.\n2.  Distance travelled during braking ($s_b$): The car decelerates from $u$ to $0$.\n    Using $v^2 = u^2 + 2as_b$:\n    $0^2 = (15\\,\\text{m/s})^2 + 2(-6.0\\,\\text{m/s}^2)s_b$\n    $0 = 225 - 12s_b$\n    $12s_b = 225$\n    $s_b = \\frac{225}{12}\\,\\text{m} = 18.75\\,\\text{m}$.\n\nTotal distance travelled after seeing the need to brake $S_{total} = s_r + s_b = 3.0\\,\\text{m} + 18.75\\,\\text{m} = 21.75\\,\\text{m}$.\nRounding to two significant figures, $S_{total} \\approx 22\\,\\text{m}$."
+  },
+  {

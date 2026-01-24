@@ -1,0 +1,29 @@
+[
+  {
+    "id": "q001",
+    "sub_concept": "Average Speed",
+    "difficulty_level": 0.3,
+    "question_text": "A car travels the first half of a total distance at 30 km/h and the second half at 60 km/h. What is the average speed for the entire journey?",
+    "options": ["45 km/h", "40 km/h", "50 km/h", "35 km/h"],
+    "correct_option_index": 1,
+    "solution_logic": "Average speed for equal distances is the harmonic mean: 2*v1*v2 / (v1+v2). (2*30*60)/(30+60) = 3600/90 = 40."
+  },
+  {
+    "id": "q002",
+    "sub_concept": "Projectile Motion",
+    "difficulty_level": 0.5,
+    "question_text": "A ball is thrown at an angle of 45 degrees with a speed of 20 m/s. What is the maximum height reached? (Take g=10 m/s^2)",
+    "options": ["10 m", "20 m", "15 m", "5 m"],
+    "correct_option_index": 0,
+    "solution_logic": "H = (u^2 * sin^2(theta)) / 2g. u=20, theta=45. sin(45)=1/sqrt(2). sin^2(45)=0.5. H = (400 * 0.5) / 20 = 200/20 = 10."
+  },
+  {
+    "id": "q003",
+    "sub_concept": "Equations of Motion",
+    "difficulty_level": 0.2,
+    "question_text": "A body starts from rest and accelerates at 2 m/s^2 for 10 seconds. What is the final velocity?",
+    "options": ["10 m/s", "15 m/s", "20 m/s", "25 m/s"],
+    "correct_option_index": 2,
+    "solution_logic": "v = u + at. u=0, a=2, t=10. v = 0 + 2*10 = 20."
+  }
+]

@@ -1,86 +1,71 @@
-import re
-import logging
+import os
 from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.language_models import BaseChatModel
+from langchain_google_genai import ChatGoogleGenerativeAI
+from dotenv import load_dotenv
 
-logger = logging.getLogger(__name__)
+load_dotenv()
 
-def _parse_severity(response: str) -> int:
-    try:
-        match =re.search(r"Severity Level:\s*(\d)", response, re.IGNORECASE)
-        if match:
-            score = int(match.group(1))
-            return max(1, min(5, score))
-    except Exception as e:
-        logger.error(f"Error parsing severity level: {e}")
-    return 3
+def get_scoring_llm():
+    api_key = os.getenv("GEMINI_API_KEY")
+    return ChatGoogleGenerativeAI(
+        model="gemini-2.5-flash",
+        temperature=0.0, # Low temperature for consistent, logical scoring
+        google_api_key=api_key
+    )
 
-def get_ai_score(question_data: dict, llm: BaseChatModel) -> int:
-
-    is_correct = question_data.get('is_correct', False)
-
-    if is_correct:
-        return 0
+def analyze_severity(question_text, correct_answer, user_wrong_answer, solution_logic):
+    """
+    Analyzes a wrong answer and assigns a severity score (1-5).
+    """
     
-    explanation = question_data.get('solution_logic', 'No explanation provided.')
-    options_list = question_data.get('options', [])
-
-    try:
-        user_idx = question_data.get('user_selected_option_index', -1)
-        correct_idx = question_data.get('correct_option_index', -1)
-        user_option_text = options_list[user_idx] if 0 <= user_idx < len(options_list) else "Unknown"
-        correct_option_text = options_list[correct_idx] if 0 <= correct_idx < len(options_list) else "Unknown"
-        all_options_str = ", ".join(options_list)
-    except Exception as e:
-        logger.warning(f"Error retrieving options: {e}")
-        return 3
-
     template = """
-        You are an expert JEE Physics Tutor. A student answered a question incorrectly.
+    You are an expert Physics Examiner. A student answered a question incorrectly.
+    Your job is to determine the SEVERITY of the error on a scale of 1 to 5.
 
-        THE QUESTION:
-        {question_text}
-        
-        OPTIONS:
-        {options}
-        
-        STUDENT'S ANSWER:
-        {user_option}
-        
-        CORRECT ANSWER:
-        {correct_option}
-        
-        SOLUTION LOGIC:
-        {explanation}
+    QUESTION: {question}
+    CORRECT ANSWER: {correct_answer}
+    STUDENT'S WRONG ANSWER: {user_answer}
+    SOLUTION LOGIC: {logic}
 
-        YOUR TASK:
-        Analyze the specific mistake.
-        - If it's a calculation error or a "silly mistake" (right concept, wrong math), severity is low (1-2).
-        - If it's a distractor that suggests a common misconception, severity is medium (3).
-        - If the answer suggests a fundamental gap in the core concept (physics logic is wrong), severity is high (4-5).
+    SEVERITY SCALE:
+    1 = Silly calculation error or typo. Concept is clearly understood.
+    2 = Minor recall error (e.g., forgot a constant).
+    3 = Moderate error. Used correct formula but wrong values/assumptions.
+    4 = Significant conceptual gap. Wrong formula or approach.
+    5 = Complete misunderstanding. Guesswork or unrelated answer.
 
-        OUTPUT FORMAT:
-        Only output the severity level in the format below. Do not add bolding or markdown.
-        Severity Level: <1 to 5>
+    TASK:
+    Output ONLY a single integer (1-5) representing the severity.
     """
 
     prompt = ChatPromptTemplate.from_template(template)
+    llm = get_scoring_llm()
+    chain = prompt | llm
 
+    # We invoke the chain
+    response = chain.invoke({
+        "question": question_text,
+        "correct_answer": correct_answer,
+        "user_answer": user_wrong_answer,
+        "logic": solution_logic
+    })
+
+    # Clean up the response to ensure we just get the number
     try:
-        chain = prompt | llm
-        response = chain.invoke(
-            {
-                "question_text": question_data.get('question_text', 'No question text provided.'),
-                "options": all_options_str,
-                "user_option": user_option_text,
-                "correct_option": correct_option_text,
-                "explanation": explanation
-            }
-        )
+        score = int(response.content.strip())
+        return score
+    except ValueError:
+        return 3 # Default to medium severity if LLM output is weird
 
-        content = response.content if hasattr(response, 'content') else str(response)
-        return _parse_severity(content)
-    except Exception as e:
-        logger.error(f"Error during AI scoring: {e}")
-        return 3
+if __name__ == "__main__":
+    # --- TEST CASE ---
+    q = "What is the unit of Force?"
+    correct = "Newton"
+    
+    # Test 1: Silly mistake
+    wrong_1 = "Newtons" 
+    print(f"Answer: '{wrong_1}' -> Severity: {analyze_severity(q, correct, wrong_1, 'Standard SI unit')}")
 
+    # Test 2: Conceptual mistake
+    wrong_2 = "Joules"
+    print(f"Answer: '{wrong_2}' -> Severity: {analyze_severity(q, correct, wrong_2, 'Standard SI unit')}")
