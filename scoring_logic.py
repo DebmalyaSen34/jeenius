@@ -52,7 +52,7 @@ def analyze_severity(question_text, correct_answer, user_wrong_answer, solution_
 
     # Clean up the response to ensure we just get the number
     try:
-        score = int(response.content.strip())
+        score = int(str(response.content.strip()))
         return score
     except ValueError:
         return 3 # Default to medium severity if LLM output is weird

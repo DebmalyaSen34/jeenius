@@ -1,0 +1,98 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.start-screen h1 { font-size: 3rem; margin-bottom: 0.5rem; }
+.primary-btn {
+  background-color: #646cff;
+  color: white;
+  padding: 1em 2em;
+  border-radius: 8px;
+  border: none;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.primary-btn:hover { background-color: #535bf2; }
+
+.question-card {
+  background: #1a1a1a;
+  padding: 2rem;
+  border-radius: 16px;
+  width: 100%;
+  max-width: 600px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  text-align: left;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 1rem;
+}
+
+.badge {
+  background: #333;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: #aaa;
+}
+
+.question-text { font-size: 1.3em; margin: 1.5rem 0; line-height: 1.5; }
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.option-btn {
+  background: #2a2a2a;
+  border: 1px solid #444;
+  padding: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  font-size: 1em;
+  transition: all 0.2s;
+}
+.option-btn:hover:not(:disabled) { background: #3a3a3a; border-color: #646cff; }
+.option-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.feedback {
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  white-space: pre-wrap; /* Preserves formatting */
+  text-align: left;
+}
+.feedback.success { background: rgba(46, 204, 113, 0.2); border: 1px solid #2ecc71; }
+.feedback.error { background: rgba(231, 76, 60, 0.2); border: 1px solid #e74c3c; }
+
+.next-btn {
+  margin-top: 1rem;
+  width: 100%;
+  padding: 1rem;
+  background: #646cff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.error-box { color: #ff6b6b; margin-bottom: 1rem; }

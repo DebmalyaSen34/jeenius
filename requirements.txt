@@ -3,3 +3,6 @@ google-generativeai
 langchain-huggingface
 langchain-google-genai
 faiss-cpu
+fastapi
+uvicorn
+pydantic
