@@ -1,9 +1,10 @@
+/* --- General Layout & Theme --- */
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 }
 
 .container {
@@ -27,38 +28,41 @@
 }
 .primary-btn:hover { background-color: #535bf2; }
 
+/* --- Question Card & Header --- */
 .question-card {
-  background: #1a1a1a;
+  background: #1e1e1e;
   padding: 2rem;
   border-radius: 16px;
   width: 100%;
-  max-width: 600px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+  max-width: 750px;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.4);
   text-align: left;
+  border: 1px solid #333;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  max-width: 600px;
+  max-width: 750px;
   margin-bottom: 1rem;
 }
 
 .badge {
   background: #333;
-  padding: 5px 10px;
-  border-radius: 4px;
+  padding: 6px 12px;
+  border-radius: 6px;
   font-size: 0.9em;
   color: #aaa;
 }
 
-.question-text { font-size: 1.3em; margin: 1.5rem 0; line-height: 1.5; }
+.question-text { font-size: 1.4em; margin: 1.5rem 0; line-height: 1.6; }
 
+/* --- Options Grid & Buttons --- */
 .options-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
 }
 
 .option-btn {
@@ -69,23 +73,79 @@
   cursor: pointer;
   color: white;
   font-size: 1em;
-  transition: all 0.2s;
-}
-.option-btn:hover:not(:disabled) { background: #3a3a3a; border-color: #646cff; }
-.option-btn:disabled { opacity: 0.5; cursor: not-allowed; }
-
-.feedback {
-  margin: 1rem 0;
-  padding: 1rem;
-  border-radius: 8px;
-  white-space: pre-wrap; /* Preserves formatting */
+  transition: all 0.2s ease-in-out;
   text-align: left;
+  width: 100%;
 }
-.feedback.success { background: rgba(46, 204, 113, 0.2); border: 1px solid #2ecc71; }
-.feedback.error { background: rgba(231, 76, 60, 0.2); border: 1px solid #e74c3c; }
+.option-btn:hover:not(:disabled) { background: #3a3a3a; border-color: #646cff; transform: translateY(-2px); }
+.option-btn:disabled { opacity: 0.8; cursor: not-allowed; }
+
+.option-btn.correct {
+  background-color: #27ae60;
+  border-color: #2ecc71;
+  color: white;
+  transform: scale(1.02);
+}
+.option-btn.incorrect {
+  background-color: #c0392b;
+  border-color: #e74c3c;
+  color: white;
+}
+
+/* --- NEW: Markdown & Feedback Styling --- */
+.feedback-container {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 8px;
+  text-align: left;
+  background: rgba(40, 40, 40, 0.5); 
+  border: 1px solid #444;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+/* Remove default margins from markdown elements */
+.markdown-p, .markdown-h3, .markdown-ul {
+  margin-top: 0;
+  margin-bottom: 0.75em;
+}
+.markdown-h3 {
+  font-size: 1.1em;
+  color: #aaa;
+  border-bottom: 1px solid #444;
+  padding-bottom: 0.5em;
+}
+.markdown-ul {
+  padding-left: 20px;
+}
+.markdown-li {
+  margin-bottom: 0.5em;
+}
+/* Ensure paragraphs inside buttons are centered */
+.option-btn .markdown-p {
+  text-align: left;
+  margin: 0;
+}
+.question-text .markdown-p {
+  margin: 0;
+}
+
+.loading-text {
+  display: flex;
+  align-items: center;
+  font-style: italic;
+  color: #aaa;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.7; }
+  50% { opacity: 1; }
+  100% { opacity: 0.7; }
+}
 
 .next-btn {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   width: 100%;
   padding: 1rem;
   background: #646cff;
@@ -93,6 +153,7 @@
   border: none;
   border-radius: 8px;
   cursor: pointer;
+  font-size: 1.1em;
 }
 
 .error-box { color: #ff6b6b; margin-bottom: 1rem; }

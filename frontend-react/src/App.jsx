@@ -1,119 +1,152 @@
-import { useState } from 'react'
-import axios from 'axios'
-import './App.css'
+import { useState, useEffect } from 'react';
+import axios from 'axios';
+import { InlineMath, BlockMath } from 'react-katex';
+import ReactMarkdown from 'react-markdown';
+import remarkMath from 'remark-math';
+import 'katex/dist/katex.min.css';
+import './App.css';
 
-// The URL of your Python Backend
 const API_URL = "http://127.0.0.1:8000";
 
+// --- NEW: The "Smart" Renderer ---
+// This component understands both Markdown and LaTeX.
+function MarkdownRenderer({ text }) {
+  if (!text) return null;
+  return (
+    <ReactMarkdown
+      remarkPlugins={[remarkMath]}
+      components={{
+        // This tells the renderer how to display math
+        'p': ({ children }) => <p className="markdown-p">{children}</p>,
+        'h3': ({ children }) => <h3 className="markdown-h3">{children}</h3>,
+        'ul': ({ children }) => <ul className="markdown-ul">{children}</ul>,
+        'li': ({ children }) => <li className="markdown-li">{children}</li>,
+        'code': ({node, inline, className, children, ...props}) => {
+           const match = /language-(\w+)/.exec(className || '')
+           if (!inline && match) {
+             // This is for code blocks, not relevant for us but good practice
+             return <code className={className} {...props}>{children}</code>
+           }
+           // This is for inline math ($...$)
+           return <InlineMath math={String(children)} />
+        }
+      }}
+    >
+      {text}
+    </ReactMarkdown>
+  );
+}
+
+// --- Dynamic Loading Component (Unchanged) ---
+function FeedbackLoader({ concept }) {
+  const [message, setMessage] = useState("🤖 Analyzing your mistake...");
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setMessage(`Hmm, looks like a slip-up in "${concept}". Checking the knowledge base...`);
+    }, 2500);
+    return () => clearTimeout(timer);
+  }, [concept]);
+  return <div className="loading-text">{message}</div>;
+}
+
 function App() {
-  // State Variables (The "Memory" of the frontend)
+  const [gameState, setGameState] = useState('start');
   const [question, setQuestion] = useState(null);
   const [score, setScore] = useState(0);
-  const [loading, setLoading] = useState(false);
-  const [feedback, setFeedback] = useState(null);
-  const [quizEnded, setQuizEnded] = useState(false);
   const [error, setError] = useState(null);
+  const [answerResult, setAnswerResult] = useState(null);
+  const [nextQuestionData, setNextQuestionData] = useState(null);
 
-  // Function to Start the Quiz
   const startQuiz = async () => {
-    setLoading(true);
+    setGameState('loading');
     setError(null);
+    setAnswerResult(null);
+    setNextQuestionData(null);
     try {
       const response = await axios.post(`${API_URL}/start`);
       setQuestion(response.data);
       setScore(0);
-      setFeedback(null);
-      setQuizEnded(false);
+      setGameState('quiz');
     } catch (err) {
-      console.error(err);
-      setError("Could not connect to backend. Is Python running?");
+      setError("Could not connect to backend. Is the Python server running?");
+      setGameState('start');
     }
-    setLoading(false);
   };
 
-  // Function to Submit an Answer
-  const submitAnswer = async (index) => {
-    setLoading(true);
-    setFeedback(null); // Clear old feedback
-    
+  const submitAnswer = async (selectedIndex) => {
+    const correctIndex = question.correct_option_index;
+    const isCorrect = selectedIndex === correctIndex;
+
+    setAnswerResult({
+      isCorrect,
+      correctIndex,
+      selectedIndex,
+      isLoading: !isCorrect,
+      aiExplanation: null
+    });
+
+    if (isCorrect) {
+      setScore(prev => prev + 1);
+    }
+
     try {
       const payload = {
         question_id: question.id,
-        selected_option_index: index
+        selected_option_index: selectedIndex
       };
-
       const response = await axios.post(`${API_URL}/submit`, payload);
       const data = response.data;
 
-      // 1. Handle Scoring
-      if (data.is_correct) {
-        setScore(prev => prev + 1);
-      }
-
-      // 2. Handle Feedback (If wrong)
-      if (!data.is_correct) {
-        // If there is an AI explanation, show it. Otherwise show generic message.
-        const msg = data.ai_explanation 
-          ? data.ai_explanation 
-          : `Incorrect. The correct answer was: ${data.correct_answer_text}`;
-        setFeedback({ type: 'error', message: msg });
-      } else {
-        setFeedback({ type: 'success', message: "Correct! Great job." });
-      }
-
-      // 3. Wait a moment, then move to next question
-      // If there is a long AI explanation, we wait longer or let user click "Next"
-      // For this v1, let's add a "Next" button logic if there is feedback
-      
       if (data.next_question) {
-        // If it was correct, auto-advance. If wrong, wait for user to read.
-        if (data.is_correct) {
-           setTimeout(() => setQuestion(data.next_question), 1000);
-        } else {
-           // We store the next question in a temp state or just update it immediately
-           // but keep the feedback visible? 
-           // Let's keep it simple: Update question but show feedback above it
-           // Actually, better UX: Show feedback, hide options, show "Next" button.
-           setQuestion({ ...data.next_question, waitingForNext: true });
-        }
-      } else if (data.session_ended) {
-        setQuizEnded(true);
+        setNextQuestionData(data.next_question);
+      } else {
+        // No more questions, prepare to end the session
+        setNextQuestionData(null); 
       }
 
+      if (!isCorrect) {
+        setAnswerResult(prev => ({ ...prev, isLoading: false, aiExplanation: data.ai_explanation }));
+      }
     } catch (err) {
-      setError("Error submitting answer.");
+      setError("Error getting feedback from AI Coach.");
+      if (!isCorrect) {
+        setAnswerResult(prev => ({ ...prev, isLoading: false }));
+      }
     }
-    setLoading(false);
   };
 
-  // --- RENDER HELPERS ---
+  const handleNext = () => {
+    if (nextQuestionData) {
+      setQuestion(nextQuestionData);
+      setNextQuestionData(null);
+      setAnswerResult(null);
+    } else {
+      // If there's no next question, end the game
+      setGameState('ended');
+      setAnswerResult(null); // Clear the result for the end screen
+    }
+  };
 
-  if (loading && !question) return <div className="container">Loading...</div>;
+  // --- RENDER LOGIC ---
 
-  // Screen 1: Start Screen
-  if (!question && !quizEnded) {
+  if (gameState === 'loading') {
+    return <div className="container"><h1>Loading Assessment...</h1></div>;
+  }
+
+  if (gameState === 'start' || gameState === 'ended') {
     return (
       <div className="container start-screen">
-        <h1>🧠 JEE-AI Coach</h1>
+        <h1>{gameState === 'ended' ? '🎉 Session Complete!' : '🧠 JEE-AI Coach'}</h1>
+        {gameState === 'ended' && <h2>Final Score: {score}</h2>}
         <p>Adaptive Physics Assessment powered by GenAI</p>
         {error && <div className="error-box">{error}</div>}
-        <button onClick={startQuiz} className="primary-btn">Start Assessment</button>
+        <button onClick={startQuiz} className="primary-btn">
+          {gameState === 'ended' ? 'Try Again' : 'Start Assessment'}
+        </button>
       </div>
     );
   }
 
-  // Screen 2: Quiz Ended
-  if (quizEnded) {
-    return (
-      <div className="container result-screen">
-        <h1>🎉 Session Complete!</h1>
-        <h2>Final Score: {score}</h2>
-        <button onClick={startQuiz} className="primary-btn">Try Again</button>
-      </div>
-    );
-  }
-
-  // Screen 3: Question Card
   return (
     <div className="container">
       <div className="header">
@@ -123,49 +156,52 @@ function App() {
 
       <div className="question-card">
         <h3>{question.sub_concept}</h3>
-        <p className="question-text">{question.question_text}</p>
-
-        {/* Feedback Area */}
-        {feedback && (
-            <div className={`feedback ${feedback.type}`}>
-                {/* Render markdown-like text simply for now */}
-                <pre>{feedback.message}</pre>
-            </div>
-        )}
-
-        <div className="options-grid">
-          {question.options.map((opt, idx) => (
-            <button 
-              key={idx} 
-              onClick={() => submitAnswer(idx)}
-              disabled={loading || question.waitingForNext}
-              className="option-btn"
-            >
-              {opt}
-            </button>
-          ))}
+        {/* Use the new MarkdownRenderer for the question text */}
+        <div className="question-text">
+          <MarkdownRenderer text={question.question_text} />
         </div>
 
-        {/* If waiting for user to read explanation */}
-        {question.waitingForNext && (
-            <button 
-                className="next-btn" 
-                onClick={() => {
-                    setQuestion({...question, waitingForNext: false}); // This is a hack for v1
-                    // In reality, we should have stored the 'real' next question in a separate state
-                    // For now, just clicking the option again will trigger the next logic if we aren't careful.
-                    // Let's just restart for simplicity in v1 or fix the logic.
-                    // FIX: The backend sent the next question. We need to render it.
-                    // Since I updated 'question' with 'next_question' data in submitAnswer,
-                    // removing 'waitingForNext' will show the NEW options.
-                }}
-            >
-                Next Question 👉
-            </button>
+        <div className="options-grid">
+          {question.options.map((opt, idx) => {
+            let buttonClass = 'option-btn';
+            if (answerResult) {
+              if (idx === answerResult.correctIndex) buttonClass += ' correct';
+              else if (idx === answerResult.selectedIndex) buttonClass += ' incorrect';
+            }
+            return (
+              <button 
+                key={idx} 
+                onClick={() => submitAnswer(idx)}
+                disabled={answerResult}
+                className={buttonClass}
+              >
+                {/* Use the renderer for options too! */}
+                <MarkdownRenderer text={opt} />
+              </button>
+            )
+          })}
+        </div>
+
+        {answerResult && (
+          <div className="feedback-container">
+            {answerResult.isLoading ? (
+              <FeedbackLoader concept={question.sub_concept} />
+            ) : answerResult.aiExplanation ? (
+              <MarkdownRenderer text={answerResult.aiExplanation} />
+            ) : (
+              <p>✅ Correct! Well done.</p>
+            )}
+          </div>
+        )}
+        
+        {answerResult && !answerResult.isLoading && (
+          <button className="next-btn" onClick={handleNext}>
+            {nextQuestionData ? 'Next Question 👉' : 'Finish Session'}
+          </button>
         )}
       </div>
     </div>
   )
 }
 
-export default App
+export default App;
