@@ -3,3 +3,4 @@ __pycache__/
 .venv/
 .code-workspace
 .DS_Store
+node_modules/

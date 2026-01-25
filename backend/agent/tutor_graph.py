@@ -1,13 +1,13 @@
 import json
 import random
-import re
 import time
 from datetime import datetime
 from typing import TypedDict, List, Optional, Literal
 from langgraph.graph import StateGraph
+from langgraph.checkpoint.memory import MemorySaver
 
-from genai_tutor import generate_intervention, get_tutor_llm
-from scoring_logic import get_ai_score
+from agent.genai_tutor import generate_intervention, get_tutor_llm
+from agent.scoring_logic import get_ai_score
 
 class TutorState(TypedDict):
     questions_catalog: List[dict]
@@ -26,7 +26,7 @@ class TutorState(TypedDict):
 def load_data_node(state: TutorState):
     print("--- Node: Loading Data ---")
     if not state.get('questions_catalog'):
-        with open('books/hc_verma_kinematics_questions.json', 'r') as f:
+        with open('data/processed/question_bank.json', 'r') as f:
             data = json.load(f)
         return {
             "questions_catalog": data,
@@ -171,9 +171,6 @@ def adjust_difficulty_node(state: TutorState):
     history = state.get('learning_history', [])
     history.append(log_entry)
 
-    with open('student_learning_history.json', 'w') as f:
-        json.dump(history, f, indent=4)
-
     return {
         "difficulty_cursor": new_diff,
         "learning_history": history
@@ -215,4 +212,5 @@ workflow.add_conditional_edges(
 workflow.add_edge("tutor_intervention", "adjust_difficulty")
 workflow.add_edge("adjust_difficulty", "select_question")
 
-app = workflow.compile()
+checkpointer = MemorySaver()
+app = workflow.compile(checkpointer=checkpointer, interrupt_before=["ask_user"])

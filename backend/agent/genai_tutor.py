@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DB_PATH = "faiss_index"
+DB_PATH = "backend/faiss_index"
 
 def get_tutor_llm(model: str, use_google: bool = False):
     
