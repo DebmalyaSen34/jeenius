@@ -1,8 +1,5 @@
 import json
 
-
-# from genai_tutor import generate_intervention
-# from scoring_logic import analyze_severity
 from genai_tutor import generate_intervention
 from scoring_logic import get_ai_score
 from utils.model_init import get_model

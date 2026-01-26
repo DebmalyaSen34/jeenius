@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DB_PATH = "backend/faiss_index"
+DB_PATH = "faiss_index"
 
 def get_tutor_llm(model: str, use_google: bool = False):
     
@@ -74,15 +74,3 @@ def generate_intervention(failed_question_text: str, user_wrong_answer: str):
     })
 
     return response.content
-
-if __name__ == "__main__":
-
-    sample_question = "A car travels half distance at V1 and half distance at V2. What is average velocity?"
-    sample_wrong_answer = "(v1 + v2) / 2"
-
-    result = generate_intervention(sample_question, sample_wrong_answer)
-
-    print("\n" + "="*40)
-    print("GENAI TUTOR INTERVENTION")
-    print("="*40)
-    print(result)

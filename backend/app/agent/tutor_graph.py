@@ -6,8 +6,8 @@ from typing import TypedDict, List, Optional, Literal
 from langgraph.graph import StateGraph
 from langgraph.checkpoint.memory import MemorySaver
 
-from agent.genai_tutor import generate_intervention, get_tutor_llm
-from agent.scoring_logic import get_ai_score
+from app.agent.genai_tutor import generate_intervention, get_tutor_llm
+from app.agent.scoring_logic import get_ai_score
 
 class TutorState(TypedDict):
     questions_catalog: List[dict]
