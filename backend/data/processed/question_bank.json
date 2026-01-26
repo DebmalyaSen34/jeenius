@@ -6,7 +6,6 @@
     "difficulty_level": 0.25,
     "question_text": "A man walks 50 m north, 40 m east and 20 m south. Find (a) total distance and (b) displacement.",
     "options": ["110 m, 30 m", "90 m, 50 m", "110 m, 50 m", "100 m, 40 m"],
-    "tags": [""],
     "correct_option_index": 2,
     "solution_logic": "Distance is scalar sum = 50+40+20. Displacement is vector resultant using Pythagoras."
   },

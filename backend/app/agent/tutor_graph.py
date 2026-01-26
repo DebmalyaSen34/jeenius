@@ -8,6 +8,7 @@ from langgraph.checkpoint.memory import MemorySaver
 
 from app.agent.genai_tutor import generate_intervention, get_tutor_llm
 from app.agent.scoring_logic import get_ai_score
+from app.core.config import settings
 
 class TutorState(TypedDict):
     questions_catalog: List[dict]
@@ -26,7 +27,7 @@ class TutorState(TypedDict):
 def load_data_node(state: TutorState):
     print("--- Node: Loading Data ---")
     if not state.get('questions_catalog'):
-        with open('data/processed/question_bank.json', 'r') as f:
+        with open(settings.question_bank_path, 'r') as f:
             data = json.load(f)
         return {
             "questions_catalog": data,
@@ -41,10 +42,21 @@ def select_question_node(state: TutorState):
     print(f"--- Node: Selecting Question (Difficulty: {state['difficulty_cursor']:.2f}) ---")
     catalog = state['questions_catalog']
     target_diff = state['difficulty_cursor']
+    history = state.get('learning_history', [])
 
-    sorted_q = sorted(catalog, key=lambda x: abs(x['difficulty_level'] - target_diff))
+    asked_ids = {entry['question_id'] for entry in history}
 
-    next_q = random.choice(sorted_q[:3])
+    available_questions = [q for q in catalog if q['id'] not in asked_ids]
+
+    if not available_questions:
+        print("All questions have been asked. Resetting question pool.")
+        available_questions = catalog
+
+    sorted_q = sorted(available_questions, key=lambda x: abs(x['difficulty_level'] - target_diff))
+
+    sample_size = min(3, len(sorted_q))
+
+    next_q = random.choice(sorted_q[:sample_size])
 
     return {
         "current_question": next_q,

@@ -8,6 +8,7 @@ class Settings(BaseSettings):
     database_url: str = "sqlite:///./tutor.db"
     project_name: str = "JEEnius API"
     project_version: str = "1.0.0"
+    question_bank_path: str = "data/processed/question_bank.json"
 
     gemini_api_key: str | None = None
     groq_api_key: str | None = None

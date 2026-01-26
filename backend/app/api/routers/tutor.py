@@ -77,13 +77,16 @@ def submit_answer(req: AnswerRequest, db: Session = Depends(get_db), current_use
 
     for event in events:
         if "tutor_intervention" in event:
-            intervention_text = event["tutor_intervention"]["intervention_text"]
+            print("Tutor Intervention Event:", event["tutor_intervention"])
+            intervention_text = event["tutor_intervention"]["intervention_content"]
 
         if "grade_answer" in event:
             is_correct = event["grade_answer"]["is_correct"]
 
     snapshot = tutor_graph.get_state(config)
     history = snapshot.values.get("learning_history", [])
+
+    print("Learning History to be logged:", history)
 
     if history:
         latest_log = history[-1]
