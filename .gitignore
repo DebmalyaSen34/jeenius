@@ -8,3 +8,11 @@ venv/
 faiss_index/
 
 .vscode/
+
+node_modules/
+
+__pycache__/
+
+.DS_Store
+
+.vscode
