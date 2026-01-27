@@ -120,7 +120,7 @@ def grade_answer_node(state: TutorState):
     q_context['is_correct'] = False
     q_context['user_selected_option_index'] = u_idx
 
-    llm = get_tutor_llm(model="gemini-2.5-flash", use_google=True)
+    llm = get_tutor_llm(model="llama3.1", use_google=False)
     severity_level = get_ai_score(q_context, llm)
 
     print(f">> Assigned Severity Level: {severity_level}")

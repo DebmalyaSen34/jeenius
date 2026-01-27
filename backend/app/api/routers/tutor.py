@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException, Depends
+from fastapi import APIRouter, HTTPException, Depends, Body
 from sqlalchemy.orm import Session
 from app.api.routers.auth import get_current_user
 from app.db.session import get_db
@@ -10,7 +10,7 @@ from app.agent.tutor_graph import app as tutor_graph
 router = APIRouter(prefix="/tutor", tags=["Tutor"])
 
 @router.post("/start", response_model=TutorSessionResponse)
-def start_tutor_session(thread_id: str, current_user: User = Depends(get_current_user)):
+def start_tutor_session(thread_id: str = Body(..., embed=True), current_user: User = Depends(get_current_user)):
     if not thread_id:
         raise HTTPException(
             status_code=400, detail="thread_id is required to start a tutor session"

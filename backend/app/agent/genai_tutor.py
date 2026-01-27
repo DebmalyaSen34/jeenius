@@ -18,8 +18,10 @@ def get_tutor_llm(model: str, use_google: bool = False):
         if not api_key:
             raise ValueError("API key not found in environment variables.")
     
+        print("Using Google Gemini LLM")
         return ChatGoogleGenerativeAI(model=model, temperature=0.3, api_key=api_key)
     
+    print("Using Ollama LLM")
     return ChatOllama(model=model, temperature=0.3)
 
 def generate_intervention(failed_question_text: str, user_wrong_answer: str):
@@ -64,7 +66,7 @@ def generate_intervention(failed_question_text: str, user_wrong_answer: str):
     # What does this chain do?
     # It takes the prompt and combines it with the LLM to generate a response.
     # The | operator is used to chain the prompt with the LLM.
-    chain = prompt | get_tutor_llm(model="gemini-2.5-flash", use_google=True)
+    chain = prompt | get_tutor_llm(model="llama3.1:latest", use_google=False)
 
     print("--- 2. Generating Personal Tutor Response ---")
     response = chain.invoke({
