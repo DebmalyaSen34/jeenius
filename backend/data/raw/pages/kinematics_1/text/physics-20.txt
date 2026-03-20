@@ -1,0 +1,149 @@
+50
+
+13.
+
+Concepts of Physics
+
+(a) due north (b) 30° east of north
+(c) 30° north of west (d) 60° east of north.
+
+In the arrangement shown in figure (3-Q3), the ends P
+and Q of an inextensible string move downwards with
+uniform speed uw. Pulleys A and B are fixed. The mass
+M moves upwards with a speed
+
+(a) 2u cosO (b) u/cosO (c) 2u/cos0 (d) ucos6é.
+
+OBJECTIVE
+
+. Consider the motion of the tip of the minute hand of a
+
+clock. In one hour
+
+(a) the displacement is zero
+(b) the distance covered is zero
+(c) the average speed is zero
+(d) the average velocity is zero
+
+. A particle moves along the X-axis as
+
+x=u(t—2s)+a(t—2s)”.
+(a) the initial velocity of the particle is u
+(b) the acceleration of the particle is a
+(c) the acceleration of the particle is 2a
+(d) at t = 2 s particle is at the origin.
+
+. Pick the correct statements :
+
+(a) Average speed of a particle in a given time is never
+less than the magnitude of the average velocity.
+
+=>
+
+du
+
+dt #0
+
+(b) It is possible to have a situation in which
+
+d >
+but 7, |v | =0.
+
+(c) The average velocity of a particle is zero in a time
+interval. It is possible that the instantaneous velocity is
+never zero in the interval.
+
+(d) The average velocity of a particle moving on a
+straight line is zero in a time interval. It is possible that
+the instantaneous velocity is never zero in the interval.
+(Infinite accelerations are not allowed.)
+
+. An object may have
+
+(a) varying speed without having varying velocity
+(b) varying velocity without having varying speed
+(c) nonzero acceleration without having varying velocity
+(d) nonzero acceleration without having varying speed.
+
+. Mark the correct statements for a particle going on a
+
+straight line :
+
+(a) If the velocity and acceleration have opposite sign,
+the object is slowing down.
+
+(b) If the position and velocity have opposite sign, the
+particle is moving towards the origin.
+
+(c) If the velocity is zero at an instant, the acceleration
+should also be zero at that instant.
+
+(d) If the velocity is zero for a time interval, the
+acceleration is zero at any instant within the time
+interval.
+
+Figure 3-Q3
+
+II
+
+. The velocity of a particle is zero at ¢t = 0.
+
+(a) The acceleration at t = 0 must be zero.
+
+(b) The acceleration at t = 0 may be zero.
+
+(c) If the acceleration is zero from ¢ = 0 to ¢ = 10 s, the
+speed is also zero in this interval.
+
+(d) If the speed is zero from ¢ = 0 to ¢
+acceleration is also zero in this interval.
+
+10s the
+
+- Mark the correct statements :
+
+(a) The magnitude of the velocity of a particle is equal
+to its speed.
+
+(b) The magnitude of average velocity in an interval is
+equal to its average speed in that interval.
+
+(c) It is possible to have a situation in which the speed
+of a particle is always zero but the average speed is not
+zero.
+
+(d) It is possible to have a situation in which the speed
+of the particle is never zero but the average speed in an
+interval is zero.
+
+. The velocity-time plot for a particle moving on a straight
+
+line is shown in the figure (3-Q4).
+
+v (m/s)
+10 NN
+(@) 4 rn
+10 20 30 ‘t(s)
+—10+
+Figure 3-Q4
+
+(a) The particle has a constant acceleration.
+
+(b) The particle has never turned around.
+
+(c) The particle has zero displacement.
+
+(d) The average speed in the interval 0 to 10s is the
+same as the average speed in the interval 10s to 20s.
+
+9. Figure (3-Q5) shows the position of a particle moving on
+
+the X-axis as a function of time.
+
+(a) The particle has come to rest 6 times.
+
+(b) The maximum speed is at ¢ = 6s.
+
+(c) The velocity remains positive for t = 0 tot = 6s.
+(d) The average velocity for the total period shown is
+negative.

@@ -1,0 +1,447 @@
+[
+    {
+        "id": "q_chunk2_001",
+        "topic": "Units",
+        "sub_concept": "Unit conversion",
+        "difficulty_level": 0.3,
+        "question_text": "Young's modulus of steel is 19\u00d710^10 N/m^2. Express it in dyne/cm^2. Here dyne is the CGS unit of force.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "1 N/m^2 = 10 dyne/cm^2. Therefore 19\u00d710^10 N/m^2 = 19\u00d710^11 dyne/cm^2."
+    },
+    {
+        "id": "q_chunk2_002",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Deriving dimensions",
+        "difficulty_level": 0.4,
+        "question_text": "If velocity, time and force were chosen as basic quantities, find the dimensions of mass.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Force = mass \u00d7 acceleration = mass \u00d7 (velocity/time). Thus mass = force \u00d7 time / velocity."
+    },
+    {
+        "id": "q_chunk2_003",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Checking equations",
+        "difficulty_level": 0.3,
+        "question_text": "Test dimensionally if the equation v^2 = u^2 + 2ax may be correct.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "All terms have dimensions L^2 T^-2, so the equation is dimensionally consistent."
+    },
+    {
+        "id": "q_chunk2_004",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Dimensional consistency",
+        "difficulty_level": 0.4,
+        "question_text": "The distance covered by a particle in time t is given by x = a + bt + ct^2 + dt^3; find the dimensions of a, b, c and d.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "x has dimension L. Thus [a]=L, [b] = L T^-1, [c] = L T^-2, [d] = L T^-3."
+    },
+    {
+        "id": "q_chunk2_005",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Force expressions",
+        "difficulty_level": 0.5,
+        "question_text": "If the centripetal force is of the form m^\u03b1 v^b r^c, find the values of \u03b1, b and c.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Force dimension ML^-1 T^-2. Equating exponents gives \u03b1=1, b=2, c=-1."
+    },
+    {
+        "id": "q_chunk2_006",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Drag force",
+        "difficulty_level": 0.5,
+        "question_text": "Assuming that the magnitude of the force F opposing the motion of a solid sphere moving through a liquid depends on the coefficient of viscosity \u03b7, the radius r of the sphere and the speed v of the sphere, guess a formula for F using the method of dimensions.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Dimensional analysis gives F \u221d \u03b7 r v."
+    },
+    {
+        "id": "q_chunk2_007",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Heat generation",
+        "difficulty_level": 0.5,
+        "question_text": "The heat produced in a wire carrying an electric current depends on the current, the resistance and the time. Assuming that the dependence is of the product of powers type, guess an equation between these quantities using dimensional analysis.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Heat H \u221d I^2 R t."
+    },
+    {
+        "id": "q_chunk2_008",
+        "topic": "Conceptual",
+        "sub_concept": "Units and constants",
+        "difficulty_level": 0.4,
+        "question_text": "Suppose you are told that the linear size of everything in the universe has been doubled overnight. Can you test this statement by measuring sizes with a metre stick? Can you test it by using the fact that the speed of light is a universal constant and has not changed? What will happen if all the clocks in the universe also start running at half the speed?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "A metre stick would give the same readings; the constancy of c would not detect a change in scale. If all clocks run at half speed, time measurements would be halved, but the ratio of lengths to time would remain unchanged."
+    },
+    {
+        "id": "q_chunk2_009",
+        "topic": "Conceptual",
+        "sub_concept": "Units vs dimensions",
+        "difficulty_level": 0.4,
+        "question_text": "If all the terms in an equation have same units, is it necessary that they have same dimensions? If all the terms in an equation have same dimensions, is it necessary that they have same units?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Same units imply same dimensions, but same dimensions do not guarantee same units (e.g., N and kg\u00b7m/s^2)."
+    },
+    {
+        "id": "q_chunk2_010",
+        "topic": "Conceptual",
+        "sub_concept": "Physical meaning",
+        "difficulty_level": 0.3,
+        "question_text": "If two quantities have same dimensions, do they represent same physical content?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "No; they can be different physical quantities (e.g., force and pressure)."
+    },
+    {
+        "id": "q_chunk2_011",
+        "topic": "Conceptual",
+        "sub_concept": "Unit standards",
+        "difficulty_level": 0.3,
+        "question_text": "It is desirable that the standards of units be easily available, invariable, indestructible and easily reproducible. If we use foot of a person as a standard unit of length, which of the above features are present and which are not?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Foot of a person is not invariable, not easily reproducible, and can change with growth or measurement error."
+    },
+    {
+        "id": "q_chunk2_012",
+        "topic": "Conceptual",
+        "sub_concept": "Measurement techniques",
+        "difficulty_level": 0.4,
+        "question_text": "Suggest a way to measure: (a) the thickness of a sheet of paper, (b) the distance between the sun and the moon.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "(a) Use a micrometer or interferometry. (b) Use parallax or triangulation with known baseline."
+    },
+    {
+        "id": "q_chunk2_013",
+        "topic": "Conceptual",
+        "sub_concept": "Fundamental quantities",
+        "difficulty_level": 0.4,
+        "question_text": "Which of the following sets cannot enter into the list of fundamental quantities in any system of units? (a) length, mass and velocity, (b) length, time and velocity, (c) mass, time and velocity, (d) length, time and mass.",
+        "options": [
+            "length, mass and velocity",
+            "length, time and velocity",
+            "mass, time and velocity",
+            "length, time and mass"
+        ],
+        "correct_option_index": 0,
+        "solution_logic": "Velocity is derived from length/time, so any set containing velocity cannot be fundamental."
+    },
+    {
+        "id": "q_chunk2_014",
+        "topic": "Conceptual",
+        "sub_concept": "Units and numerical values",
+        "difficulty_level": 0.4,
+        "question_text": "A physical quantity is measured and the result is expressed as nu where u is the unit used and n is the numerical value. If the result is expressed in various units then (a) n << size of u (b) n << u^2 (c) n << << << u (d) n << << 1/u.",
+        "options": [
+            "n << size of u",
+            "n << u^2",
+            "n << << << u",
+            "n << << 1/u"
+        ],
+        "correct_option_index": 3,
+        "solution_logic": "The numerical value is inversely proportional to the unit size: n \u221d 1/u."
+    },
+    {
+        "id": "q_chunk2_016",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Pressure",
+        "difficulty_level": 0.3,
+        "question_text": "The dimensions ML^-1 T^-2 may correspond to (a) work done by a force (b) linear momentum (c) pressure (d) energy per unit volume.",
+        "options": [
+            "work done by a force",
+            "linear momentum",
+            "pressure",
+            "energy per unit volume"
+        ],
+        "correct_option_index": 2,
+        "solution_logic": "Pressure = force/area = ML^-1 T^-2."
+    },
+    {
+        "id": "q_chunk2_017",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Equation validity",
+        "difficulty_level": 0.5,
+        "question_text": "Choose the correct statement(s) : (a) A dimensionally correct equation may be correct. (b) A dimensionally correct equation may be incorrect. (c) A dimensionally incorrect equation may be correct. (d) A dimensionally incorrect equation may be incorrect.",
+        "options": [
+            "A dimensionally correct equation may be correct.",
+            "A dimensionally correct equation may be incorrect.",
+            "A dimensionally incorrect equation may be correct.",
+            "A dimensionally incorrect equation may be incorrect."
+        ],
+        "correct_option_index": null,
+        "solution_logic": "Both (a) and (b) are true; (c) and (d) are false."
+    },
+    {
+        "id": "q_chunk2_018",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Basic quantities",
+        "difficulty_level": 0.3,
+        "question_text": "Find the dimensions of (a) linear momentum, (b) frequency and (c) pressure.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Linear momentum: ML T^-1; Frequency: T^-1; Pressure: ML^-1 T^-2."
+    },
+    {
+        "id": "q_chunk2_019",
+        "topic": "Conceptual",
+        "sub_concept": "Physical meaning",
+        "difficulty_level": 0.3,
+        "question_text": "If two quantities have same dimensions, do they represent same physical content?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "No; different quantities can share dimensions."
+    },
+    {
+        "id": "q_chunk2_020",
+        "topic": "Conceptual",
+        "sub_concept": "Unit standards",
+        "difficulty_level": 0.3,
+        "question_text": "It is desirable that the standards of units be easily available, invariable, indestructible and easily reproducible. If we use foot of a person as a standard unit of length, which of the above features are present and which are not?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Not invariable, not reproducible, not indestructible."
+    },
+    {
+        "id": "q_chunk2_021",
+        "topic": "Conceptual",
+        "sub_concept": "Measurement techniques",
+        "difficulty_level": 0.4,
+        "question_text": "Suggest a way to measure: (a) the thickness of a sheet of paper, (b) the distance between the sun and the moon.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Use a micrometer for paper thickness; use parallax or triangulation for sun\u2013moon distance."
+    },
+    {
+        "id": "q_chunk2_022",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Dimensionless quantities",
+        "difficulty_level": 0.3,
+        "question_text": "A dimensionless quantity (a) never has a unit, (b) always has a unit, (c) may have a unit, (d) does not exist.",
+        "options": [
+            "never has a unit",
+            "always has a unit",
+            "may have a unit",
+            "does not exist"
+        ],
+        "correct_option_index": 0,
+        "solution_logic": "Dimensionless quantities have no unit."
+    },
+    {
+        "id": "q_chunk2_023",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Unitless quantities",
+        "difficulty_level": 0.3,
+        "question_text": "A unitless quantity (a) never has a nonzero dimension, (b) always has a nonzero dimension, (c) may have a nonzero dimension, (d) does not exist.",
+        "options": [
+            "never has a nonzero dimension",
+            "always has a nonzero dimension",
+            "may have a nonzero dimension",
+            "does not exist"
+        ],
+        "correct_option_index": 0,
+        "solution_logic": "Unitless quantities have zero dimension."
+    },
+    {
+        "id": "q_chunk2_024",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Integral dimension",
+        "difficulty_level": 0.4,
+        "question_text": "\u222b dx/\u221a(2ax - x^2) = a^n sin^-1[x/a - 1]. The value of n is (a) 0 (b) -1 (c) 1 (d) none of these. You may use dimensional analysis to solve the problem.",
+        "options": [
+            "0",
+            "-1",
+            "1",
+            "none of these"
+        ],
+        "correct_option_index": 0,
+        "solution_logic": "The integral has dimension of length; the right side has a^n. Thus n = 0."
+    },
+    {
+        "id": "q_chunk2_026",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Rotational dynamics",
+        "difficulty_level": 0.4,
+        "question_text": "Find the dimensions of (a) angular speed \u03c9, (b) angular acceleration \u03b1, (c) torque \u0393 and (d) moment of inertia I. Some of the equations involving these quantities are \u03c9 = \u0394\u03b8/\u0394t, \u03b1 = \u0394\u03c9/\u0394t, \u0393 = F r, I = m r^2.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "\u03c9: T^-1; \u03b1: T^-2; \u0393: M L^2 T^-2; I: M L^2."
+    },
+    {
+        "id": "q_chunk2_027",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Electromagnetism",
+        "difficulty_level": 0.5,
+        "question_text": "Find the dimensions of (a) electric field E, (b) magnetic field B and (c) magnetic permeability \u03bc0. The relevant equations are F = qE, F = qvB, B = \u03bc0 I / (2\u03c0 a).",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "E: M L T^-3 I^-1; B: M L^-1 T^-2 I^-1; \u03bc0: M L T^-2 I^-2."
+    },
+    {
+        "id": "q_chunk2_028",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Dipole moments",
+        "difficulty_level": 0.5,
+        "question_text": "Find the dimensions of (a) electric dipole moment p and (b) magnetic dipole moment M. The defining equations are p = q d and M = I A.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "p: M L T^-1 I; M: M L^2 T^-1 I."
+    },
+    {
+        "id": "q_chunk2_029",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Quantum",
+        "difficulty_level": 0.5,
+        "question_text": "Find the dimensions of Planck's constant h from the equation E = h \u03bd where E is the energy and \u03bd is the frequency.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "h = E/\u03bd \u2192 M L^2 T^-1."
+    },
+    {
+        "id": "q_chunk2_030",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Thermodynamics",
+        "difficulty_level": 0.5,
+        "question_text": "Find the dimensions of (a) specific heat capacity c, (b) coefficient of linear expansion \u03b1 and (c) gas constant R. Some equations involving these quantities are Q = m c (T2 - T1), I_t = l0 [1 + \u03b1 (T2 - T1)], PV = nRT.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "c: L^2 T^-2 M^-1; \u03b1: L^-1; R: L^2 T^-2 M^-1."
+    },
+    {
+        "id": "q_chunk2_031",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Basic quantities",
+        "difficulty_level": 0.4,
+        "question_text": "Taking force, length and time to be the fundamental quantities find the dimensions of (a) density, (b) pressure, (c) momentum and (d) energy.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Density: M L^-3; Pressure: M L^-1 T^-2; Momentum: M L T^-1; Energy: M L^2 T^-2."
+    },
+    {
+        "id": "q_chunk2_032",
+        "topic": "Unit conversion",
+        "sub_concept": "Acceleration units",
+        "difficulty_level": 0.3,
+        "question_text": "Suppose the acceleration due to gravity at a place is 10 m/s^2. Find its value in cm/(minute)^2.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "10 m/s^2 = 10^3 cm / (60 s)^2 \u2248 0.2778 cm/min^2."
+    },
+    {
+        "id": "q_chunk2_033",
+        "topic": "Unit conversion",
+        "sub_concept": "Speed conversion",
+        "difficulty_level": 0.3,
+        "question_text": "The average speed of a snail is 0.020 miles/hour and that of a leopard is 70 miles/hour. Convert these speeds in SI units.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "Snail: 0.020 mi/h \u2248 0.0089 m/s; Leopard: 70 mi/h \u2248 31 m/s."
+    },
+    {
+        "id": "q_chunk2_034",
+        "topic": "Unit conversion",
+        "sub_concept": "Pressure calculation",
+        "difficulty_level": 0.4,
+        "question_text": "The height of mercury column in a barometer in a Calcutta laboratory was recorded to be 75 cm. Calculate this pressure in SI and CGS units using the following data: Specific gravity of mercury = 13.6, Density of water = 10^3 kg/m^3, g=9.8 m/s^2 at Calcutta. Pressure = h p g in usual symbols.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "p = 13.6 \u00d7 10^3 kg/m^3, h = 0.75 m, g = 9.8 m/s^2 \u2192 P \u2248 1.0\u00d710^5 Pa. In CGS: \u2248 1.0\u00d710^6 dyne/cm^2."
+    },
+    {
+        "id": "q_chunk2_035",
+        "topic": "Unit conversion",
+        "sub_concept": "Power units",
+        "difficulty_level": 0.3,
+        "question_text": "Express the power of a 100 watt bulb in CGS unit.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "1 W = 10^7 erg/s, so 100 W = 10^9 erg/s."
+    },
+    {
+        "id": "q_chunk2_036",
+        "topic": "Unit conversion",
+        "sub_concept": "Time conversion",
+        "difficulty_level": 0.3,
+        "question_text": "The normal duration of I.Sc. Physics practical period in Indian colleges is 100 minutes. Express this period in microcenturies. 1 microcentury = 10^-6 \u00d7 100 years. How many microcenturies did you sleep yesterday?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "100 min = 0.0001905 years. 1 microcentury = 10^-4 years. So \u2248 1.905 microcenturies."
+    },
+    {
+        "id": "q_chunk2_037",
+        "topic": "Unit conversion",
+        "sub_concept": "Surface tension units",
+        "difficulty_level": 0.3,
+        "question_text": "The surface tension of water is 72 dyne/cm. Convert it in SI unit.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "1 dyne/cm = 0.001 N/m, so 72 dyne/cm = 0.072 N/m."
+    },
+    {
+        "id": "q_chunk2_038",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Rotational kinetic energy",
+        "difficulty_level": 0.5,
+        "question_text": "The kinetic energy K of a rotating body depends on its moment of inertia I and its angular speed \u03c9. Assuming the relation to be K = k l^a \u03c9^b where k is a dimensionless constant, find a and b. Moment of inertia of a sphere about its diameter is 2/5 M r^2.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "K \u221d I \u03c9^2 \u2192 a = 1, b = 2."
+    },
+    {
+        "id": "q_chunk2_039",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Relativity",
+        "difficulty_level": 0.6,
+        "question_text": "Theory of relativity reveals that mass can be converted into energy. The energy E so obtained is proportional to certain powers of mass m and the speed c of light. Guess a relation among the quantities using the method of dimensions.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "E \u221d m c^2."
+    },
+    {
+        "id": "q_chunk2_040",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Electrical",
+        "difficulty_level": 0.5,
+        "question_text": "Let I = current through a conductor, R = its resistance and V = potential difference across its ends. According to Ohm's law, product of two of these quantities equals the third. Obtain Ohm's law from dimensional analysis. Dimensional formulae for R and V are ML^2 I^-2 T^-3 and ML^2 T^-1 I^-1 respectively.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "V \u221d I R."
+    },
+    {
+        "id": "q_chunk2_041",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Vibrations",
+        "difficulty_level": 0.5,
+        "question_text": "The frequency of vibration of a string depends on the length L between the nodes, the tension F in the string and its mass per unit length m. Guess the expression for its frequency from dimensional analysis.",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "f \u221d sqrt(F/(m L^2))."
+    },
+    {
+        "id": "q_chunk2_042",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Equation validity",
+        "difficulty_level": 0.5,
+        "question_text": "Test if the following equations are dimensionally correct: (a) h = 2 S cos\u03b8 / (\u03c1 r g), (b) v = sqrt(P/\u03c1), (c) V = \u03c0 P r^4 t / (8 \u03b7 l), (d) \u03bd = 1/(2\u03c0) sqrt(m g l / I).",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "All four equations are dimensionally consistent."
+    },
+    {
+        "id": "q_chunk2_043",
+        "topic": "Dimensional Analysis",
+        "sub_concept": "Integral dimension",
+        "difficulty_level": 0.4,
+        "question_text": "Let x and a stand for distance. Is \u222b dx / sqrt(a^2 - x^2) = (1/a) sin^-1(a/x) dimensionally correct?",
+        "options": [],
+        "correct_option_index": null,
+        "solution_logic": "No; the left side has dimension of length, the right side is dimensionless."
+    }
+]

@@ -1,0 +1,132 @@
+40 Concepts of Physics
+
+Y' _
+P
+Y fA
+d/
+S Val S)
+/ d
+7\/
+/ lf
+/ / /
+Vea O X
+“7
+0 Xx
+Figure 3.11
+
+The position vector of the particle P with respect
+to the frame S is rp s = OP. The position vector of the
+
+particle with respect to the frame S' is rp sy = O'P.. The
+position of the frame S’ (the origin of frame S’ in fact)
+with respect to the frame S is OO’.
+
+It is clear that
+OP = OO' + O'P = O'P + OO'
+
+> > >
+
+or, rp s=lps tls s-
+
+(3.26)
+
+The position of the particle with respect to S is
+equal to the position of the particle with respect to
+S' plus the position of S’ with respect to S.
+
+If we differentiate equation (3.26) with respect to
+time, we get
+
+d > d > d >
+ap (TPS) = ay (1P.8) + Ge (s,s)
+
+or, Up gs =Up sg + Ug gs
+
+(3.27)
+
+where Ups is the velocity of the particle with respect
+to S, ups is the velocity of the particle with respect to
+
+S' and Us, s 1s the velocity of the frame S’ with respect
+to S. The velocity of the particle with respect to S is
+equal to the velocity of the particle with respect to
+S' plus the velocity of S’ with respect to S.
+
+It is assumed that the meaning of time is same in
+d
+dt
+same meaning in both the frames. These assumptions
+are not correct if the velocity of one frame with respect
+to the other is so large that it is comparable to
+3x 10° m/s, or if one frame rotates with respect to the
+other. If the frames only translate with respect to each
+other with small velocity, the above assumptions are
+correct.
+
+both the frames. Similarly it is assumed that — has
+
+Equation (3.27) may be rewritten as
+
+Ups = Ups - Us s- (3.28)
+Thus, if the velocities of two bodies (here the particle
+and the frame S’) are known with respect to a common
+frame (here S) we can find the velocity of one body
+
+with respect to the other body. The velocity of body 1
+
+with respect to the body 2 is obtained by subtracting
+the velocity of body 2 from the velocity of body 1.
+
+When we say that the muzzle velocity of a bullet
+is 60 m/s we mean the velocity of the bullet with
+respect to the gun. If the gun is mounted in a train
+moving with a speed of 20 m/s with respect to the
+ground and the bullet is fired in the direction of the
+train’s motion, its velocity with respect to the ground
+will be 80 m/s. Similarly, when we say that a swimmer
+can swim at a speed of 5 km/h we mean the velocity
+of the swimmer with respect to the water. If the water
+itself is flowing at 3 km/h with respect to the ground
+and the swimmer swims in the direction of the current,
+he or she will move at the speed of 8 km/h with respect
+to the ground.
+
+Example 3.10
+
+A swimmer can swim in still water at a rate 4:0 km/h.
+If he swims in a river flowing at 3:0 km/h and keeps his
+direction (with respect to water) perpendicular to the
+current, find his velocity with respect to the ground.
+
+Solution : The velocity of the swimmer with respect to
+
+water is Us rp = 4:0 kt/h in the direction perpendicular to
+the river. The velocity of river with respect to the ground
+
+is Ung = 30 km/h along the length of the river. The
+velocity of the swimmer with respect to the ground is
+Us gq Where
+
+> > >
+
+Usg=UsrtUre-:
+
+Figure (3.12) shows the velocities. It is clear that,
+
+V,
+3.0km/h RS
+
+Figure 3.12
+
+Us. a= V(4:0 km/h) * + (3:0 km/h) ”
+
+= 5:0 km/h
+The angle 0 made with the direction of flow is
+tang = 20 kavh _ 4.
+30km/h 38
+
+Example 3.11
+
+A man is walking on a level road at a speed of 3:0 km/h.
+Rain drops fall vertically with a speed of 4:0 km/h. Find
+the velocity of the raindrops with respect to the man.

@@ -1,0 +1,128 @@
+Rest and Motion : Kinematics 51
+
+x (m)
+
+20+
+
+Figure 3-Q5
+
+10. The accelerations of a particle as seen from two frames
+
+S, and S, have equal magnitude 4 m/s”.
+
+(a) The frames must be at rest with respect to each
+other.
+
+(b) The frames may be moving with respect to each other
+but neither should be accelerated with respect to the
+other.
+
+(c) The acceleration of S, with respect to S, may either
+be zero or 8 m/s’.
+
+(d) The acceleration of S, with respect to S, may be
+anything between zero and 8 m/s’.
+
+EXERCISES
+
+. A man has to go 50m due north, 40m due east and
+20m due south to reach a field. (a) What distance he
+has to walk to reach the field? (b) What is his
+displacement from his house to the field ?
+
+. A particle starts from the origin, goes along the X-axis
+to the point (20 m, 0) and then returns along the same
+line to the point (-20m, 0). Find the distance and
+displacement of the particle during the trip.
+
+. It is 260 km from Patna to Ranchi by air and 320 km
+by road. An aeroplane takes 30 minutes to go from Patna
+to Ranchi whereas a delux bus takes 8 hours. (a) Find
+the average speed of the plane. (b) Find the average
+speed of the bus. (c) Find the average velocity of the
+plane. (d) Find the average velocity of the bus.
+
+. When a person leaves his home for sightseeing by his
+car, the meter reads 12352 km. When he returns home
+after two hours the reading is 12416 km. (a) What is the
+average speed of the car during this period ? (b) What
+is the average velocity ?
+
+. An athelete takes 2:0 s to reach his maximum speed of
+18:0 km/h. What is the magnitude of his average
+acceleration ?
+
+. The speed of a car as a function of time is shown in
+figure (3-E1). Find the distance travelled by the car in
+8 seconds and its acceleration.
+
+NO
+Oo
+
+—
+oO
+
+Speed in m/s
+
+0 2 4 6 8 10
+Time in second
+
+Figure 3-E1
+
+. The acceleration of a cart started at ¢=0, varies with
+time as shown in figure (3-E2). Find the distance
+travelled in 30 seconds and draw the position-time graph.
+. Figure (3-E3) shows the graph of velocity versus time
+for a particle going along the X-axis. Find (a) the
+
+N 5.0
+
+n
+
+P=]
+
+&
+
+Cc
+
+ne) 0
+
+© 10 20 30 Time in second
+a)
+
+®
+
+3
+
+< -5.0+
+
+Figure 3-E2
+
+acceleration, (b) the distance travelled in 0 to 10 s and
+(c) the displacement in 0 to 10s.
+
+Av (in m/s)
+
+10 t (second)
+
+Figure 3-E3
+
+9. Figure (3-E4) shows the graph of the x-coordinate of a
+
+particle going along the X-axis as a function of time.
+Find (a) the average velocity during 0 to 10s,
+(b) instantaneous velocity at 2, 5, 8 and 12s.
+
+4x (m)
+
+100+
+
+Time (second)
+
+25 50 7.5 10.0 125 15.0
+
+Figure 3-E4
+
+10. From the velocity—time plot shown in figure (3-E5), find
+
+the distance travelled by the particle during the first 40

@@ -1,0 +1,58 @@
+54 Concepts of Physics
+projection and the edge of the boat are in the same pilot should head the plane to reach the point B. (b) Find
+horizontal level. the time taken by the plane to go from A to B.
+
+46. A river 400 m wide is flowing at a rate of 2:0 m/s. A 50. Two friends A and B are standing a distance x apart in
+boat is sailing at a velocity of 10 m/s with respect to the an open field and wind is blowing from A to B. A beats
+water, in a direction perpendicular to the river. (a) Find a drum and B hears the sound ft, time after he sees the
+the time taken by the boat to reach the opposite bank. event. A and B interchange their positions and the
+(b) How far from the point directly opposite to the experiment is repeated. This time B hears the drum t,
+starting point does the boat reach the opposite bank ? time after he sees the event. Calculate the velocity of
+
+47. A swimmer wishes to cross a 500 m wide river flowing sound in still air v and the velocity of wind u. Neglect
+at 5 km/h. His speed with respect to water is 3 km/h. the time light takes in travelling between the friends.
+(a) If he heads in a direction making an angle 0 with . . .
+the flow, find the time he takes to cross the river. 51. Suppose A and B in the previous problem change their
+(b) Find the shortest possible time to cross the river. positions in such a way that the line joining them
+
+48. Consider the situation of the previous problem. The man becomes perpendicular fo the direction of wind while
+has to reach the other shore at the point directly maintaining the separation x. What will be the time lag
+opposite to his starting point. If he reaches the other B finds between seeing and hearing the drum beating
+shore somewhere else, he has to walk down to this point. by A?
+
+Find the minimum distance that he has to walk. 52. Six particles situated at the corners of a regular hexagon
+
+49. An aeroplane has to go from a point A to another point of side a move at a constant speed v. Each particle
+B, 500 km away due 30° east of north. A wind is blowing maintains a direction towards the particle at the next
+due north at a speed of 20 m/s. The air-speed of the corner. Calculate the time the particles will take to meet
+plane is 150 m/s. (a) Find the direction in which the each other.
+
+ANSWERS
+OBJECTIVE I 13. 35m
+Lo) 2@ 3@ 4a 5@ 6@ 1am
+7. (©) 8. (c) 9. (c) 10.(@) 11.(a) 12. (a) 15. (a) 2°7 km (b) 60 m/s (c) 225 m and 2°25 km
+16. 0°05s
+13. (b) 5 2
+17. 12:2 x 10° m/s
+OBJECTIVE Il 18. (a) 25m/s —(b) 12°5 m
+1. (a), (d) 2. (c), (d) 3. (a), (b), (c) 19. 22m
+4. (b), (d) 5. (a), (b), (d) 6. (b), (c), (d) 20. (a) 19m (b) 22 m (c) 33m (d) 39m
+7. (a) 8. (a), (d) 9. (a) (e) 15m (f) 18m (g) 27m (h) 33m
+10. (d) 21. 1:0 km
+EXERCISES 22. 2s, 38m
+23. (a) 125m (b)5s  (c) 35m/s
+1. (a) 110m (b) 50 m, tan’ 3/4 north to east 24. 4:38
+2. 60m, 20m in the negative direction 25. (a) 40 m (b) 9°8 m/s (c) No
+3. CO a mt Panne ent 26. 44:1 m, 19°6 m and 4:9 m below the top
+(d) 32°5 km/h Patna to Ranchi 27. 4°9 m/s
+4. 32 km/h (b) zero 28. 2°62 m
+6. 80m, 2°5 m/s” 30. 490 m/s”
+7 1000 ft 31. 20 ft/s”
+8. (a) 0°6 m/s” (b) 50m (c) 50m 32. (a) 45s (b) 90m (c) 49 m/s, 0 = 66° with horizontal
+9. (a) 10 m/s (b) 20 m/s, zero, 20 m/s, — 20 m/s 33. (a) 60m _ (b) 80V3 m
+
+10. 100m, zero 34. Yes
+
+11. 12s 35. 10 m/s
+
+12.x=5m,y=3m 36. 32 ft/s

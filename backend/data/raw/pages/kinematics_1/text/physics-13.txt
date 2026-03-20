@@ -1,0 +1,125 @@
+Rest and Motion : Kinematics 43
+
+s=jat”, . (i)
+During this interval the jeep travels a distance
+s+d=vut. ... (ii)
+By (i) and (ii),
+1
+
+gat °-vt+d=0
+
+v+Vv° -2ad
+
+a
+
+or, t=
+
+The pickpocket will be caught if t is real and positive.
+This will be possible if
+
+v*>=2ad or, v=V2ad.
+
+. A car is moving at a constant speed of 40 km/h along a
+straight road which heads towards a large vertical wall
+and makes a sharp 90° turn by the side of the wall. A
+fly flying at a constant speed of 100 km/h, starts from
+the wall towards the car at an instant when the car is
+20 km away, flies until it reaches the glasspane of the
+car and returns to the wall at the same speed. It continues
+to fly between the car and the wall till the car makes the
+90° turn. (a) What is the total distance the fly has
+travelled during this period ? (b) How many trips has it
+made between the car and the wall?
+
+Solution : (a) The time taken by the car to cover 20 km
+
+20km_ 1
+40km/h 2
+constant speed of 100 km/h during this time. Hence the
+total distance coverd by it is 100 “mn x sh = 50km.
+
+(b) Suppose the car is at a distance x away (at A) when
+the fly is at the wall (at O). The fly hits the glasspane
+
+at B, taking a time ¢t. Then
+
+before the turn is h. The fly moves at a
+
+AB = (40 km/h)t,
+and OB = (100 km/h)¢.
+Thus, x=AB+OB
+= (140 km/h)¢
+x 5
+or, t=Thokmh’ OB=— x.
+
+Figure 3-W3
+
+The fly returns to the wall and during this period the
+car moves the distance BC. The time taken by the fly
+in this return path is
+
+5x/7 _ x
+100km/h} 140km/h
+
+40x 2
+Thus, BC= 140777"
+or, OC = OB - BC == x.
+
+If at the beginning of the round trip (wall to the car and
+back) the car is at a distance x away, it is ox away
+when the next trip again starts.
+
+Distance of the car at the beginning of the 1st
+trip = 20 km.
+
+Distance of the car at the beginning of the 2nd trip
+- . x 20 km.
+
+Distance of the car at the beginning of the 3rd trip
+2
+
+- *) x 20 km.
+
+Distance of the car at the beginning of the 4th trip
+3
+
+- *) x 20 km.
+
+Distance of the car at the beginning of the nth trip
+
+n-1
+
+- ) x 20 km.
+
+Trips will go on till the car reaches the turn that is the
+distance reduces to zero. This will be the case when n
+becomes infinity. Hence the fly makes an infinite
+number of trips before the car takes the turn.
+
+. A ball is dropped from a height of 19°6m above the
+
+ground. It rebounds from the ground and raises itself up
+to the same height. Take the starting point as the origin
+and vertically downward as the positive X-axis. Draw
+approximate plots of x versus t, v versus t and a versus
+t. Neglect the small interval during which the ball was
+in contact with the ground.
+
+Solution : Since the acceleration of the ball during the
+
+contact is different from ‘g’, we have to treat the
+downward motion and the upward motion separately.
+
+For the downward motion : a=g=9°8 m/s’,
+x=ut+ Sat * = (4:9 m/s*)t”.
+The ball reaches the ground when x = 19°6 m. This gives
+
+t = 2s. After that it moves up, x decreases and at
+t =4 s, x becomes zero, the ball reaching the initial point.
+
+We have at ¢ =0, x=0
+t=1s, x=49m
+t=2s, x=196m
+t=3s, x=49m
+
+t=A4s, x=0.

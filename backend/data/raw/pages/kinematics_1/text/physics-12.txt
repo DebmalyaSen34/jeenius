@@ -1,0 +1,142 @@
+42
+
+Concepts of Physics
+
+Thus, the displacement during 0 to 4s is
+125m-5m=120m.
+
+120 m
+4s
+
+(e) v=3At*+2Bt+C.
+Velocity at t=0 is C=-2m/ss.
+Velocity at t = 4s is = 78 m/s.
+
+Average velocity = = 30 m/s.
+
+Vg-0U,
+
+= 20 m/s’.
+
+Average acceleration =
+
+2 1
+
+4, From the velocity-time graph of a particle given in figure
+
+(3-W1), describe the motion of the particle qualitatively
+in the interval 0 to 4s. Find (a) the distance travelled
+during first two seconds, (b) during the time 2s to 4s,
+(c) during the time 0 to 48s, (d) displacement during
+0 to 4s, (e) acceleration at t = 1/2 s and (f) acceleration
+att = 2s.
+
+v (m/s)
+
+15+
+
+10 --A---—-—-—— a
+
+5+
+
+0 _\B iD F
+1A 3 A 5 & ts)
+
+—5+
+
+10}--—---—— GOTT TTT
+
+Figure 3-W1
+
+Solution : Att = 0, the particle is at rest, say at the origin.
+
+After that the velocity is positive, so that the particle
+moves in the positive x direction. Its speed increases till
+1 second when it starts decreasing. The particle
+continues to move further in positive x direction. At
+t=2s, its velocity is reduced to zero, it has moved
+through a maximum positive x distance. Then it changes
+its direction, velocity being negative, but increasing in
+magnitude. At t = 3s velocity is maximum in the
+negative x direction and then the magnitude starts
+decreasing. It comes to rest at t = 4s.
+
+(a) Distance during 0 to 2s= Area of OAB
+
+=> 28x 10 m/s =10 m.
+
+(b) Distance during 2 to 4s = Area of BCD =10m. The
+particle has moved in negative x direction during this
+period.
+
+(c) The distance travelled during 0 to 4s =10m+10m
+= 20 m.
+
+(d) displacement during 0 to 4s=10m+(—10m)=0.
+
+(e) at t = 1/2 s acceleration = slope of line OA = 10 m/s’.
+
+(f) att =2-s acceleration = slope of line ABC = — 10 m/s’.
+
+5. A particle starts from rest with a constant acceleration.
+
+At a time t second, the speed is found to be 100 m/s and
+one second later the speed becomes 150 m/s. Find (a) the
+acceleration and (b) the distance travelled during the
+(t+1)th second.
+
+Solution : (a) Velocity at time t second is
+
+100 m/s = a.(t second) .. (1)
+and velocity at time (¢ + 1) second is
+150 m/s = a.(t + 1) second. ... (2)
+
+Subtracting (1) from (2), a = 50 m/s”
+(b) Consider the interval ¢ second to (¢ + 1) second,
+time elapsed=1s
+initial velocity = 100 m/s
+final velocity = 150 m/s.
+Thus, (150 m/s) *=(100 m/s) * + 2(50 m/s *) x
+
+or, x=125 m.
+
+. A boy stretches a stone against the rubber tape of a
+
+catapult or ‘gulel’ (a device used to detach mangoes from
+the tree by boys in Indian villages) through a distance
+of 24 cm before leaving it. The tape returns to its normal
+position accelerating the stone over the stretched length.
+The stone leaves the gulel with a speed 2:2 m/s. Assuming
+that the acceleration is constant while the stone was being
+pushed by the tape, find its magnitude.
+
+Solution : Consider the accelerated 24 cm motion of the
+
+stone.
+
+Initial velocity = 0
+Final velocity = 2°2 m/s
+Distance travelled = 24 cm =0°24m
+Using v °=u ~+ 2ax,
+
+_ 4:84 m “/s”
+
+— . 2
+a= pod gs bl mis*.
+
+7. A police inspector in a jeep is chasing a pickpocket on a
+
+straight road. The jeep is going at its maximum speed v
+(assumed uniform). The pickpocket rides on_ the
+motorcycle of a waiting friend when the jeep is at a
+distance d away, and the motorcycle starts with a
+constant acceleration a. Show that the pickpocket will be
+
+caught if v = V2ad.
+
+Solution : Suppose the pickpocket is caught at a time ¢
+
+after the motorcycle starts. The distance travelled by the
+motorcycle during this interval is
+
+Figure 3-W2

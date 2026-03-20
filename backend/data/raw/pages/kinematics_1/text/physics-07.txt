@@ -1,0 +1,108 @@
+Rest and Motion : Kinematics 37
+
+v =u’ +2ay,
+0 = (4:0 m/s) ” + 2(- 10 m/s ”)y
+
+_ 16m ‘/s*
+
+= = 0°80 m.
+y 20 m/s” m
+
+or,
+
+3.7 MOTION IN A PLANE
+
+If a particle is free to move in a plane, its position
+can be located with two coordinates. We choose the
+plane of motion as the X-Y plane. We choose a suitable
+instant as t = O and choose the origin at the place
+where the particle is situated at ¢ = 0. Any two
+convenient mutually perpendicular directions in the
+X-Y plane are chosen as the X and Y-axes.
+
+The position of the particle at a time ¢ is completely
+specified by its coordinates (x, y). The coordinates at
+timet + tare(x+ x, y+ y). Figure (8.8) shows the
+positions at t andt + tas A and B respectively. The
+displacement during the time interval t tot + tis
+
+r= AB =AC+CB
+
+= xit yj
+
+or,
+
+x + Ax x
+Figure 3.8
+Taking limits as_ ft — 0
++> dx> dy>
+v=a tah (3.15)
+Thus, we see that the x-component of the velocity is
+v, = « (3.16)
+and the y-component is
+d
+by =a (3.17)
+Differentiating (3.15) with respect to time,
+~_ dy _dvy> doy >
+“dt dt” dt
+Thus, the acceleration has components
+du
+a, = We (3.18)
+
+dv
+d =-—. w. (3.19
+an dy = (3.19)
+We see that the x-coordinate, the x-component of
+velocity uv, and the x-component of acceleration a, are
+related by
+
+These equations are identical to equations (3.9)
+and (3.10). Thus, if a, is constant, integrating these
+equations we get
+
+Vy =Uy + A, t
+
+(3.20)
+
+2
+x = Ut +5 dt
+2 2
+UV, =U, + 2a,x
+
+where wu, is the x-component of the velocity at t = 0.
+Similarly we have
+iy dvy
+Vy = dt and ay = “dt
+and if a, is constant,
+Vy =Uy + Ayt
+
+y =Uyt + 5 Ayt . (3.21)
+
+2 2 )
+Vy =Uy + 40,
+
+The general scheme for the discussion of motion in
+a plane is therefore simple. The x-coordinate, the
+x-component of velocity and the x-component of
+acceleration are related by equations of straight line
+motion along the X-axis. Similarly the y-coordinate, the
+y-component of velocity and the y-component of
+acceleration are related by the equations of straight
+line motion along the Y-axis. The problem of motion
+in a plane is thus, broken up into two independent
+problems of straight line motion, one along the X-axis
+and the other along the Y-axis.
+
+Example 3.8
+
+A particle moves in the X-Y plane with a constant
+acceleration of 1°5 m/s’ in the direction making an angle
+of 37° with the X-axis. At t = 0 the particle is at the
+origin and its velocity is 8:0 m/s along the X-axis. Find
+the velocity and the position of the particle at t = 40s.
+
+Y:
+
+37°
+
+Figure 3.9

@@ -1,0 +1,162 @@
+12.
+
+13.
+
+Rest and Motion : Kinematics 49
+
+A player hits a baseball at some angle. The ball goes
+high up in space. The player runs and catches the ball
+before it hits the ground. Which of the two (the player
+or the ball) has greater displacement ?
+
+The increase in the speed of a car is proportional to the
+additional petrol put into the engine. Is it possible to
+
+14.
+
+accelerate a car without putting more petrol or less
+petrol into the engine ?
+
+Rain is falling vertically. A man running on the road
+keeps his umbrella tilted but a man standing on the
+street keeps his umbrella vertical to protect himself from
+the rain. But both of them keep their umbrella vertical
+to avoid the vertical sun-rays. Explain.
+
+OBJECTIVE I
+
+. A motor car is going due north at a speed of 50 km/h.
+
+It makes a 90° left turn without changing the speed.
+The change in the velocity of the car is about
+
+(a) 50 km/h towards west
+
+(b) 70 km/h towards south-west
+
+(c) 70 km/h towards north-west
+
+(d) zero.
+
+. Figure (3-Q2) shows the displacement-time graph of a
+
+particle moving on the X-axis.
+
+x
+
+to t
+
+Figure 3-Q2
+
+(a) the particle is continuously going in positive x
+direction
+
+(b) the particle is at rest
+
+(c) the velocity increases up to a time ¢,, and then
+becomes constant
+
+(d) the particle moves at a constant velocity up to a time
+t,, and then stops.
+
+. A particle has a velocity u towards east at t = 0. Its
+
+acceleration is towards west and is constant. Let x, and
+x, be the magnitude of displacements in the first 10
+seconds and the next 10 seconds
+
+(a) xX, < Xp (b) x, = Xp (c) X, > Xp
+
+(d) the information is insufficient to decide the relation
+of x, with x,.
+
+. A person travelling on a straight line moves with a
+
+uniform velocity v, for some time and with uniform
+velocity v, for the next equal time. The average velocity
+v is given by
+
+(a) v= (b) v = Vode
+@ 21,2 @ietel.
+UU, Uz UU, Uz
+
+. A person travelling on a straight line moves with a
+
+uniform velocity v, for a distance x and with a uniform
+velocity v, for the next equal distance. The average
+velocity v is given by
+
+10.
+
+11.
+
+12.
+
+(a) v= “1 ; -2 (b) v =Vu,V,
+2 1 1 1 1 1
+(c) —=—+— (d) —-=—+—-
+UU, Ds UU, Vy
+
+A stone is released from an elevator going up with an
+acceleration a. The acceleration of the stone after the
+release is
+
+(a) a upward
+
+(c) (g -a) downward
+
+A person standing near the edge of the top of a building
+throws two balls A and B. The ball A is thrown vertically
+upward and B is thrown vertically downward with the
+same speed. The ball A hits the ground with a speed v,
+and the ball B hits the ground with a speed v,. We have
+(a) Uy > Up, (b) Va < Uz (C) Vg = Ve
+
+(d) the relation between v, and v, depends on height of
+the building above the ground.
+
+(b) (g - a) upward
+(d) g downward.
+
+In a projectile motion the velocity
+
+(a) is always perpendicular to the acceleration
+
+(b) is never perpendicular to the acceleration
+
+(c) is perpendicular to the acceleration for one instant
+only
+
+(d) is perpendicular to the acceleration for two instants.
+
+Two bullets are fired simultaneously, horizontally and
+with different speeds from the same place. Which bullet
+will hit the ground first ?
+
+(a) the faster one (b) the slower one
+
+(c) both will reach simultaneously
+
+(d) depends on the masses.
+
+The range of a projectile fired at an angle of 15° is
+50 m. If it is fired with the same speed at an angle of
+45°, its range will be
+
+(a) 25m (b) 37m (c) 50m (d) 100 m.
+
+Two projectiles A and B are projected with angle of
+projection 15° for the projectile A and 45° for the
+projectile B. If R, and R, be the horizontal range for the
+two projectiles, then
+
+(a) R, < R, (b) R, = R, (c) R, > Rz
+
+(d) the information is insufficient to decide the relation
+of R, with R,.
+
+A river is flowing from west to east at a speed of 5
+metres per minute. A man on the south bank of the
+river, capable of swimming at 10 metres per minute in
+still water, wants to swim across the river in the shortest
+time. He should swim in a direction

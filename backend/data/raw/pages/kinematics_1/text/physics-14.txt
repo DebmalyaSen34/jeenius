@@ -1,0 +1,134 @@
+44
+
+Concepts of Physics
+
+20 m+
+
+10 m+
+
+1 2 3 4 t (second)
+
+Figure 3-W4
+
+Velocity : During the first two seconds,
+
+v=u+at=(9'8 m/s )t
+
+at t=0 v =0
+at t=1s, v = 9°8 m/s
+at t=25, v = 19°6 m/s.
+
+During the next two seconds the ball goes upward,
+
+velocity is negative, magnitude decreasing and at
+t=4s,uv=0. Thus,
+at t=25, v=-196 m/s
+at t=35, v=-9°8m/s
+at t=4s, v = 0.
+Vv
+20 m/s+
+|
+10 m/s+ !
+O | | | 1
+1 2| 3 4  t(second)
+-10 m/s + !
+|
+-20 mist |
+Figure 3-W5
+
+At t=2s there is an abrupt change in velocity from
+
+19°6 m/s to —19°6 m/s. In fact this change in velocity
+takes place over a small interval during which the ball
+remains in contact with the ground.
+
+Acceleration : The acceleration is constant 9°8 m/s”
+throughout the motion (except at ¢ = 2s).
+
+10 m/s2 +
+
+1 2 3 4 t (second)
+
+10 m/s2+
+
+Figure 3-W6
+
+10. A stone is dropped from a balloon going up with a
+
+uniform velocity of 5:0 m/s. If the balloon was 50 m high
+when the stone was dropped, find its height when the
+stone hits the ground. Take g = 10 m/s’.
+
+Solution : At t = 0, the stone was going up with a velocity
+
+of 5:0 m/s. After that it moved as a freely falling particle
+with downward acceleration g. Take vertically upward
+
+11.
+
+as the positive X-axis. If it reaches the ground at
+time ¢,
+
+x=-50m, u=5m/s, a=-10m/s’.
+We have x=ut+ at’
+or, -50m=(5 m/s).t + . x (- 10 m/s )t”
+1+v41
+or, t= Ss.
+2
+or, t=-27s or, 37s.
+
+Negative t has no significance in this problem. The stone
+reaches the ground at ¢t = 3°7s. During this time the
+balloon has moved uniformly up. The distance covered
+by it is
+
+5 m/s x 3°7s=18'5 m.
+
+Hence, the height of the balloon when the stone reaches
+the ground is 50m + 18°5m = 68°5 m.
+
+A football is kicked with a velocity of 20 m/s at an angle
+of 45° with the horizontal. (a) Find the time taken by the
+ball to strike the ground. (b) Find the maximum height
+it reaches. (c) How far away from the kick does it hit the
+ground ? Take g = 10 m/s’.
+
+Solution : (a) Take the origin at the point where the ball
+
+12.
+
+is kicked, vertically upward as the Y-axis and the
+horizontal in the plane of motion as the X-axis. The
+initial velocity has the components
+
+u, = (20 m/s) cos45° = 10 V2 m/s
+u, = (20 m/s) sin45° = 10 V2 m/s.
+When the ball reaches the ground, y = 0.
+
+and
+
+. 1 42
+Using y =Uyt — 38 ;
+0 = (102 ms) t - 5 x (10 m/s®) x t*
+or, t=2V2s=2°8s.
+
+Thus, it takes 2°8 s for the football to fall on the ground.
+(b) At the highest point v, = 0. Using the equation
+
+2 2
+Vy = Uy - 289,
+0 = (10V2 m/s)” - 2x (10 m/s”) H
+or, H=10m.
+
+Thus, the maximum height reached is 10 m.
+
+(c) The horizontal distance travelled before falling to the
+ground is x =u,t
+
+= (10V2 m/s) (2V2 s) = 40 m.
+
+A helicopter on flood relief mission, flying horizontally
+with a speed u at an altitude H, has to drop a food packet
+for a victim standing on the ground. At what distance
+from the victim should the packet be dropped ? The victim
+stands in the vertical plane of the helicopter’s motion.

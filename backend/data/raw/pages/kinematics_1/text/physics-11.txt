@@ -1,0 +1,129 @@
+Rest and Motion
+
+Solution : We have to find the velocity of raindrops with
+respect to the man. The velocity of the rain as well as
+the velocity of the man are given with respect to the
+street. We have
+
+> > >
+
+Vrain, man — Vrain, street — Uman, street *
+
+Figure (3.13) shows the velocities.
+
+Vv = 3.0 km/h
+
+—Vman,street man,street
+
+Vrain,street = 4-0 km/h
+
+Figure 3.13
+
+It is clear from the figure that
+= V(4:0 km/h) * + (3:0 km/h) ”
+
+= 5:0 km/h.
+The angle with the vertical is 0, where
+
+U
+
+rain, man
+
+: Kinematics 41
+
+Thus, the rain appears to fall at an angle tan ° (3/4)
+with the speed 5:0 km/h as viewed by the man.
+
+The relation between the accelerations measured
+from two frames can be obtained by differentiating
+equation (3.27) with respect to time.
+
+We have,
+d/> d,.> d,.>
+ai (UPS) = gy ( UP.s) + Ge (Us: s)
+(3.29)
+
+_, IfS' moves with respect to S at a uniform velocity,
+ag,s=0 and so
+
+or, Aps=Apg + agg -
+
+ap s=aps-
+If two frames are moving with respect to each
+other with uniform velocity, acceleration of a body is
+same in both the frames.
+
+Worked Out Examples
+
+1. A man walks at a speed of 6 km/hr for 1 km and 8 km/hr
+for the next 1 km. What is his average speed for the walk
+of 2 km ?
+
+Solution : Distance travelled is 2 km.
+
+Time taken __! km + 1km
+~ 6 km/hr 8 km/hr
+1 1 7
+(5+ 5} br= gg ht
+2kmx24 48
+Average speed = Thr 7 7 km/hr
+= 7 km/hr.
+
+2. The I.Sc. lecture theatre of a college is 40 ft wide and
+has a door at a corner. A teacher enters at 12°00 noon
+through the door and makes 10 rounds along the 40 ft
+wall back and forth during the period and finally leaves
+the class-room at 12°50 p.m. through the same door.
+Compute his average speed and average velocity.
+
+Solution : Total distance travelled in 50 minutes = 800 ft.
+Average speed = = ft/min = 16 ft/min.
+
+At 12°00 noon he is at the door and at 12°50 pm he is
+again at the same door.
+
+The displacement during the 50 min interval is zero.
+Average velocity = zero.
+
+3. The position of a particle moving on X-axis is given by
+x =At*+Bt?+Ct+D.
+The numerical values of A, B, C, D are 1, 4, -2 and 5
+
+respectively and SI units are used. Find (a) the
+dimensions of A, B, C and D, (b) the velocity of the
+particle at t = 48, (c) the acceleration of the particle at
+t =4s, (d) the average velocity during the interval t = 0
+tot =4s, (e) the average acceleration during the interval
+t=0 to t=4s.
+Solution : (a) Dimensions of x, At’*, Bt”, Ct and D must
+be identical and in this case each is length. Thus,
+[At *]=L, or, [A]=LT~’
+[Bt*]=L, or, [B]=LT~’
+[Ct]=L, or, [C]=LT™*
+
+and [D] =L.
+
+(b) x=At°?+Bt?+Ct+D
+
+or, py = 3Ab? 4 OBE+C.
+dt
+
+Thus, at t = 4s, the velocity
+= 3(1 m/s *) (16s) + 2(4 m/s”) (48) + (- 2 m/s)
+= (48 + 32 - 2) m/s=78 m/s.
+
+(c) v=3At*>+2Bt+C
+
+or, g = 6 ALY 2B.
+dt
+
+At t=4s,a =6(1 m/s’) (48) + 2(4 m/s”) = 32 m/s’.
+
+(d) x =At°+ Bt +Ct+D.
+
+Position att =O0isx=D=5m.
+
+Position at t = 45s is
+
+(1 m/s *) (64s °)+(4 m/s”) (16s”) -(2 m/s) (4s)+5m
+= (64+ 64-8+5)m=125m.

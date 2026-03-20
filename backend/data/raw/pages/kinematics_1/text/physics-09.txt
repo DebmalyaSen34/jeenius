@@ -1,0 +1,129 @@
+Rest and Motion :
+
+The vertical motion is identical to the motion of a
+particle projected vertically upward with speed wu sin6.
+The horizontal motion of the particle is identical to a
+particle moving horizontally with uniform velocity
+u cos0.
+
+Time of Flight
+
+Consider the situation shown in figure (3.10). The
+particle is projected from the point O and reaches the
+same horizontal plane at the point B. The total time
+taken to reach B is the time of flight.
+
+Suppose the particle is at B at a time ¢. The
+equation for horizontal motion gives
+
+OB =x = ut cos0
+The y-coordinate at the point B is zero. Thus, from
+the equation of vertical motion,
+
+y =ut sind ~ 5 gt”
+
+or, 0=ut sind — 5 gt”
+. 1
+or, t(u sinO — 9 8!) = 0.
+_ 2u sind —
+
+Thus, either t=0 or, t= 2
+
+Now ¢t = 0 corresponds to the position O of the
+particle. The time at which it reaches B is thus,
+
+Ou sj
+pest . (3.22)
+§
+This is the time of flight.
+Range
+The distance OB is the horizontal range. It is the
+distance travelled by the particle in time T = 2u sind |
+By the equation of horizontal motion,
+x = (ucos@)t
+2u sind
+or, OB = (u cos6) Pas)
+_ 2u “sinO cos0
+; §
+in20
+_“7sme. . (3.23)
+§
+
+Maximum Height Reached
+
+At the maximum height (A in figure 3.10) the
+velocity of the particle is horizontal. The vertical
+component of velocity is thus, zero at the highest point.
+The maximum height is the y-coordinate of the particle
+when the vertical component of velocity becomes zero.
+
+We have,
+
+Vy = Uy — gt
+
+Kinematics 39
+=u sin0 - gt.
+At the maximum height
+0 =u siné - gt
+ind
+or, t=“ = . . (3.24)
+
+The maximum height is
+
+1 2
+H =uyt —> st
+
+= (u sind) u sind 1 u sind
+=(U g —98
+
+2
+
+8
+_u *sin “0 lu “sin 0
+g 2 g
+usin 0
+= ——— : ... (3.25)
+2g
+
+Equation (3.24) gives the time taken in reaching
+the maximum height. Comparison with equation (3.22)
+shows that it is exactly half the time of the flight.
+Thus, the time taken in ascending the maximum
+height equals the time taken in descending back to the
+same horizontal plane.
+
+Example 3.9
+
+A ball is thrown from a field with a speed of 12:0 m/s
+at an angle of 45° with the horizontal. At what distance
+will it hit the field again ? Take g = 10:0 m/s’.
+wu *sin20
+8
+(12 m/s) * x sin(2 x 45°)
+- 10 m/s”
+144 m/s”
+~ 10:0 m/s”
+Thus, the ball hits the field at 14°4 m from the point of
+projection.
+
+Solution : The horizontal range =
+
+=144m.
+
+3.9 CHANGE OF FRAME
+
+So far we have discussed the motion of a particle
+with respect to a given frame of reference. The frame
+can be chosen according to the convenience of the
+problem. The | position r, the velocity v and the
+acceleration a of a particle depend on the frame
+chosen. Let us see how can we relate the position,
+
+velocity and acceleration of a particle measured in two
+different frames.
+
+Consider two frames of reference S and S’ and
+suppose a particle P is observed from both the frames.
+
+The frames may be moving with respect to each other.
+Figure (3.11) shows the situation.

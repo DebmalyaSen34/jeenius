@@ -1,0 +1,171 @@
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+Rest and Motion : Kinematics 53
+
+A healthy youngman standing at a distance of 7 m from
+a 11°8 m high building sees a kid slipping from the top
+floor. With what speed (assumed uniform) should he run
+to catch the kid at the arms height (1°8 m) ?
+
+An NCC parade is going at a uniform speed of 6 km/h
+through a place under a berry tree on which a bird is
+sitting at a height of 12:1 m. At a particular instant the
+bird drops a berry. Which cadet (give the distance from
+the tree at the instant) will receive the berry on his
+uniform ?
+
+A ball is dropped from a height. If it takes 0°200 s to
+cross the last 6°00 m before hitting the ground, find the
+height from which it was dropped. Take g = 10 m/s’.
+
+A ball is dropped from a height of 5 m onto a sandy floor
+and penetrates the sand up to 10cm before coming to
+rest. Find the retardation of the ball in sand assuming
+it to be uniform.
+
+An elevator is descending with uniform acceleration. To
+measure the acceleration, a person in the elevator drops
+a coin at the moment the elevator starts. The coin is 6
+ft above the floor of the elevator at the time it is dropped.
+The person observes that the coin strikes the floor in 1
+second. Calculate from these data the acceleration of the
+elevator.
+
+A ball is thrown horizontally from a point 100 m above
+the ground with a speed of 20 m/s. Find (a) the time it
+takes to reach the ground, (b) the horizontal distance it
+travels before reaching the ground, (c) the velocity
+(direction and magnitude) with which it strikes the
+ground.
+
+A ball is thrown at a speed of 40 m/s at an angle of 60°
+with the horizontal. Find (a) the maximum height
+reached and (b) the range of the ball. Take g = 10 m/s’.
+
+In a soccer practice session the football is kept at the
+centre of the field 40 yards from the 10 ft high goalposts.
+A goal is attempted by kicking the football at a speed
+of 64 ft/s at an angle of 45° to the horizontal. Will the
+ball reach the goal post ?
+
+A popular game in Indian villages is goli which is played
+with small glass balls called golis. The goli of one player
+is situated at a distance of 2°0m from the goli of the
+second player. This second player has to project his goli
+by keeping the thumb of the left hand at the place of
+his goli, holding the goli between his two middle fingers
+and making the throw. If the projected goli hits the goli
+of the first player, the second player wins. If the height
+from which the goli is projected is 19'6cm from the
+ground and the goli is to be projected horizontally, with
+what speed should it be projected so that it directly hits
+the stationary goli without falling on the ground earlier ?
+
+Figure (3-E8) shows a 11°7 ft wide ditch with the
+approach roads at an angle of 15° with the horizontal.
+With what minimum speed should a motorbike be
+moving on the road so that it safely crosses the ditch ?
+
+11.7 ft
+
+15° 15°
+
+Figure 3-E8
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+Assume that the length of the bike is 5 ft, and it leaves
+the road when the front part runs out of the approach
+road.
+
+A person standing on the top of a cliff 171 ft high has
+to throw a packet to his friend standing on the ground
+228 ft horizontally away. If he throws the packet directly
+aiming at the friend with a speed of 15:0 ft/s, how short
+will the packet fall ?
+
+A ball is projected from a point on the floor with a speed
+of 15 m/s at an angle of 60° with the horizontal. Will it
+hit a vertical wall 5 m away from the point of projection
+and perpendicular to the plane of projection without
+hitting the floor? Will the answer differ if the wall is
+22 m away?
+
+Find the average velocity of a projectile between the
+instants it crosses half the maximum height. It is
+projected with a speed uw at an angle 0 with the
+horizontal.
+
+A bomb is dropped from a plane flying horizontally with
+uniform speed. Show that the bomb will explode
+vertically below the plane. Is the statement true if the
+plane flies with uniform speed but not horizontally ?
+
+A boy standing on a long railroad car throws a ball
+straight upwards. The car is moving on the horizontal
+road with an acceleration of 1 m/s” and the projection
+velocity in the vertical direction is 9°8 m/s. How far
+behind the boy will the ball fall on the car?
+
+A staircase contains three steps each 10 cm high and
+20 cm wide (figure 3-E9). What should be the minimum
+horizontal velocity of a ball rolling off the uppermost
+plane so as to hit directly the lowest plane ?
+
+Figure 3-E9
+
+A person is standing on a truck moving with a constant
+velocity of 14°7 m/s on a horizontal road. The man throws
+a ball in such a way that it returns to the truck after
+the truck has moved 58°8 m. Find the speed and the
+angle of projection (a) as seen from the truck, (b) as seen
+from the road.
+
+The benches of a gallery in a cricket stadium are 1 m
+wide and 1 m high. A batsman strikes the ball at a level
+one metre above the ground and hits a mammoth sixer.
+The ball starts at 35 m/s at an angle of 53° with the
+horizontal. The benches are perpendicular to the plane
+of motion and the first bench is 110 m from the batsman.
+On which bench will the ball hit ?
+
+A man is sitting on the shore of a river. He is in the
+line of a 1:0 m long boat and is 5°5 m away from the
+centre of the boat. He wishes to throw an apple into the
+boat. If he can throw the apple only with a speed of 10
+m/s, find the minimum and maximum angles of
+projection for successful shot. Assume that the point of

@@ -1,0 +1,122 @@
+Rest and Motion : Kinematics 35
+
+dx
+VD = di (3.9)
+Lo, du
+and the acceleration is a = dt (3.10)
+d (dx\ dx
+~ dt cr dt” A)
+
+If & is positive, the direction of the velocity is
+along the positive X-axis and if & is negative, the
+
+direction, is along the negative X-axis. Similarly if &
+is positive, the acceleration is along the positive X-axis
+and if & is negative, the acceleration is along the
+
+negative X-axis. The magnitude of v is speed. If the
+velocity and the acceleration are both positive, the
+speed increases. If both of them are negative then also
+the speed increases but if they have opposite signs, the
+speed decreases. When the speed decreases, we say
+that the particle is decelerating. Deceleration is
+equivalent to negative acceleration. An acceleration of
+2:0 m/s” towards east is same as a deceleration of
+2-0 m/s” towards west.
+
+Motion with Constant Acceleration
+
+Suppose the acceleration of a particle is a and
+remains constant. Let the velocity at time 0 be uw and
+the velocity at time ¢ be v. Thus,
+
+du
+di =a, or, duv=adt
+U t
+or, fdv =fadt.
+u 0
+
+As time changes from 0 to ¢ the velocity changes from
+u to v. So on the left hand side the summation is made
+over uv from u to v whereas on the right hand side the
+summation is made on time from 0 to ¢. Evaluating
+the integrals we get,
+VU t
+[v], = alt],
+or, v-u=at
+or, v=u+at. (3.12)
+
+Equation (3.12) may be written as
+
+dx ut+at
+dt —
+or, dx = (u + at)dt
+x t
+or, f dx = f (u + at)dt.
+0 0
+
+At t = 0 the particle is at x = 0. As time changes
+from 0 to ¢ the position changes from 0 to x. So on the
+left hand side the summation is made on position from
+
+0 to x whereas on the right hand side the summation
+is made on time from 0 to ¢. Evaluating the integrals,
+the above equation becomes
+
+t t
+
+[x], <fu dt + fat dt
+0 0
+
+t t
+
+or, x =ufdt+aftdt
+0 0
+2
+t
+= ult], +a 9 ;
+1 (2
+or, x =ut + 9 at”: (3.13)
+From equation (3.12),
+p= (uw + at) °
+or, =u +2uat+a't”
+or, nu? 2alues at"
+or, =u +2ax. . (3.14)
+
+The three equations (3.12) to (3.14) are collected
+below in table 3.1. They are very useful in solving the
+problems of motion in a straight line with constant
+acceleration.
+
+Table 3.1
+
+v=urtat
+
+1 2
+= ut t
+x ul + 5a
+
+2 2
+v =u +2ax
+
+Remember that x represents the position of the
+particle at time ¢ and not (in general) the distance
+travelled by it in time O to ¢. For example, if the
+particle starts from the origin and goes upto x = 4m,
+then turns and is at x = 2m at time ¢, the distance
+travelled is 6m but the position is still given by
+x=2m.
+
+The quantities u, v and a may take positive or
+negative values depending on whether they are
+directed along the positive or negative direction.
+Similarly x may be positive or negative.
+
+Example 3.5
+
+A particle starts with an initial velocity 2°5 m/s along
+the positive x direction and it accelerates uniformly at
+the rate 0°50 m/s’. (a) Find the distance travelled by it
+in the first two seconds. (b) How much time does it take
+to reach the velocity 7°5 m/s ? (c) How much distance will
+it cover in reaching the velocity 7°5 m/s ?

@@ -1,0 +1,123 @@
+38 Concepts of Physics
+
+Solution : a, = (15 m/s *) (cos37°)
+= (1°5 m/s*)x 5 1:2 m/s”
+and ay = (15 m/s *) (sin37°)
+
+= (1°5 m/s”) x : = 0°90 m/s”.
+
+The initial velocity has components
+
+u, = 8:0 m/s
+and Uy = 0
+At ¢ = 0, x = 0 and y = 0.
+The x-component of the velocity at time ¢t = 4:0 s is given
+by
+
+Vx = Uy + Ayt
+= 8:0 m/s + (1:2 m/s”) (4:0 s)
+= 8:0 m/s + 48 m/s = 12°8 m/s.
+
+The y-component of velocity at t = 40s is given by
+
+UV, =U +dyt
+
+y y
+= 0 + (0°90 m/s ”) (4:0 s) = 3°6 m/s.
+
+The velocity of the particle at ¢t = 4:0s is
+
+v= Vu, + Vy = V(12'8 m/s) * + (3°6 m/s) ”
+= 13°3 m/s.
+The velocity makes an angle 0 with the X-axis where
+by 36m/s_ 9
+
+tan0 = 7 12-8 m/s 32.
+The x-coordinate at ¢t = 4:0s is
+1
+xX=U,t+ 2 a,t °
+= (8:0 m/s) (4:0 s) + 5 (1-2 m/s”) (4:0 s)?
+
+=32m+96m=416m.
+The y-coordinate at t=4:0s is
+
+yauyttsdyt’
+= 5 (0°90 m/s”) (4:0 s)”
+
+=72m.
+Thus, the particle is at (41°6 m, 72 m) at 4:0 s.
+
+3.8 PROJECTILE MOTION
+
+An important example of motion in a plane with
+constant acceleration is the projectile motion. When a
+particle is thrown obliquely near the earth’s surface,
+it moves along a curved path. Such a particle is called
+a projectile and its motion is called projectile motion.
+We shall assume that the particle remains close to the
+surface of the earth and the air resistance is negligible.
+The acceleration of the particle is then almost
+
+constant. It is in the vertically downward direction and
+its magnitude is g which is about 9°8 m/s .
+
+Let us first make ourselves familiar with certain
+terms used in discussing projectile motion. Figure
+(3.10) shows a particle projected from the point O with
+an initial velocity uw at an angle 8 with the horizontal.
+It goes through the highest point A and falls at B on
+the horizontal surface through O. The point O is called
+the point of projection, the angle 0 is called the angle
+of projection and the distance OB is called the
+horizontal range or simply range. The total time taken
+by the particle in describing the path OAB is called
+the time of flight.
+
+The motion of the projectile can be discussed
+separately for the horizontal and vertical parts. We
+take the origin at the point of projection. The instant
+
+Y
+A
+oe naa
+oD ee
+rm | ~
+O u cosd@ B x
+Figure 3.10
+
+when the particle is projected is taken as t = 0. The
+plane of motion is taken as the X-Y plane. The
+horizontal line OX is taken as the X-axis and the
+vertical line OY as the Y-axis. Vertically upward
+direction is taken as the positive direction of the
+Y-axis.
+
+We have U,=ucos8; a, =0
+Uy=usinod; ay,=-g.
+
+Horizontal Motion
+
+As a,=0, we have
+Vy =U, + A,t = Uy, = U COsO
+and x= Uyt +>a,t” = uxt = ut cosd.
+As indicated in figure (3.10), the x-component of
+
+the velocity remains constant as the particle moves.
+
+Vertical Motion
+
+The acceleration of the particle is g in the
+downward direction. Thus, a,=-g. The y-component
+of the initial velocity is u,. Thus,
+
+Vy =U, — gt
+
+2
+
+d 1
+an Y= Uyt — 5 gt .
+
+Also we have,
+
+2 2
+Vy =Uy — 2gy.

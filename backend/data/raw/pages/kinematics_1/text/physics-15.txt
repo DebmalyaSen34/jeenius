@@ -1,0 +1,120 @@
+Rest and Motion
+
+Solution : The velocity of the food packet at the time of
+release is u and is horizontal. The vertical velocity at
+the time of release is zero.
+
+I D 1
+Figure 3-W7
+
+Vertical motion : If ¢ be the time taken by the packet
+to reach the victim, we have for vertical motion,
+
+12 (2H. |
+H=~ st or, t= 2 .. ()
+
+Horizontal motion : If D be the horizontal distance
+travelled by the packet, we have D = ut. Putting ¢ from
+
+(i),
+D= Ve
+
+The distance between the victim and the packet at the
+time of release is
+
+_ 2
+Vor Hg
+
+13. A particle is projected horizontally with a speed u from
+the top of a plane inclined at an angle 8 with the
+horizontal. How far from the point of projection will the
+particle strike the plane ?
+
+Solution : Take X,Y-axes as shown in figure (3-W8).
+Suppose that the particle strikes the plane at a point P
+with coordinates (x, y). Consider the motion between A
+and P.
+
+(We
+
+Figure 3-W8
+Motion in x-direction :
+Initial velocity = u
+Acceleration = 0
+x =ut. .. (i)
+Motion in y-direction :
+Initial velocity = 0
+Acceleration = g
+
+y= Sat’. .. (i)
+
+: Kinematics 45
+
+Eliminating ¢ from (i) and (ii)
+
+_l ix?)
+Y= 982
+Also y =x tand.
+2 2u “tand
+Thus, o> x tand giving x = 0, or, —«
+u
+2u “tand
+
+Clearly the point P corresponds to x =
+
+2u* tan’
+then y = x tand = ————— -
+
+The distance AP =/ = Vex +y °
+2
+= - tand V1+tan‘6
+
+Qu”
+
+tand seo.
+
+Alternatively : Take the axes as shown in
+figure 3-W9. Consider the motion between A and P.
+
+Figure 3-W9
+
+Motion along the X-axis :
+Initial velocity = u cos0
+Acceleration = g sin0
+
+Displacement = AP.
+Thus, AP =(u cos 6) t + 5 (g sin@) t”. . @
+Motion along the Y-axis :
+
+Initial velocity = - u sind
+Acceleration = g cos0
+
+Displacement = 0.
+
+Thus, 0 =- ut sinO + 5 gt “cos
+2u sind
+or, t= .
+g cos0
+2u sinO
+Clearly, the point P corresponds to t = oa“.
+g cosO
+
+Putting this value of ¢ in (i),
+
+2
+g sin /2u sind
+2 g cos0
+
+Ou si
+AP =(u cos6) t a
+
+g cosO
+
+Qu" sind 2u’ sind tan’ 0
+= +
+8 8
+
+2 2
+= - sinO sec 0 = 2u
+
+tan® secO.

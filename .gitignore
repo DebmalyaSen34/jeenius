@@ -1,7 +1,7 @@
 .env
 __pycache__/
 .venv/
-.code-workspace
+*.code-workspace
 .DS_Store
 node_modules/
-.db
+*.db

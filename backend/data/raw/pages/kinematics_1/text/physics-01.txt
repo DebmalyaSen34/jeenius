@@ -1,0 +1,83 @@
+CHAPTER 3
+
+REST AND MOTION :
+
+KINEMATICS
+
+3.1 REST AND MOTION
+
+When do we say that a body is at rest and when
+do we say that it is in motion ? You may say that if a
+body does not change its position as time passes it is
+at rest. If a body changes its position with time, it is
+said to be moving. But when do we say that it is not
+changing its position? A book placed on the table
+remains on the table and we say that the book is at
+rest. However, if we station ourselves on the moon (the
+Appollo missions have made it possible), the whole
+earth is found to be changing its position and so the
+room, the table and the book are all continuously
+changing their positions. The book is at rest if it is
+viewed from the room, it is moving if it is viewed from
+the moon.
+
+Motion is a combined property of the object under
+study and the observer. There is no meaning of rest
+or motion without the viewer. Nothing is in absolute
+rest or in absolute motion. The moon is moving with
+respect to the book and the book moves with respect
+to the moon. Take another example. A robber enters
+a train moving at great speed with respect to the
+ground, brings out his pistol and says “Don’t move,
+stand still”. The passengers stand still. The passengers
+are at rest with respect to the robber but are moving
+with respect to the rail track.
+
+Ieee Ie
+
+OO} OO)
+
+Figure 3.1
+
+To locate the position of a particle we need a frame
+of reference. A convenient way to fix up the frame of
+reference is to choose three mutually perpendicular
+axes and name them X-Y-Z axes. The coordinates, (x,
+y, Z) of the particle then specify the position of the
+
+particle with respect to that frame. Add a clock into
+the frame of reference to measure the time. If all the
+three coordinates x, y and z of the particle remain
+unchanged as time passes, we say that the particle is
+at rest with respect to this frame. If any one or more
+coordinates change with time, we say that the body is
+moving with respect to this frame.
+
+There is no rule or restriction on the choice of a
+frame. We can choose a frame of reference according
+to our convenience to describe the situation under
+study. Thus, when we are in a train it is convenient
+to choose a frame attached to our compartment. The
+coordinates of a suitcase placed on the upper berth do
+not change with time (unless the train gives a jerk)
+and we say that the suitcase is at rest in the train-
+frame. The different stations, electric poles, trees etc.
+change their coordinates and we say that they are
+moving in the train-frame. Thus, we say that “Bombay
+is coming” and “Pune has already passed”.
+
+In the following sections we shall assume that the
+frame of reference is already chosen and we are
+describing the motion of the objects in the chosen
+frame. Sometimes the choice of the frame is clear from
+the context and we do not mention it. Thus, when one
+says the car is travelling and the rickshaw is not, it
+is clear that all positions are measured from a frame
+attached to the road.
+
+3.2 DISTANCE AND DISPLACEMENT
+
+Suppose a particle is at A at time ¢, and at B at
+time t, with respect to a given frame (figure 3.2).
+
+Figure 3.2

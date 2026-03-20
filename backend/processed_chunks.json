@@ -1,0 +1,5678 @@
+[
+  {
+    "page": 1,
+    "content": "When do we say that a body is at rest and when\ndo we say that it is in motion ? You may say that if a\nbody does not change its position as time passes it is\nat rest. If a body changes its position with time, it is\nsaid to be moving. But when do we say that it is not\nchanging its position ? A book placed on the table\nremains on the table and we say that the book is at\nrest. However, if we station ourselves on the moon (the\nAppollo missions have made it possible), the whole\nearth is found to be changing its position and so the\nroom, the table and the book are all continuously\nchanging their positions. The book is at rest if it is\nviewed from the room, it is moving if it is viewed from\nthe moon.",
+    "type": "text",
+    "bbox": [
+      42.524078369140625,
+      244.8005828857422,
+      297.6131896972656,
+      410.8721618652344
+    ]
+  },
+  {
+    "page": 1,
+    "content": "Motion is a combined property of the object under\nstudy and the observer. There is no meaning of rest\nor motion without the viewer. Nothing is in absolute\nrest or in absolute motion. The moon is moving with\nrespect to the book and the book moves with respect\nto the moon. Take another example. A robber enters\na train moving at  great speed with respect to the\nground, brings out his pistol and says \u201cDon\u2019t move,\nstand still\u201d. The passengers stand still. The passengers\nare at rest with respect to the robber but are moving\nwith respect to the rail track.",
+    "type": "text",
+    "bbox": [
+      42.524078369140625,
+      416.75390625,
+      297.5431213378906,
+      546.8135986328125
+    ]
+  },
+  {
+    "page": 1,
+    "content": "To locate the position of a particle we need a frame\nof reference. A convenient way to fix up the frame of\nreference is to choose three mutually perpendicular\naxes and name them X-Y-Z axes. The coordinates, (x,\ny, z) of the particle then specify the position of the",
+    "type": "text",
+    "bbox": [
+      42.52403259277344,
+      667.7149047851562,
+      297.48297119140625,
+      725.7708129882812
+    ]
+  },
+  {
+    "page": 1,
+    "content": "particle with respect to that frame. Add a clock into\nthe frame of  reference to measure the time. If all the\nthree coordinates x, y and z of the particle remain\nunchanged as time passes, we say that  the particle is\nat rest with respect to this frame. If any one or  more\ncoordinates change with time, we say that the body is\nmoving  with respect to this frame.\nThere is no rule or restriction on the choice of a\nframe. We can choose a frame of reference according\nto our convenience to describe the situation under\nstudy. Thus, when we are in a train it is convenient\nto choose a frame attached to our compartment. The\ncoordinates of a suitcase placed on the upper berth do\nnot change with time (unless the train gives a jerk)\nand we say that the suitcase is at rest in the train-\nframe. The different stations, electric poles, trees etc.\nchange their coordinates and we say that they are\nmoving in the train-frame. Thus, we say that \u201cBombay\nis coming\u201d and \u201cPune has already passed\u201d.",
+    "type": "text",
+    "bbox": [
+      315.388671875,
+      223.18760681152344,
+      570.4677734375,
+      451.8541564941406
+    ]
+  },
+  {
+    "page": 1,
+    "content": "In the following sections we shall assume that the\nframe of reference is already chosen and we are\ndescribing the motion of the objects in the chosen\nframe. Sometimes the choice of the frame is clear from\nthe context and we do not mention it. Thus, when one\nsays the car is travelling and the rickshaw is not, it\nis clear that all positions are measured from a frame\nattached to the road.",
+    "type": "text",
+    "bbox": [
+      315.388671875,
+      457.0745849609375,
+      570.3778076171875,
+      551.1223754882812
+    ]
+  },
+  {
+    "page": 1,
+    "content": "Suppose a particle is at A at time t1 and at B at\ntime t2 with respect to a given frame (figure 3.2).",
+    "type": "text",
+    "bbox": [
+      315.4029846191406,
+      589.8005981445312,
+      570.3418579101562,
+      614.2057495117188
+    ]
+  },
+  {
+    "page": 2,
+    "content": "During the time interval t1  to  t2 the particle moves\nalong the path ACB. The length of the path ACB is\ncalled the distance travelled during the time interval\nt1  to  t2. If we connect the initial position A with the\nfinal position B by a straight line, we get the\ndisplacement of the particle. The magnitude of the\ndisplacement is the length of the straight line joining\nthe initial and the final position. The direction is from\nthe initial to the final position. The displacement has\nboth the magnitude as well as the direction. Further\nthe displacements add according to the triangle rule\nof vector addition. Suppose a particle kept on a table\nis displaced on the table and at the same time the\ntable is also displaced in the room. The net\ndisplacement of the particle in the room is obtained by\nthe vector sum of the two displacements. Thus,\ndisplacement is a vector quantity. In contrast the\ndistance covered has only a magnitude and is thus, a\nscalar quantity.",
+    "type": "text",
+    "bbox": [
+      42.51971435546875,
+      63.6802864074707,
+      297.6525573730469,
+      292.1007385253906
+    ]
+  },
+  {
+    "page": 2,
+    "content": "An old person moves on a semi-circular track of radius\n40.0 m during a morning walk. If he starts at one end\nof the track and reaches at the other end, find the\ndistance covered and the displacement of the person.",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      322.0894775390625,
+      297.54400634765625,
+      367.08856201171875
+    ]
+  },
+  {
+    "page": 2,
+    "content": "Solution : The distance covered by the person equals the\nlength of the track. It is equal to \u03c0R = \u03c0 \u00d7 40.0 m\n= 126 m.\nThe displacement is equal to the diameter of the\nsemi-circular track joining the two ends. It is 2 R = 2",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      373.49658203125,
+      297.5447692871094,
+      432.66973876953125
+    ]
+  },
+  {
+    "page": 2,
+    "content": "\u00d7 40.0 m = 80 m. The direction of this displacement is\nfrom the initial point to the final point.",
+    "type": "equation",
+    "bbox": [
+      60.51995849609375,
+      436.3768615722656,
+      297.5467224121094,
+      461.57684326171875
+    ]
+  },
+  {
+    "page": 2,
+    "content": "3.3 AVERAGE SPEED AND\n    INSTANTANEOUS SPEED",
+    "type": "text",
+    "bbox": [
+      42.52086639404297,
+      494.7994384765625,
+      185.90977478027344,
+      515.7991943359375
+    ]
+  },
+  {
+    "page": 2,
+    "content": "The average speed of a particle in a time interval\nis defined as the distance travelled by the particle\ndivided by the time interval. If the particle travels a\ndistance s in time t1  to  t2, the average speed is defined\nas",
+    "type": "text",
+    "bbox": [
+      42.52007293701172,
+      525.9801635742188,
+      297.6231994628906,
+      585.2005615234375
+    ]
+  },
+  {
+    "page": 2,
+    "content": "The average speed gives the overall \u201crapidity\u201d with which\nthe particle moves in this interval. In a one-day cricket\nmatch, the average run rate is quoted as the total runs\ndivided by the total number of overs used to make these\nruns. Some of the overs may be expensive and some may\nbe economical. Similarly, the average speed gives the\ntotal effect in the given interval. The rapidity or slowness\nmay vary from instant to instant. When an athelete\nstarts running, he or she runs slowly and gradually",
+    "type": "text",
+    "bbox": [
+      42.51997375488281,
+      619.6398315429688,
+      297.7974548339844,
+      725.6594848632812
+    ]
+  },
+  {
+    "page": 2,
+    "content": "increases the rate. We define the instantaneous speed\nat a time t as follows.\nLet \u0394s be the distance travelled in the time interval\nt to t + \u0394t. The average speed in this time interval is",
+    "type": "text",
+    "bbox": [
+      315.5198974609375,
+      194.2998504638672,
+      570.6101684570312,
+      243.1710205078125
+    ]
+  },
+  {
+    "page": 2,
+    "content": "Now make \u0394t vanishingly small and look for the value",
+    "type": "text",
+    "bbox": [
+      315.5193176269531,
+      275.19818115234375,
+      570.5914306640625,
+      285.3817138671875
+    ]
+  },
+  {
+    "page": 2,
+    "content": "of \u0394s\n\u0394t \u22c5 Remember \u0394s is the distance travelled in the",
+    "type": "text",
+    "bbox": [
+      315.519287109375,
+      287.1221008300781,
+      570.5399169921875,
+      306.5384521484375
+    ]
+  },
+  {
+    "page": 2,
+    "content": "chosen time interval \u0394t. As \u0394t approaches 0, the",
+    "type": "text",
+    "bbox": [
+      315.5200500488281,
+      309.3389587402344,
+      570.5512084960938,
+      319.52349853515625
+    ]
+  },
+  {
+    "page": 2,
+    "content": "distance \u0394s also approaches zero but  the ratio \u0394s\n\u0394t has",
+    "type": "text",
+    "bbox": [
+      315.5200500488281,
+      321.2620849609375,
+      570.5380859375,
+      340.6784362792969
+    ]
+  },
+  {
+    "page": 2,
+    "content": "a finite limit.\nThe instantaneous speed at a time t is defined as",
+    "type": "text",
+    "bbox": [
+      315.5200500488281,
+      343.3398742675781,
+      570.5240478515625,
+      367.6994934082031
+    ]
+  },
+  {
+    "page": 2,
+    "content": "v = lim\n\u0394t \u2192 0 \u0394s\n\u0394t = ds\ndt\n\u2026 (3.2)",
+    "type": "equation",
+    "bbox": [
+      315.52008056640625,
+      372.0372009277344,
+      567.6163940429688,
+      396.2910461425781
+    ]
+  },
+  {
+    "page": 2,
+    "content": "where s is the distance travelled in time t. The average\nspeed is defined for a time interval and the\ninstantaneous speed is defined at a particular instant.\nInstantaneous speed is also called \u201cspeed\u201d.",
+    "type": "text",
+    "bbox": [
+      315.51910400390625,
+      402.4402160644531,
+      570.5551147460938,
+      448.46002197265625
+    ]
+  },
+  {
+    "page": 2,
+    "content": "The distance travelled by a particle in time t is  given",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      477.3094787597656,
+      570.5042114257812,
+      486.3094787597656
+    ]
+  },
+  {
+    "page": 2,
+    "content": "by s = (2.5 m/s \n2) t \n2. Find (a) the average speed of the\nparticle during the time 0 to 5.0 s, and (b) the\ninstantaneous  speed at t = 5.0 s.",
+    "type": "equation",
+    "bbox": [
+      333.5194091796875,
+      489.2962951660156,
+      570.5516357421875,
+      526.7492065429688
+    ]
+  },
+  {
+    "page": 2,
+    "content": "Solution : (a) The distance travelled during time 0 to",
+    "type": "text",
+    "bbox": [
+      321.5199890136719,
+      533.6788330078125,
+      570.5574951171875,
+      542.6968383789062
+    ]
+  },
+  {
+    "page": 2,
+    "content": "s = (2.5 m/s \n2) (5.0 s) \n2 = 62.5 m.\nThe average speed during this time is",
+    "type": "equation",
+    "bbox": [
+      333.51910400390625,
+      560.7922973632812,
+      504.20135498046875,
+      586.3763427734375
+    ]
+  },
+  {
+    "page": 2,
+    "content": "(b)         s = (2.5 m/s \n2) t \n2",
+    "type": "equation",
+    "bbox": [
+      333.52001953125,
+      616.5565185546875,
+      465.6157531738281,
+      629.1323852539062
+    ]
+  },
+  {
+    "page": 2,
+    "content": "or,         ds\ndt = (2.5 m/s \n2) (2 t) = (5.0 m/s \n2) t.",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      632.7697143554688,
+      532.1617431640625,
+      653.4697265625
+    ]
+  },
+  {
+    "page": 2,
+    "content": "v = ds\ndt = (5.0 m/s \n2) (5.0 s) = 25 m/s.",
+    "type": "equation",
+    "bbox": [
+      333.51995849609375,
+      669.4296875,
+      541.817138671875,
+      690.1296997070312
+    ]
+  },
+  {
+    "page": 2,
+    "content": "If we plot the distance s as a function of time\n(figure 3.4), the speed at a time t equals the slope of",
+    "type": "text",
+    "bbox": [
+      315.51904296875,
+      703.6401977539062,
+      570.5802612304688,
+      725.66015625
+    ]
+  },
+  {
+    "page": 2,
+    "content": "\u0002 \u0003 \u0004 \u0002 \u0005 \u0006 \u0007 \b \t \n \u000b\n\f \r \u000e \u000f \u0010 \u0006 \u000b \u0007\n\u0005 \r \u000e \u000f \u0011 \u0012 \u000e \u0006 \u0013 \u0014 \u0015 \u0006 \u000f \u0011 \u0016 \u000e \u0006 \u0017 \u0018 \t \t\n\u0013 \u0014 \u0015 \u0010 \u0006 \u0019 \u0015 \u0006 \u001a \u000f \u000e \r \u0018 \u0006 \u001b \r \u000e \u000f \u001c \b",
+    "type": "text",
+    "bbox": [
+      424.45867919921875,
+      69.10698699951172,
+      491.2928161621094,
+      100.43946838378906
+    ]
+  },
+  {
+    "page": 3,
+    "content": "the tangent to the curve at the time t. The average\nspeed in a time interval t to t + \uf044t equals the slope of\nthe chord AB where A and B are the points on the",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      61.4601936340332,
+      297.46099853515625,
+      107.77963256835938
+    ]
+  },
+  {
+    "page": 3,
+    "content": "curve corresponding to the time t and t + \uf044t. As \uf044t\napproaches zero, the chord AB becomes the tangent at",
+    "type": "text",
+    "bbox": [
+      42.52105712890625,
+      232.7087860107422,
+      297.4628601074219,
+      256.9985046386719
+    ]
+  },
+  {
+    "page": 3,
+    "content": "A and the average speed \uf044s\n\uf044t becomes the slope of the",
+    "type": "text",
+    "bbox": [
+      42.5230712890625,
+      257.06390380859375,
+      297.4637451171875,
+      278.80224609375
+    ]
+  },
+  {
+    "page": 3,
+    "content": "If the speed of the particle at time t is v, the\ndistance ds travelled by it in the short time interval\nt  to  t \uf02b dt is v dt. Thus, ds \uf03d vdt. The total distance\ntravelled by the particle in a finite time interval t1 to\nt2 can be obtained by summing over these small\ndistances ds as time changes from t1  to  t2. Thus, the\ndistance travelled by a particle in the time interval",
+    "type": "text",
+    "bbox": [
+      42.51722717285156,
+      305.0594482421875,
+      297.47711181640625,
+      401.3604736328125
+    ]
+  },
+  {
+    "page": 3,
+    "content": "If we plot a graph of the speed v versus time t, the\ndistance travelled by the particle can be obtained by\nfinding the area under the curve. Figure (3.5) shows\nsuch a speed-time graph. To find the distance travelled\nin the time interval t1  to  t2 we draw ordinates from\nt \uf03d t1 and t \uf03d t2. The area bounded by the curve  v \uf02d t,\nthe X-axis and the two ordinates at t \uf03d t1 and t \uf03d t2\n(shown shaded in the figure) gives the total distance\ncovered.",
+    "type": "text",
+    "bbox": [
+      42.51898193359375,
+      582.9813232421875,
+      297.4929504394531,
+      693.2001342773438
+    ]
+  },
+  {
+    "page": 3,
+    "content": "The dimension of speed is LT \n\u2013 1 and its SI unit is\nmetre/second abbreviated as m/s.",
+    "type": "text",
+    "bbox": [
+      42.5205078125,
+      700.7977294921875,
+      297.436279296875,
+      725.66015625
+    ]
+  },
+  {
+    "page": 3,
+    "content": "Figure (3.6) shows the speed versus time graph for a\nparticle. Find the distance travelled by the particle\nduring the time t = 0 to t \uf03d 3 s.",
+    "type": "equation",
+    "bbox": [
+      315.3999938964844,
+      81.42948150634766,
+      570.2810668945312,
+      115.3133544921875
+    ]
+  },
+  {
+    "page": 3,
+    "content": "Solution : The distance travelled by the particle in the\ntime 0 to 3 s is equal to the area shaded in the figure.\nThis is a right angled triangle with height \uf03d 6 m/s and",
+    "type": "text",
+    "bbox": [
+      321.3999938964844,
+      225.9388885498047,
+      570.3284912109375,
+      259.854248046875
+    ]
+  },
+  {
+    "page": 3,
+    "content": "the base \uf03d 3 s. The area is 1\n2 \uf028base\uf029 \uf028height\uf029 \uf03d 1\n2 \uf0b4 \uf0283 s\uf029",
+    "type": "text",
+    "bbox": [
+      333.40081787109375,
+      262.7129211425781,
+      570.2772216796875,
+      281.1331787109375
+    ]
+  },
+  {
+    "page": 3,
+    "content": "\uf0286 m/s\uf029 \uf03d 9 m. Thus, the particle covered a distance of\n9 m during the time 0 to 3 s.",
+    "type": "text",
+    "bbox": [
+      333.3998718261719,
+      282.2669982910156,
+      570.2843017578125,
+      306.05596923828125
+    ]
+  },
+  {
+    "page": 3,
+    "content": "3.4 AVERAGE VELOCITY AND\n    INSTANTANEOUS VELOCITY",
+    "type": "text",
+    "bbox": [
+      315.3998718261719,
+      337.6585693359375,
+      476.40167236328125,
+      358.65826416015625
+    ]
+  },
+  {
+    "page": 3,
+    "content": "The average velocity of a particle in a time interval\nt1 to  t2 is defined as its displacement divided by the\ntime interval. If  the particle is at a point A (figure\n3.7) at time t = t1 and at B at time t \uf03d t2, the",
+    "type": "equation",
+    "bbox": [
+      315.3990478515625,
+      368.18017578125,
+      570.3329467773438,
+      415.5577392578125
+    ]
+  },
+  {
+    "page": 3,
+    "content": "displacement in this time interval is the vector AB \n\uf0ae\n.\nThe average velocity in this time interval is then,",
+    "type": "text",
+    "bbox": [
+      315.399658203125,
+      409.1683349609375,
+      570.3055419921875,
+      442.3387451171875
+    ]
+  },
+  {
+    "page": 3,
+    "content": "Like displacement, it is a vector quantity.\nPosition vector : If we join the origin to the position\nof the particle by a straight line and put an arrow\ntowards the position of the particle, we get the position\nvector of the particle. Thus, the position vector of the",
+    "type": "text",
+    "bbox": [
+      315.399658203125,
+      605.5995483398438,
+      570.377685546875,
+      665.8397827148438
+    ]
+  },
+  {
+    "page": 3,
+    "content": "particle shown in figure (3.7) at time t \uf03d t1 is OA \n\uf0ae\n and",
+    "type": "text",
+    "bbox": [
+      315.399658203125,
+      659.7286987304688,
+      570.3314819335938,
+      681.9577026367188
+    ]
+  },
+  {
+    "page": 3,
+    "content": "that at t \uf03d t2 is OB \n\uf0ae\n. The displacement of the particle\nin the time interval t1 to t2 is",
+    "type": "text",
+    "bbox": [
+      315.3997802734375,
+      675.5687255859375,
+      570.3436889648438,
+      710.5776977539062
+    ]
+  },
+  {
+    "page": 3,
+    "content": "AB \n\uf0ae\n\uf03d AO \n\uf0ae\n\uf02b OB \n\uf0ae\n\uf03d OB \n\uf0ae\n\uf02d OA \n\uf0ae\n\uf03d r\n\uf0ae",
+    "type": "text",
+    "bbox": [
+      315.4004821777344,
+      704.48486328125,
+      495.71624755859375,
+      726.4246826171875
+    ]
+  },
+  {
+    "page": 3,
+    "content": "Rest and Motion : Kinematics\n33",
+    "type": "text",
+    "bbox": [
+      249.75997924804688,
+      31.113069534301758,
+      570.569580078125,
+      39.09307098388672
+    ]
+  },
+  {
+    "page": 4,
+    "content": "The average velocity of a particle in the time interval\nt1 to t2  can be written as",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      63.4805793762207,
+      297.46893310546875,
+      86.56574249267578
+    ]
+  },
+  {
+    "page": 4,
+    "content": "Note that only the positions of the particle at time\nt = t1  and t = t2 are used in calculating the average\nvelocity. The positions in between t1 and t2 are not\nneeded, hence the actual path taken in going from A\nto B is not important in calculating the average\nvelocity.",
+    "type": "equation",
+    "bbox": [
+      42.519805908203125,
+      120.84062957763672,
+      297.6444091796875,
+      191.94039916992188
+    ]
+  },
+  {
+    "page": 4,
+    "content": "A table clock has its minute hand 4.0 cm long. Find the\naverage velocity of the tip of the minute hand (a) between\n6.00 a.m. to 6.30 a.m. and (b) between 6.00 a.m. to\n6.30 p.m.",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      216.4590301513672,
+      297.52508544921875,
+      265.0580749511719
+    ]
+  },
+  {
+    "page": 4,
+    "content": "Solution : At 6.00 a.m. the tip of the minute hand is at\n12 mark and at  6.30 a.m. or 6.30 p.m. it is 180\u00b0 away.\nThus, the straight line  distance between the initial and\nfinal position of the tip is  equal to the diameter of the\nclock.\nDisplacement = 2 R = 2 \u00d7 4.0 cm = 8.0 cm.",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      267.5185852050781,
+      297.7503356933594,
+      342.2957458496094
+    ]
+  },
+  {
+    "page": 4,
+    "content": "The displacement is from the 12 mark to the 6 mark on\nthe clock panel. This is also the direction of the average\nvelocity in both cases.",
+    "type": "text",
+    "bbox": [
+      60.52032470703125,
+      347.19732666015625,
+      297.0583801269531,
+      380.19671630859375
+    ]
+  },
+  {
+    "page": 4,
+    "content": "(a) The time taken from 6.00 a.m. to 6.30 a.m. is 30\nminutes = 1800 s. The average velocity is",
+    "type": "equation",
+    "bbox": [
+      60.5194091796875,
+      381.4566955566406,
+      297.552490234375,
+      406.97509765625
+    ]
+  },
+  {
+    "page": 4,
+    "content": "vav = Displacement\ntime\n = 8.0 cm\n1800 s = 4.4 \u00d7 10\n \u2212 3 cm/s.",
+    "type": "equation",
+    "bbox": [
+      60.519412994384766,
+      411.8780212402344,
+      268.8010559082031,
+      436.0592041015625
+    ]
+  },
+  {
+    "page": 4,
+    "content": "(b) The time taken from 6.00 a.m. to 6.30 p.m. is 12\nhours and 30  minutes = 45000 s. The average velocity\nis",
+    "type": "equation",
+    "bbox": [
+      60.51942443847656,
+      437.31829833984375,
+      297.60638427734375,
+      474.87799072265625
+    ]
+  },
+  {
+    "page": 4,
+    "content": "vav = Displacement\ntime\n = 8.0 cm\n45000 s = 1.8 \u00d7 10\n \u2212 4 cm/s.",
+    "type": "equation",
+    "bbox": [
+      60.51942443847656,
+      479.7380065917969,
+      269.76104736328125,
+      503.919189453125
+    ]
+  },
+  {
+    "page": 4,
+    "content": "The instantaneous velocity of a particle at a time\nt is defined as follows. Let the average velocity of the\nparticle in a short time interval t to t + \u2206t be v\n\u2192\nav. This\naverage velocity can be written as",
+    "type": "text",
+    "bbox": [
+      42.52055358886719,
+      522.840576171875,
+      297.54412841796875,
+      572.4004516601562
+    ]
+  },
+  {
+    "page": 4,
+    "content": "where \u2206r\n\u2192 is the displacement in the time interval \u2206t.\nWe now make \u2206t vanishingly small and find the",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      598.1661987304688,
+      297.5711669921875,
+      629.8300170898438
+    ]
+  },
+  {
+    "page": 4,
+    "content": "\u2206t \u22c5 This value is instantaneous",
+    "type": "text",
+    "bbox": [
+      134.86000061035156,
+      637.9539184570312,
+      297.52252197265625,
+      657.9688720703125
+    ]
+  },
+  {
+    "page": 4,
+    "content": "velocity v\n\u2192 of the particle at time t.",
+    "type": "text",
+    "bbox": [
+      42.51948547363281,
+      650.2462158203125,
+      206.58274841308594,
+      668.0621948242188
+    ]
+  },
+  {
+    "page": 4,
+    "content": "For very small intervals the displacement \u2206r\n\u2192 is along\nthe line of  motion of the particle. Thus, the length",
+    "type": "text",
+    "bbox": [
+      42.51924133300781,
+      695.066162109375,
+      297.6191711425781,
+      725.64013671875
+    ]
+  },
+  {
+    "page": 4,
+    "content": "\u2206r equals the distance \u2206s travelled in that interval. So\nthe magnitude of the velocity is",
+    "type": "text",
+    "bbox": [
+      315.51983642578125,
+      59.493263244628906,
+      570.5639038085938,
+      84.53945922851562
+    ]
+  },
+  {
+    "page": 4,
+    "content": "dt \uf8f4\n\uf8f4\n\uf8f4\n = |dr\n\u2192 |\ndt\n = ds\ndt\n\u2026 (3.6)",
+    "type": "equation",
+    "bbox": [
+      391.6600036621094,
+      82.76618957519531,
+      567.6254272460938,
+      116.11005401611328
+    ]
+  },
+  {
+    "page": 4,
+    "content": "which \nis \nthe \ninstantaneous \nspeed \nat \ntime \nt.\nInstantaneous velocity  is also called the \u201cvelocity\u201d.",
+    "type": "text",
+    "bbox": [
+      315.5201416015625,
+      118.91985321044922,
+      570.5421752929688,
+      140.93978881835938
+    ]
+  },
+  {
+    "page": 4,
+    "content": "3.5 AVERAGE ACCELERATION AND\n    INSTANTANEOUS ACCELERATION",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      155.5436248779297,
+      505.2669372558594,
+      176.54331970214844
+    ]
+  },
+  {
+    "page": 4,
+    "content": "If the velocity of a particle remains constant as\ntime passes, we say that it is moving with uniform\nvelocity. If the velocity changes with time, it is said to\nbe accelerated. The acceleration is the rate of change\nof velocity. Velocity is a vector quantity hence a change\nin its magnitude or direction or both will change the\nvelocity.\nSuppose the velocity of a particle at time t1 is v\n\u2192",
+    "type": "text",
+    "bbox": [
+      315.5200500488281,
+      186.12059020996094,
+      570.5892944335938,
+      283.42572021484375
+    ]
+  },
+  {
+    "page": 4,
+    "content": "acceleration a\n\u2192\nav as the change in velocity divided by\nthe time interval. Thus,",
+    "type": "text",
+    "bbox": [
+      315.5201416015625,
+      308.3661804199219,
+      570.6033325195312,
+      339.60040283203125
+    ]
+  },
+  {
+    "page": 4,
+    "content": "Again the average acceleration depends only on the\nvelocities at time t1 and t2 . How the velocity changed\nin between t1 and t2 is not important in defining the\naverage acceleration.\nInstantaneous acceleration of a particle at time t\nis defined as",
+    "type": "text",
+    "bbox": [
+      315.51922607421875,
+      375.060791015625,
+      570.5883178710938,
+      447.2998352050781
+    ]
+  },
+  {
+    "page": 4,
+    "content": "where \u2206v\n\u2192 is the change in velocity between the time t\nand t + \u2206t. At time t the velocity is v\n\u2192 and at time",
+    "type": "text",
+    "bbox": [
+      315.5196228027344,
+      474.5061950683594,
+      570.5667114257812,
+      507.9706115722656
+    ]
+  },
+  {
+    "page": 4,
+    "content": "t + \u2206t it becomes v\n\u2192 + \u2206v\n\u2192. \u2206v\n\u2192",
+    "type": "text",
+    "bbox": [
+      315.5200500488281,
+      504.26617431640625,
+      443.9362487792969,
+      529.8098754882812
+    ]
+  },
+  {
+    "page": 4,
+    "content": "of the particle in the interval \u2206t. As \u2206t approaches zero,\nthis average acceleration becomes the instantaneous\nacceleration. Instantaneous acceleration is also called\n\u201cacceleration\u201d.\nThe dimension of acceleration is LT\n \u2013 2 and its SI\nunit is metre/second\n 2 abbreviated as m/s\n 2.",
+    "type": "text",
+    "bbox": [
+      315.51959228515625,
+      536.7938842773438,
+      570.5867309570312,
+      611.2805786132812
+    ]
+  },
+  {
+    "page": 4,
+    "content": "When a particle is constrained to move on a\nstraight line, the description becomes fairly simple. We\nchoose the line as the X-axis and a suitable time\ninstant as t = 0. Generally the origin is taken at the\npoint where the particle is situated at t = 0. The\nposition of the particle at time t is given by its\ncoordinate x at that time. The velocity is",
+    "type": "equation",
+    "bbox": [
+      315.51898193359375,
+      644.5205688476562,
+      570.6384887695312,
+      725.6605834960938
+    ]
+  },
+  {
+    "page": 5,
+    "content": "and the acceleration is a = dv\ndt\n\u2026 (3.10)",
+    "type": "equation",
+    "bbox": [
+      42.52006530761719,
+      90.85985565185547,
+      294.5863037109375,
+      113.71945190429688
+    ]
+  },
+  {
+    "page": 5,
+    "content": "\uf8f6\n\uf8f7\n\uf8f8\n = d \n2x\ndt \n2 \u22c5\n\u2026 (3.11)",
+    "type": "equation",
+    "bbox": [
+      200.67999267578125,
+      117.8727798461914,
+      294.5863952636719,
+      147.36964416503906
+    ]
+  },
+  {
+    "page": 5,
+    "content": "If dx\ndt is positive, the direction of the velocity is",
+    "type": "text",
+    "bbox": [
+      60.520111083984375,
+      151.37759399414062,
+      297.31695556640625,
+      169.79783630371094
+    ]
+  },
+  {
+    "page": 5,
+    "content": "along the positive X-axis and if dx\ndt is negative, the",
+    "type": "text",
+    "bbox": [
+      42.52032470703125,
+      171.41763305664062,
+      297.3735656738281,
+      189.83787536621094
+    ]
+  },
+  {
+    "page": 5,
+    "content": "direction, is along the negative X-axis. Similarly if dv\ndt\nis positive, the acceleration is along the positive X-axis",
+    "type": "text",
+    "bbox": [
+      42.51985168457031,
+      191.45761108398438,
+      297.42376708984375,
+      221.90164184570312
+    ]
+  },
+  {
+    "page": 5,
+    "content": "and if dv\ndt is negative, the acceleration is along the",
+    "type": "text",
+    "bbox": [
+      42.52000427246094,
+      223.49765014648438,
+      297.287353515625,
+      241.9178924560547
+    ]
+  },
+  {
+    "page": 5,
+    "content": "negative X-axis. The magnitude of v is speed. If the\nvelocity and the acceleration are both positive, the\nspeed increases. If both of them are negative then also\nthe speed increases but if they have opposite signs, the\nspeed decreases. When the speed decreases, we say\nthat the particle is decelerating. Deceleration is\nequivalent to negative acceleration. An acceleration of\n2.0 m/s\n 2 towards east is same as a deceleration of\n2.0 m/s\n 2 towards west.",
+    "type": "text",
+    "bbox": [
+      42.51966857910156,
+      243.90049743652344,
+      297.6390686035156,
+      349.9205627441406
+    ]
+  },
+  {
+    "page": 5,
+    "content": "Motion with Constant Acceleration",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      361.2236022949219,
+      209.5240020751953,
+      370.2236022949219
+    ]
+  },
+  {
+    "page": 5,
+    "content": "Suppose the acceleration of a particle is a and\nremains constant. Let the velocity at time 0 be u and\nthe velocity at time t be v. Thus,",
+    "type": "text",
+    "bbox": [
+      42.52008056640625,
+      378.360595703125,
+      297.45697021484375,
+      412.4015197753906
+    ]
+  },
+  {
+    "page": 5,
+    "content": "dv\ndt = a,     or,     dv = a dt",
+    "type": "equation",
+    "bbox": [
+      60.52002716064453,
+      416.540771484375,
+      230.9685516357422,
+      439.400390625
+    ]
+  },
+  {
+    "page": 5,
+    "content": "As time changes from 0 to t the velocity changes from\nu to v. So on the left hand side the summation is made\nover v from u to v whereas on the right hand side the\nsummation is made on time from 0 to t. Evaluating\nthe integrals we get,",
+    "type": "text",
+    "bbox": [
+      42.52082824707031,
+      482.0399475097656,
+      297.4717712402344,
+      540.0597534179688
+    ]
+  },
+  {
+    "page": 5,
+    "content": "or,        v \u2212 u = at\n   or,          v = u + at.\n\u2026 (3.12)",
+    "type": "equation",
+    "bbox": [
+      42.517982482910156,
+      563.9138793945312,
+      294.5821533203125,
+      591.3696899414062
+    ]
+  },
+  {
+    "page": 5,
+    "content": "Equation (3.12) may be written as",
+    "type": "text",
+    "bbox": [
+      60.515869140625,
+      596.82080078125,
+      223.69161987304688,
+      606.8408203125
+    ]
+  },
+  {
+    "page": 5,
+    "content": "At t = 0 the particle is at x = 0. As time changes\nfrom 0 to t the position changes from 0 to x. So on the\nleft hand side the summation is made on position from",
+    "type": "equation",
+    "bbox": [
+      42.51556396484375,
+      688.5924682617188,
+      297.4244079589844,
+      725.6386108398438
+    ]
+  },
+  {
+    "page": 5,
+    "content": "0 to x whereas on the right hand side the summation\nis made on time from 0 to t. Evaluating the integrals,\nthe above equation becomes",
+    "type": "text",
+    "bbox": [
+      315.3952331542969,
+      61.4388313293457,
+      570.410400390625,
+      95.45870971679688
+    ]
+  },
+  {
+    "page": 5,
+    "content": "or,      x = ut + 1\n2 at \n2 \u22c5\n\u2026 (3.13)",
+    "type": "equation",
+    "bbox": [
+      315.3999938964844,
+      217.38023376464844,
+      567.466552734375,
+      240.23983764648438
+    ]
+  },
+  {
+    "page": 5,
+    "content": "or,         = u \n2 + 2 uat + a \n2t \n2",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      276.3457336425781,
+      493.09600830078125,
+      289.9898986816406
+    ]
+  },
+  {
+    "page": 5,
+    "content": "or,         = u \n2 + 2a\uf8eb\n\uf8ec\n\uf8ed\nut + 1\n2 at \n2\uf8f6\n\uf8f7\n\uf8f8\n   or,         = u \n2 + 2ax.  \n... (3.14)",
+    "type": "equation",
+    "bbox": [
+      315.400390625,
+      292.29278564453125,
+      567.4678955078125,
+      336.1302490234375
+    ]
+  },
+  {
+    "page": 5,
+    "content": "The three equations (3.12) to (3.14) are collected\nbelow in table 3.1. They are very useful in solving the\nproblems of motion in a straight line with constant\nacceleration.",
+    "type": "text",
+    "bbox": [
+      315.40069580078125,
+      341.6401672363281,
+      570.3796997070312,
+      387.65997314453125
+    ]
+  },
+  {
+    "page": 5,
+    "content": "Remember that x represents the position of the\nparticle at time t and not (in general) the distance\ntravelled by it in time 0 to t. For example, if the\nparticle starts from the origin and goes upto x = 4 m,\nthen turns and is at x = 2 m at time t, the distance\ntravelled is 6 m but the position is still given by\nx = 2 m.",
+    "type": "equation",
+    "bbox": [
+      315.3996276855469,
+      492.3011779785156,
+      570.4286499023438,
+      577.569091796875
+    ]
+  },
+  {
+    "page": 5,
+    "content": "The quantities u, v and a may take positive or\nnegative values depending on whether they are\ndirected along the positive or negative direction.\nSimilarly x may be positive or negative.",
+    "type": "text",
+    "bbox": [
+      315.3987121582031,
+      581.81982421875,
+      570.4478149414062,
+      627.8607788085938
+    ]
+  },
+  {
+    "page": 5,
+    "content": "A particle starts with an initial velocity 2.5 m/s along\nthe positive x direction and it accelerates uniformly at\nthe rate 0.50 m/s\n 2. (a) Find the distance travelled by it\nin the first two seconds. (b) How much time does it take\nto reach the velocity 7.5 m/s ? (c) How much distance will\nit cover in reaching the velocity 7.5 m/s ?",
+    "type": "text",
+    "bbox": [
+      315.3999938964844,
+      652.8389892578125,
+      570.3749389648438,
+      725.4683227539062
+    ]
+  },
+  {
+    "page": 5,
+    "content": "Rest and Motion : Kinematics\n35",
+    "type": "text",
+    "bbox": [
+      249.75999450683594,
+      31.096651077270508,
+      570.5241088867188,
+      39.07665252685547
+    ]
+  },
+  {
+    "page": 6,
+    "content": "= (2.5 m/s) (2 s) + 1\n2 (0.50 m/s \n2) (2 s) \n2",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      96.79660034179688,
+      249.10887145996094,
+      115.21685028076172
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Since the particle does not turn back it is also the\ndistance travelled.",
+    "type": "text",
+    "bbox": [
+      60.52178192138672,
+      137.3188934326172,
+      297.122802734375,
+      158.31858825683594
+    ]
+  },
+  {
+    "page": 6,
+    "content": "or,  7.5 m/s = 2.5 m/s + (0.50 m/s \n2) t",
+    "type": "equation",
+    "bbox": [
+      60.52088165283203,
+      192.09825134277344,
+      211.76739501953125,
+      205.25698852539062
+    ]
+  },
+  {
+    "page": 6,
+    "content": "or,      t = 7.5 m/s \u2212 2.5 m/s\n0.50 m/s \n2\n = 10 s",
+    "type": "equation",
+    "bbox": [
+      60.519683837890625,
+      210.21800231933594,
+      217.35702514648438,
+      236.1379852294922
+    ]
+  },
+  {
+    "page": 6,
+    "content": "or,  (7.5 m/s) \n2 = (2.5 m/s) \n2 + 2(0.50 m/s \n2)x",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      270.6379699707031,
+      238.65969848632812,
+      283.7969970703125
+    ]
+  },
+  {
+    "page": 6,
+    "content": "or,       \nx = (7.5 m/s) \n2 \u2212 (2.5 m/s) \n2",
+    "type": "equation",
+    "bbox": [
+      60.519989013671875,
+      288.81829833984375,
+      224.74887084960938,
+      308.3372802734375
+    ]
+  },
+  {
+    "page": 6,
+    "content": "A particle having initial velocity u moves with a constant\nacceleration a for a time t. (a) Find the displacement of\nthe particle in the last 1 second. (b) Evaluate it for\nu = 5 m/s, a = 2 m/s \n2 and t = 10 s.",
+    "type": "equation",
+    "bbox": [
+      42.52000045776367,
+      361.569580078125,
+      297.5286560058594,
+      408.2373962402344
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Solution : (a) The position at time t is",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      414.5185852050781,
+      216.00160217285156,
+      423.5491943359375
+    ]
+  },
+  {
+    "page": 6,
+    "content": "The position at time (t \u2212 1 s) is",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      451.4100036621094,
+      192.7209930419922,
+      463.13787841796875
+    ]
+  },
+  {
+    "page": 6,
+    "content": "s\u2032 = u(t \u2212 1 s) + 1\n2 a(t \u2212 1 s) \n2",
+    "type": "equation",
+    "bbox": [
+      97.89968872070312,
+      468.098876953125,
+      209.20887756347656,
+      488.79888916015625
+    ]
+  },
+  {
+    "page": 6,
+    "content": "= ut \u2212 u(1 s) + 1\n2 at \n2 \u2212 at(1 s) + 1\n2 a(1 s) \n2",
+    "type": "equation",
+    "bbox": [
+      106.54000091552734,
+      493.7174072265625,
+      269.2688903808594,
+      514.41748046875
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Thus, the displacement in the last 1 s is",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      519.3986206054688,
+      234.2740478515625,
+      528.3986206054688
+    ]
+  },
+  {
+    "page": 6,
+    "content": "= u(1 s) + at(1 s) \u2212 1\n2 a (1 s) \n2",
+    "type": "equation",
+    "bbox": [
+      106.53971099853516,
+      548.8558959960938,
+      221.44886779785156,
+      569.555908203125
+    ]
+  },
+  {
+    "page": 6,
+    "content": "or, \nst = u(1 s) + a\n2 (2 t \u2212 1 s) (1 s).\n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      42.52000045776367,
+      573.60888671875,
+      294.5668029785156,
+      594.2783203125
+    ]
+  },
+  {
+    "page": 6,
+    "content": "(b) Putting the given values in (i)",
+    "type": "text",
+    "bbox": [
+      60.519073486328125,
+      598.298583984375,
+      206.7331085205078,
+      607.298583984375
+    ]
+  },
+  {
+    "page": 6,
+    "content": "\uf8f6\n\uf8f7\n\uf8f8\n (1 s) + 1\n2 \uf8eb\n\uf8ec\n\uf8ed\n2 m\ns \n2",
+    "type": "text",
+    "bbox": [
+      133.83999633789062,
+      610.4099731445312,
+      196.4288787841797,
+      637.7376098632812
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Sometimes, we are not careful in writing the units\nappearing with the numerical values of physical\nquantities. If we forget to write the unit of second in\nequation (i), we get,",
+    "type": "text",
+    "bbox": [
+      60.51880645751953,
+      680.4398193359375,
+      297.5606994628906,
+      725.4389038085938
+    ]
+  },
+  {
+    "page": 6,
+    "content": "This equation is often used to calculate the displacement\nin the \u201ctth second\u201d. However, as you can verify, different\nterms in this equation have different dimensions and\nhence the above equation is dimensionally incorrect.\nEquation (i) is the correct form which was used to solve\npart (b).",
+    "type": "text",
+    "bbox": [
+      333.5208740234375,
+      86.9788589477539,
+      570.5897216796875,
+      155.9773406982422
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Also note that this equation gives the displacement of\nthe particle in the last 1 second and not necessarily the\ndistance covered in that second.",
+    "type": "text",
+    "bbox": [
+      333.5217590332031,
+      160.95701599121094,
+      570.1585083007812,
+      193.95640563964844
+    ]
+  },
+  {
+    "page": 6,
+    "content": "A common example of motion in a straight line\nwith constant acceleration is free fall of a body near\nthe earth\u2019s surface. If air resistance is neglected and\na body is dropped near the surface of the earth, it falls\nalong a vertical straight line. The acceleration is in the\nvertically downward direction and its magnitude is\nalmost constant if the height is small as compared with\nthe radius of the earth (6400 km). This magnitude is\napproximately equal to 9.8 m/s\n 2 or 32 ft/s\n 2 and is\ndenoted by the letter g.\nIf we take vertically upward as the positive Y-axis,\nacceleration is along the negative Y-axis and we write\na = \u2013 g. The equation (3.12) to (3.14) may be written\nin this case as\n            v = u \u2212 gt",
+    "type": "equation",
+    "bbox": [
+      315.5198669433594,
+      240.6605682373047,
+      570.6531372070312,
+      425.5898132324219
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Here y is the y-coordinate (that is the height above\nthe origin) at time t, u is the velocity in y direction at\nt = 0 and v is the velocity in y direction at time t. The\nposition of the particle at t = 0 is y = 0.",
+    "type": "equation",
+    "bbox": [
+      315.5177001953125,
+      474.4208679199219,
+      570.6248779296875,
+      522.6098022460938
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Sometimes it is convenient to choose vertically\ndownward as the positive Y-axis. Then a = g and the\nequations (3.12) to (3.14) become\n             v = u + gt",
+    "type": "equation",
+    "bbox": [
+      315.5187683105469,
+      526.9205932617188,
+      570.52978515625,
+      577.5093383789062
+    ]
+  },
+  {
+    "page": 6,
+    "content": "A ball is thrown up at a speed of 4.0 m/s. Find the\nmaximum height reached by the ball. Take g = 10 m/s\n 2.",
+    "type": "equation",
+    "bbox": [
+      315.5199890136719,
+      647.6190185546875,
+      570.5791625976562,
+      673.1365356445312
+    ]
+  },
+  {
+    "page": 6,
+    "content": "Solution : Let us take vertically upward direction as the\npositive Y-axis. We have u = 4.0 m/s and a = \u201310 m/s\n 2.\nAt the highest point the velocity becomes zero. Using\nthe formula.",
+    "type": "equation",
+    "bbox": [
+      321.5199890136719,
+      679.4786376953125,
+      570.64599609375,
+      725.4380493164062
+    ]
+  },
+  {
+    "page": 7,
+    "content": "0 = (4.0 m/s) \n2 + 2(\u2212 10 m/s \n2)y",
+    "type": "equation",
+    "bbox": [
+      60.519691467285156,
+      77.0182876586914,
+      227.1396942138672,
+      90.1769790649414
+    ]
+  },
+  {
+    "page": 7,
+    "content": "If a particle is free to move in a plane, its position\ncan be located with two coordinates. We choose the\nplane of motion as the X-Y plane. We choose a suitable\ninstant as t = 0 and choose the origin at the place\nwhere the particle is situated at t = 0. Any two\nconvenient mutually perpendicular directions in the\nX-Y plane are chosen as the X and Y-axes.\nThe position of the particle at a time t is completely\nspecified by its coordinates (x, y). The coordinates at\ntime t + \u2206t are (x + \u2206x, y + \u2206y). Figure (3.8) shows the\npositions at t and t + \u2206t as A and B respectively. The\ndisplacement during the time interval t to t + \u2206t is",
+    "type": "equation",
+    "bbox": [
+      42.519073486328125,
+      169.9205780029297,
+      297.4830627441406,
+      318.2471923828125
+    ]
+  },
+  {
+    "page": 7,
+    "content": "v\n\u2192 = dx\ndt i\n\u2192 + dy\ndt j\n\u2192 .\n\u2026 (3.15)",
+    "type": "equation",
+    "bbox": [
+      42.519569396972656,
+      518.7261962890625,
+      294.58624267578125,
+      543.200927734375
+    ]
+  },
+  {
+    "page": 7,
+    "content": "Thus, we see that the x-component of the velocity is",
+    "type": "text",
+    "bbox": [
+      42.52003479003906,
+      548.8201293945312,
+      291.62127685546875,
+      558.8612060546875
+    ]
+  },
+  {
+    "page": 7,
+    "content": "Differentiating (3.15) with respect to time,",
+    "type": "text",
+    "bbox": [
+      42.52006530761719,
+      635.7009887695312,
+      244.10243225097656,
+      645.7210083007812
+    ]
+  },
+  {
+    "page": 7,
+    "content": "Thus, the acceleration has components",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      679.9805908203125,
+      226.27679443359375,
+      690.0006103515625
+    ]
+  },
+  {
+    "page": 7,
+    "content": "and         ay = dvy\ndt  \u22c5\n\u2026 (3.19)",
+    "type": "equation",
+    "bbox": [
+      315.3997802734375,
+      62.90141677856445,
+      567.4662475585938,
+      87.20059204101562
+    ]
+  },
+  {
+    "page": 7,
+    "content": "We see that the x-coordinate, the x-component of\nvelocity vx and the x-component of acceleration ax are\nrelated by",
+    "type": "text",
+    "bbox": [
+      315.40045166015625,
+      94.02056121826172,
+      570.3082885742188,
+      128.04049682617188
+    ]
+  },
+  {
+    "page": 7,
+    "content": "vx = dx\ndt    and    ax = dvx\ndt  \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.400390625,
+      134.06138610839844,
+      504.5054931640625,
+      158.36087036132812
+    ]
+  },
+  {
+    "page": 7,
+    "content": "These equations are identical to equations (3.9)\nand (3.10). Thus, if ax is constant, integrating these\nequations we get",
+    "type": "text",
+    "bbox": [
+      315.4001770019531,
+      164.4009246826172,
+      570.3739624023438,
+      198.42050170898438
+    ]
+  },
+  {
+    "page": 7,
+    "content": "where ux is the x-component of the velocity at t = 0.\nSimilarly we have",
+    "type": "equation",
+    "bbox": [
+      315.3994140625,
+      257.1338195800781,
+      570.3062133789062,
+      282.8403625488281
+    ]
+  },
+  {
+    "page": 7,
+    "content": "vy = dy\ndt    and    ay = dvy\ndt",
+    "type": "equation",
+    "bbox": [
+      333.4002990722656,
+      288.86138916015625,
+      484.0299987792969,
+      313.1609191894531
+    ]
+  },
+  {
+    "page": 7,
+    "content": "The general scheme for the discussion of motion in\na plane is therefore simple. The x-coordinate, the\nx-component of velocity and the x-component of\nacceleration are related by equations of straight line\nmotion along the X-axis. Similarly the y-coordinate, the\ny-component of velocity and the y-component of\nacceleration are related by the equations of straight\nline motion along the Y-axis. The problem of motion\nin a plane is thus, broken up into two independent\nproblems of straight line motion, one along the X-axis\nand the other along the Y-axis.",
+    "type": "text",
+    "bbox": [
+      315.3977355957031,
+      391.2589416503906,
+      570.5571899414062,
+      521.2993774414062
+    ]
+  },
+  {
+    "page": 7,
+    "content": "A particle moves in the X-Y plane with a constant\nacceleration of 1.5 m/s\n2 in the direction making an angle\nof 37\u00b0 with the X-axis. At t = 0 the particle is at the\norigin and its velocity is 8.0 m/s along the X-axis. Find\nthe velocity and the position of the particle at t = 4.0 s.",
+    "type": "equation",
+    "bbox": [
+      315.3999938964844,
+      558.7296142578125,
+      570.3789672851562,
+      617.5771484375
+    ]
+  },
+  {
+    "page": 7,
+    "content": "Rest and Motion : Kinematics\n37",
+    "type": "text",
+    "bbox": [
+      249.75997924804688,
+      31.096590042114258,
+      570.5240478515625,
+      39.07659149169922
+    ]
+  },
+  {
+    "page": 8,
+    "content": "Solution :      ax = (1.5 m/s \n2) (cos37\u00b0)",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      61.29832077026367,
+      220.29638671875,
+      75.417724609375
+    ]
+  },
+  {
+    "page": 8,
+    "content": "= (1.5 m/s \n2) \u00d7 4\n5 = 1.2 m/s \n2",
+    "type": "equation",
+    "bbox": [
+      60.519378662109375,
+      78.3982925415039,
+      246.52886962890625,
+      99.09830474853516
+    ]
+  },
+  {
+    "page": 8,
+    "content": "and        ay = (1.5 m/s \n2) (sin37\u00b0)",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      103.1783218383789,
+      219.63638305664062,
+      117.2977294921875
+    ]
+  },
+  {
+    "page": 8,
+    "content": "= (1.5 m/s \n2) \u00d7 3\n5 = 0.90 m/s \n2.",
+    "type": "equation",
+    "bbox": [
+      60.51908874511719,
+      122.31827545166016,
+      253.1020050048828,
+      143.01829528808594
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The initial velocity has components",
+    "type": "text",
+    "bbox": [
+      60.52000427246094,
+      148.0582733154297,
+      212.02603149414062,
+      157.0582733154297
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The x-component of the velocity at time t = 4.0 s is given\nby\n        vx = ux + axt",
+    "type": "equation",
+    "bbox": [
+      60.52030944824219,
+      206.73924255371094,
+      297.5200500488281,
+      245.93768310546875
+    ]
+  },
+  {
+    "page": 8,
+    "content": "= 8.0 m/s + (1.2 m/s \n2) (4.0 s)",
+    "type": "equation",
+    "bbox": [
+      60.519691467285156,
+      248.91831970214844,
+      238.71580505371094,
+      262.0773620605469
+    ]
+  },
+  {
+    "page": 8,
+    "content": "= 8.0 m/s + 4.8 m/s = 12.8 m/s.",
+    "type": "equation",
+    "bbox": [
+      60.51850891113281,
+      265.1183166503906,
+      246.80410766601562,
+      278.2770080566406
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The y-component of velocity at t = 4.0 s is given by\n          vy = uy + ay t",
+    "type": "equation",
+    "bbox": [
+      60.51939392089844,
+      279.9989013671875,
+      279.988037109375,
+      307.1977233886719
+    ]
+  },
+  {
+    "page": 8,
+    "content": "= 0 + (0.90 m/s \n2) (4.0 s) = 3.6 m/s.",
+    "type": "equation",
+    "bbox": [
+      60.5194091796875,
+      310.1783142089844,
+      274.2235412597656,
+      323.3370056152344
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The velocity of the particle at t = 4.0 s is",
+    "type": "equation",
+    "bbox": [
+      60.51849365234375,
+      325.05889892578125,
+      236.74481201171875,
+      338.3373107910156
+    ]
+  },
+  {
+    "page": 8,
+    "content": "v = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\nvx\n 2 + vy\n 2  = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\n(12.8 m/s) \n2 + (3.6 m/s) \n2",
+    "type": "equation",
+    "bbox": [
+      60.51849365234375,
+      341.8600158691406,
+      242.68887329101562,
+      357.5377197265625
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The velocity makes an angle \u03b8 with the X-axis where",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      376.9503173828125,
+      289.8067321777344,
+      388.67730712890625
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The x-coordinate at t = 4.0 s is",
+    "type": "equation",
+    "bbox": [
+      60.51969909667969,
+      418.47857666015625,
+      192.1060028076172,
+      431.7569885253906
+    ]
+  },
+  {
+    "page": 8,
+    "content": "= (8.0 m/s) (4.0 s) + 1\n2 (1.2 m/s \n2) (4.0 s) \n2",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      455.776611328125,
+      275.0888977050781,
+      474.1968688964844
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The y-coordinate at t = 4.0 s is",
+    "type": "equation",
+    "bbox": [
+      60.520904541015625,
+      493.3583068847656,
+      189.58721923828125,
+      506.5169982910156
+    ]
+  },
+  {
+    "page": 8,
+    "content": "Thus, the particle is at (41.6 m, 7.2 m) at 4.0 s.",
+    "type": "text",
+    "bbox": [
+      60.519996643066406,
+      566.498291015625,
+      267.25543212890625,
+      579.0983276367188
+    ]
+  },
+  {
+    "page": 8,
+    "content": "An important example of motion in a plane with\nconstant acceleration is the projectile motion. When a\nparticle is thrown obliquely near the earth\u2019s surface,\nit moves along a curved path. Such a particle is called\na projectile and its motion is called projectile motion.\nWe shall assume that the particle remains close to the\nsurface of the earth and the air resistance is negligible.\nThe acceleration of the particle is then almost",
+    "type": "text",
+    "bbox": [
+      42.52006530761719,
+      631.62060546875,
+      297.68341064453125,
+      725.6403198242188
+    ]
+  },
+  {
+    "page": 8,
+    "content": "constant. It is in the vertically downward direction and\nits magnitude is g which is about 9.8 m/s\n 2.\nLet us first make ourselves familiar with certain\nterms used in discussing projectile motion. Figure\n(3.10) shows a particle projected from the point O with\nan initial velocity u at an angle \u03b8 with the horizontal.\nIt goes through the highest point A and falls at B on\nthe horizontal surface through O. The point O is called\nthe point of projection, the angle \u03b8 is called the angle\nof projection and the distance OB is called the\nhorizontal range or simply range. The total time taken\nby the particle in describing the path OAB is called\nthe time of flight.\nThe motion of the projectile can be discussed\nseparately for the horizontal and vertical parts. We\ntake the origin at the point of projection. The instant",
+    "type": "equation",
+    "bbox": [
+      315.51983642578125,
+      61.44047927856445,
+      570.6851806640625,
+      257.5198669433594
+    ]
+  },
+  {
+    "page": 8,
+    "content": "when the particle is projected is taken as t = 0. The\nplane of motion is taken as the X-Y plane. The\nhorizontal line OX is taken as the X-axis and the\nvertical line OY as the Y-axis. Vertically upward\ndirection is taken as the positive direction of the\nY-axis.",
+    "type": "equation",
+    "bbox": [
+      315.5218505859375,
+      370.2336120605469,
+      570.6039428710938,
+      443.3016662597656
+    ]
+  },
+  {
+    "page": 8,
+    "content": "We have    ux = u cos\u03b8 ;    ax = 0\n            uy = u sin\u03b8 ;    ay = \u2212 g.",
+    "type": "equation",
+    "bbox": [
+      315.520263671875,
+      446.3138427734375,
+      500.9438781738281,
+      473.7577209472656
+    ]
+  },
+  {
+    "page": 8,
+    "content": "As      ax = 0, we have\n           vx = ux + axt = ux = u cos\u03b8",
+    "type": "equation",
+    "bbox": [
+      315.51983642578125,
+      504.0338439941406,
+      498.9989929199219,
+      531.4777221679688
+    ]
+  },
+  {
+    "page": 8,
+    "content": "and      x = ux t + 1\n2 ax t \n2 = ux t = ut cos\u03b8.",
+    "type": "equation",
+    "bbox": [
+      333.5186767578125,
+      536.056640625,
+      531.3643188476562,
+      554.4768676757812
+    ]
+  },
+  {
+    "page": 8,
+    "content": "As indicated in figure (3.10), the x-component of\nthe velocity remains constant as the particle moves.",
+    "type": "text",
+    "bbox": [
+      315.5184631347656,
+      559.4995727539062,
+      570.54150390625,
+      581.51953125
+    ]
+  },
+  {
+    "page": 8,
+    "content": "The acceleration of the particle is g in the\ndownward direction. Thus, ay = \u2212 g. The y-component\nof the initial velocity is uy. Thus,",
+    "type": "equation",
+    "bbox": [
+      315.5193786621094,
+      613.6806030273438,
+      570.555419921875,
+      650.2667236328125
+    ]
+  },
+  {
+    "page": 8,
+    "content": "and          y = uy t \u2212 1\n2 gt \n2.",
+    "type": "equation",
+    "bbox": [
+      333.51910400390625,
+      670.67919921875,
+      481.685546875,
+      693.5388793945312
+    ]
+  },
+  {
+    "page": 9,
+    "content": "The vertical motion is identical to the motion of a\nparticle projected vertically upward with speed u sin\u03b8.\nThe horizontal motion of the particle is identical to a\nparticle moving horizontally with uniform velocity\nu cos\u03b8.",
+    "type": "equation",
+    "bbox": [
+      42.52007293701172,
+      61.44060134887695,
+      297.4588928222656,
+      120.84894561767578
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Consider the situation shown in figure (3.10). The\nparticle is projected from the point O and reaches the\nsame horizontal plane at the point B. The total time\ntaken to reach B is the time of flight.\nSuppose the particle is at B at a time t. The\nequation for horizontal motion gives\n        OB = x = ut cos\u03b8\nThe y-coordinate at the point B is zero. Thus, from\nthe equation of vertical motion,",
+    "type": "equation",
+    "bbox": [
+      42.51805114746094,
+      149.22056579589844,
+      297.4729919433594,
+      262.8011779785156
+    ]
+  },
+  {
+    "page": 9,
+    "content": "or,         0 = ut sin\u03b8 \u2212 1\n2 gt \n2",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      293.94024658203125,
+      211.63600158691406,
+      316.79986572265625
+    ]
+  },
+  {
+    "page": 9,
+    "content": "or,         t(u sin\u03b8 \u2212 1\n2 gt) = 0.",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      320.94024658203125,
+      217.2702178955078,
+      343.79986572265625
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Thus, either t = 0   or,   t = 2u sin\u03b8\ng\n \u22c5",
+    "type": "equation",
+    "bbox": [
+      60.51832580566406,
+      346.0500183105469,
+      221.90451049804688,
+      369.55010986328125
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Now t = 0 corresponds to the position O of the\nparticle. The time at which it reaches B is thus,",
+    "type": "equation",
+    "bbox": [
+      42.52044677734375,
+      371.6743469238281,
+      297.4182434082031,
+      396.74163818359375
+    ]
+  },
+  {
+    "page": 9,
+    "content": "The distance OB is the horizontal range. It is the",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      468.66058349609375,
+      297.4449462890625,
+      478.7016296386719
+    ]
+  },
+  {
+    "page": 9,
+    "content": "distance travelled by the particle in time T = 2u sin\u03b8\ng\n \u22c5",
+    "type": "equation",
+    "bbox": [
+      42.52006530761719,
+      478.7099914550781,
+      297.44451904296875,
+      502.2100830078125
+    ]
+  },
+  {
+    "page": 9,
+    "content": "By the equation of horizontal motion,\n        x = (ucos\u03b8)t",
+    "type": "equation",
+    "bbox": [
+      42.51966857910156,
+      504.1812744140625,
+      220.62518310546875,
+      529.4505004882812
+    ]
+  },
+  {
+    "page": 9,
+    "content": "= u \n2sin2\u03b8\ng\n \u22c5             \u2026 (3.23)",
+    "type": "equation",
+    "bbox": [
+      42.52000045776367,
+      586.3057250976562,
+      295.7263488769531,
+      612.8018188476562
+    ]
+  },
+  {
+    "page": 9,
+    "content": "At the maximum height (A in figure 3.10) the\nvelocity of the particle is horizontal. The vertical\ncomponent of velocity is thus, zero at the highest point.\nThe maximum height is the y-coordinate of the particle\nwhen the vertical component of velocity becomes zero.\nWe have,\n            vy = uy \u2212 gt",
+    "type": "equation",
+    "bbox": [
+      42.52008056640625,
+      641.1605834960938,
+      297.4079284667969,
+      727.0776977539062
+    ]
+  },
+  {
+    "page": 9,
+    "content": "or,         t = u sin\u03b8\ng\n \u22c5\n\u2026 (3.24)",
+    "type": "equation",
+    "bbox": [
+      315.4016418457031,
+      106.1749038696289,
+      567.4661865234375,
+      132.08285522460938
+    ]
+  },
+  {
+    "page": 9,
+    "content": "= u \n2sin \n2\u03b8\ng\n \u2212 1\n2 u \n2sin \n2\u03b8\ng",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      209.7457275390625,
+      500.50042724609375,
+      236.24075317382812
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Equation (3.24) gives the time taken in reaching\nthe maximum height. Comparison with equation (3.22)\nshows that it is exactly half the time of the flight.\nThus, the time taken in ascending the maximum\nheight equals the time taken in descending back to the\nsame horizontal plane.",
+    "type": "text",
+    "bbox": [
+      315.3998107910156,
+      272.6408386230469,
+      570.4488525390625,
+      342.6605224609375
+    ]
+  },
+  {
+    "page": 9,
+    "content": "A ball is thrown from a field with a speed of 12.0 m/s\nat an angle of 45\u00b0 with the horizontal. At what distance\nwill it hit the field again ? Take g = 10.0 m/s\n 2.",
+    "type": "equation",
+    "bbox": [
+      315.3999938964844,
+      371.01898193359375,
+      570.39404296875,
+      408.7773742675781
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Solution : The horizontal range = u \n2sin2\u03b8\ng",
+    "type": "equation",
+    "bbox": [
+      321.3999938964844,
+      414.510009765625,
+      503.20867919921875,
+      438.0101013183594
+    ]
+  },
+  {
+    "page": 9,
+    "content": "= (12 m/s) \n2 \u00d7 sin(2 \u00d7 45\u00b0)\n10 m/s \n2",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      441.38970947265625,
+      565.2969360351562,
+      465.87921142578125
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Thus, the ball hits the field at 14.4 m from the point of\nprojection.",
+    "type": "text",
+    "bbox": [
+      333.4000244140625,
+      495.4588623046875,
+      570.2466430664062,
+      520.05859375
+    ]
+  },
+  {
+    "page": 9,
+    "content": "So far we have discussed the motion of a particle\nwith respect to a given frame of reference. The frame\ncan be chosen according to the convenience of the\nproblem. The position r\n\u2192, the velocity v\n\u2192 and the\nacceleration a\n\u2192 of a particle depend on the frame\nchosen. Let us see how can we relate the position,\nvelocity and acceleration of a particle measured in two\ndifferent frames.",
+    "type": "text",
+    "bbox": [
+      315.4000549316406,
+      575.4605712890625,
+      570.3521118164062,
+      673.6804809570312
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Consider two frames of reference S and S\u2032 and\nsuppose a particle P is observed from both the frames.\nThe frames may be moving with respect to each other.\nFigure (3.11) shows the situation.",
+    "type": "text",
+    "bbox": [
+      315.4012756347656,
+      676.5940551757812,
+      570.3270874023438,
+      725.6401977539062
+    ]
+  },
+  {
+    "page": 9,
+    "content": "Rest and Motion : Kinematics\n39",
+    "type": "text",
+    "bbox": [
+      249.75999450683594,
+      31.096651077270508,
+      570.5241088867188,
+      39.07665252685547
+    ]
+  },
+  {
+    "page": 10,
+    "content": "The position vector of the particle P with respect",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      192.72056579589844,
+      297.5361022949219,
+      202.76162719726562
+    ]
+  },
+  {
+    "page": 10,
+    "content": "P, S = OP \n\u2192\n. The position vector of the",
+    "type": "equation",
+    "bbox": [
+      131.0800018310547,
+      197.6132049560547,
+      297.4839782714844,
+      219.94671630859375
+    ]
+  },
+  {
+    "page": 10,
+    "content": "particle with respect to the frame S\u2032 is r\n\u2192",
+    "type": "text",
+    "bbox": [
+      42.519989013671875,
+      218.18617248535156,
+      233.8762664794922,
+      236.77040100097656
+    ]
+  },
+  {
+    "page": 10,
+    "content": "P, S\u2032 = O\u2032P \n\u2192\n. The\nposition of the frame S\u2032 (the origin of frame S\u2032 in fact)\nwith respect to the frame S  is  OO\u2032.\nIt is clear that",
+    "type": "equation",
+    "bbox": [
+      42.519775390625,
+      214.53355407714844,
+      297.56390380859375,
+      277.9202575683594
+    ]
+  },
+  {
+    "page": 10,
+    "content": "OP \n\u2192\n= OO\u2032 \n\u2192\n+ O\u2032P \n\u2192\n= O\u2032P \n\u2192\n+ OO\u2032 \n\u2192",
+    "type": "equation",
+    "bbox": [
+      60.52070617675781,
+      277.1725769042969,
+      227.82566833496094,
+      299.40899658203125
+    ]
+  },
+  {
+    "page": 10,
+    "content": "The position of the particle with respect to S is\nequal to the position of the particle with respect to\nS\u2032 plus the position of S\u2032 with respect to S.\nIf we differentiate equation (3.26) with respect to\ntime, we get",
+    "type": "text",
+    "bbox": [
+      42.520355224609375,
+      324.18072509765625,
+      297.63458251953125,
+      385.44000244140625
+    ]
+  },
+  {
+    "page": 10,
+    "content": "P, S is the velocity of the particle with respect",
+    "type": "text",
+    "bbox": [
+      80.44000244140625,
+      440.4605712890625,
+      297.470947265625,
+      451.6667175292969
+    ]
+  },
+  {
+    "page": 10,
+    "content": "P, S\u2032 is the velocity of the particle with respect to",
+    "type": "text",
+    "bbox": [
+      73.23999786376953,
+      455.7605895996094,
+      297.46246337890625,
+      467.4382019042969
+    ]
+  },
+  {
+    "page": 10,
+    "content": "S\u2032, S is the velocity of the frame S\u2032 with respect\nto S. The velocity of the particle with respect to S is\nequal to the velocity of the particle with respect to\nS\u2032 plus the velocity of S\u2032 with respect to S.\nIt is assumed that the meaning of time is same in",
+    "type": "text",
+    "bbox": [
+      42.51947021484375,
+      469.29388427734375,
+      297.5937194824219,
+      534.5404052734375
+    ]
+  },
+  {
+    "page": 10,
+    "content": "both the frames. Similarly it is assumed that d\ndt has",
+    "type": "text",
+    "bbox": [
+      42.520503997802734,
+      536.1576538085938,
+      297.5317687988281,
+      554.577880859375
+    ]
+  },
+  {
+    "page": 10,
+    "content": "same meaning in both the frames. These assumptions\nare not correct if the velocity of one frame with respect\nto the other is so large that it is comparable to\n3 \u00d7 10\n 8 m/s, or if one frame rotates with respect to the\nother. If the frames only translate with respect to each\nother with small velocity, the above assumptions are\ncorrect.\nEquation (3.27) may be rewritten as",
+    "type": "text",
+    "bbox": [
+      42.51979064941406,
+      556.5604858398438,
+      297.5091247558594,
+      653.7601928710938
+    ]
+  },
+  {
+    "page": 10,
+    "content": "Thus, if the velocities of two bodies (here the particle\nand the frame S\u2032) are known with respect to a common\nframe (here S) we can find the velocity of one body\nwith respect to the other body. The velocity of body 1",
+    "type": "text",
+    "bbox": [
+      42.52033233642578,
+      678.5408325195312,
+      297.5845031738281,
+      725.639892578125
+    ]
+  },
+  {
+    "page": 10,
+    "content": "with respect to the body 2 is obtained by subtracting\nthe velocity of body 2 from the velocity of body 1.\nWhen we say that the muzzle velocity of a bullet\nis 60 m/s we mean the velocity of the bullet with\nrespect to the gun. If the gun is mounted in a train\nmoving with a speed of 20 m/s with respect to the\nground and the bullet is fired in the direction of the\ntrain\u2019s motion, its velocity with respect to the ground\nwill be 80 m/s. Similarly, when we say that a swimmer\ncan swim at a speed of 5 km/h we mean the velocity\nof the swimmer with respect to the water. If the water\nitself is flowing at 3 km/h with respect to the ground\nand the swimmer swims in the direction of the current,\nhe or she will move at the speed of 8 km/h with respect\nto the ground.",
+    "type": "text",
+    "bbox": [
+      315.520263671875,
+      61.44011306762695,
+      570.6997680664062,
+      241.43923950195312
+    ]
+  },
+  {
+    "page": 10,
+    "content": "A swimmer can swim in still water at a rate 4.0 km/h.\nIf he swims in a river flowing at 3.0 km/h and keeps his\ndirection (with respect to water) perpendicular to the\ncurrent, find his velocity with respect to the ground.",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      265.2990417480469,
+      570.54931640625,
+      313.9295959472656
+    ]
+  },
+  {
+    "page": 10,
+    "content": "Solution : The velocity of the swimmer with respect to",
+    "type": "text",
+    "bbox": [
+      321.5199890136719,
+      319.8985900878906,
+      570.6549072265625,
+      328.8985900878906
+    ]
+  },
+  {
+    "page": 10,
+    "content": "S, R = 4.0 km/h in the direction perpendicular to\nthe river. The velocity of river with respect to the ground",
+    "type": "equation",
+    "bbox": [
+      333.51995849609375,
+      331.8983154296875,
+      570.6520385742188,
+      357.51861572265625
+    ]
+  },
+  {
+    "page": 10,
+    "content": "R, G = 3.0 km/h along the length of the river. The\nvelocity of the swimmer with respect to the ground is\nv\n\u2192",
+    "type": "equation",
+    "bbox": [
+      333.5196533203125,
+      360.518310546875,
+      570.61572265625,
+      398.1697998046875
+    ]
+  },
+  {
+    "page": 10,
+    "content": "Figure (3.12) shows the velocities. It is clear that,",
+    "type": "text",
+    "bbox": [
+      333.5199890136719,
+      418.4185791015625,
+      547.9808959960938,
+      427.4185791015625
+    ]
+  },
+  {
+    "page": 10,
+    "content": "vS, G = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\n(4.0 km/h) \n2 + (3.0 km/h) \n2",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      556.780029296875,
+      505.66888427734375,
+      572.416015625
+    ]
+  },
+  {
+    "page": 10,
+    "content": "The angle \u03b8 made with the direction of flow is",
+    "type": "equation",
+    "bbox": [
+      333.5208740234375,
+      595.40966796875,
+      533.3631591796875,
+      607.13671875
+    ]
+  },
+  {
+    "page": 10,
+    "content": "tan\u03b8 = 4.0 km/h\n3.0 km/h = 4\n3 \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.5208740234375,
+      609.4580078125,
+      452.4096984863281,
+      633.6383056640625
+    ]
+  },
+  {
+    "page": 10,
+    "content": "A man is walking on a level road at a speed of 3.0 km/h.\nRain drops fall vertically with a speed of 4.0 km/h. Find\nthe velocity of the raindrops with respect to the man.",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      688.8389892578125,
+      570.5465698242188,
+      725.4699096679688
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Solution : We have to find the velocity of raindrops with\nrespect to the man. The velocity of the rain as well as\nthe velocity of the man are given with respect to the\nstreet. We have",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      61.29862594604492,
+      297.5082702636719,
+      106.2977066040039
+    ]
+  },
+  {
+    "page": 11,
+    "content": "v\n\u2192\nrain, man = v\n\u2192\nrain, street \u2212 v\n\u2192\nman, street .",
+    "type": "equation",
+    "bbox": [
+      48.520599365234375,
+      104.72278594970703,
+      219.74200439453125,
+      122.02674102783203
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Figure (3.13) shows the velocities.",
+    "type": "text",
+    "bbox": [
+      60.52030944824219,
+      126.2789077758789,
+      205.86129760742188,
+      135.27891540527344
+    ]
+  },
+  {
+    "page": 11,
+    "content": "It is clear from the figure that",
+    "type": "text",
+    "bbox": [
+      60.52030944824219,
+      248.8589324951172,
+      192.02833557128906,
+      257.8589172363281
+    ]
+  },
+  {
+    "page": 11,
+    "content": "vrain, man = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\n(4.0 km/h) \n2 + (3.0 km/h) \n2",
+    "type": "equation",
+    "bbox": [
+      60.52030944824219,
+      261.4000244140625,
+      239.74887084960938,
+      277.0360107421875
+    ]
+  },
+  {
+    "page": 11,
+    "content": "= 5.0 km/h.\nThe angle with the vertical is \u03b8, where",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      279.998291015625,
+      227.806640625,
+      306.1169738769531
+    ]
+  },
+  {
+    "page": 11,
+    "content": "tan\u03b8 = 3.0 km/h\n4.0 km/h = 3\n4 \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.40093994140625,
+      61.29825973510742,
+      485.6496887207031,
+      85.47855377197266
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Thus, the rain appears to fall at an angle tan\n\u2212 1 (3/4)\nwith the speed 5.0 km/h as viewed by the man.",
+    "type": "text",
+    "bbox": [
+      333.3993835449219,
+      86.71617126464844,
+      570.2589111328125,
+      110.67826080322266
+    ]
+  },
+  {
+    "page": 11,
+    "content": "The relation between the accelerations measured\nfrom two frames can be obtained by differentiating\nequation (3.27) with respect to time.\nWe have,",
+    "type": "text",
+    "bbox": [
+      315.4000549316406,
+      127.56060028076172,
+      570.3289794921875,
+      176.10043334960938
+    ]
+  },
+  {
+    "page": 11,
+    "content": "If S\u2032 moves with respect to S at a uniform velocity,\na\n\u2192",
+    "type": "text",
+    "bbox": [
+      315.3999938964844,
+      223.5941619873047,
+      570.3832397460938,
+      248.96206665039062
+    ]
+  },
+  {
+    "page": 11,
+    "content": "If two frames are moving with respect to each\nother with uniform velocity, acceleration of a body is\nsame in both the frames.",
+    "type": "text",
+    "bbox": [
+      315.40008544921875,
+      271.62091064453125,
+      570.2728271484375,
+      305.6407775878906
+    ]
+  },
+  {
+    "page": 11,
+    "content": "1. A man walks at a speed of 6 km/hr for 1 km and 8 km/hr\nfor the next 1 km. What is his average speed for the walk\nof 2 km ?",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      365.36358642578125,
+      297.7707214355469,
+      398.4097595214844
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Solution : Distance travelled is 2 km.",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      404.48358154296875,
+      213.41470336914062,
+      413.4988708496094
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Time taken   = 1 km\n6 km/hr + 1 km\n8 km/hr",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      417.57830810546875,
+      210.4057159423828,
+      438.2785949707031
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Average speed = 2 km \u00d7 24\n7 hr\n = 48\n7  km/hr",
+    "type": "equation",
+    "bbox": [
+      60.52030944824219,
+      469.1097106933594,
+      221.2239990234375,
+      492.57830810546875
+    ]
+  },
+  {
+    "page": 11,
+    "content": "2. The I.Sc. lecture theatre of a college is 40 ft wide and\nhas a door at a corner. A teacher enters at 12.00 noon\nthrough the door and makes 10 rounds along the 40 ft\nwall back and forth during the period and finally leaves\nthe class-room at 12.50 p.m. through the same door.\nCompute his average speed and average velocity.",
+    "type": "text",
+    "bbox": [
+      42.519981384277344,
+      519.56298828125,
+      297.4836730957031,
+      588.6092529296875
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Solution : Total distance travelled in 50 minutes = 800 ft.",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      593.0702514648438,
+      297.44232177734375,
+      604.7973022460938
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Average speed = 800\n50  ft/min = 16 ft/min.",
+    "type": "equation",
+    "bbox": [
+      60.519989013671875,
+      608.7766723632812,
+      224.68362426757812,
+      627.4188232421875
+    ]
+  },
+  {
+    "page": 11,
+    "content": "At 12.00 noon he is at the door and at 12.50 pm he is\nagain at the same door.\nThe displacement during the 50 min interval is zero. \nAverage velocity = zero.",
+    "type": "equation",
+    "bbox": [
+      60.52003479003906,
+      626.5588989257812,
+      297.42071533203125,
+      676.0767211914062
+    ]
+  },
+  {
+    "page": 11,
+    "content": "3. The position of a particle moving on X-axis is given by\n          x = At \n3 + Bt \n2 + Ct + D.\nThe numerical values of A, B, C, D are 1, 4, \u20132 and 5",
+    "type": "equation",
+    "bbox": [
+      42.52094268798828,
+      690.1430053710938,
+      297.42401123046875,
+      724.9298095703125
+    ]
+  },
+  {
+    "page": 11,
+    "content": "respectively and SI units are used. Find (a) the\ndimensions of A, B, C and D, (b) the velocity of the\nparticle at t = 4 s, (c) the acceleration of the particle at",
+    "type": "equation",
+    "bbox": [
+      333.39971923828125,
+      365.4103698730469,
+      570.4684448242188,
+      401.09698486328125
+    ]
+  },
+  {
+    "page": 11,
+    "content": "t = 4 s, (d) the average velocity during the interval t = 0",
+    "type": "equation",
+    "bbox": [
+      333.39971923828125,
+      403.22998046875,
+      570.3031005859375,
+      414.95697021484375
+    ]
+  },
+  {
+    "page": 11,
+    "content": "to t = 4 s, (e) the average acceleration during the interval",
+    "type": "equation",
+    "bbox": [
+      333.3987731933594,
+      417.1502685546875,
+      570.3325805664062,
+      428.87725830078125
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Solution : (a) Dimensions of x,  At \n3,  Bt \n2,  Ct and D must\nbe identical and in this case each is length. Thus,",
+    "type": "text",
+    "bbox": [
+      321.3999938964844,
+      448.04376220703125,
+      570.3072509765625,
+      470.9185791015625
+    ]
+  },
+  {
+    "page": 11,
+    "content": "[At \n3] = L,   or,  [A] = LT\n \u2212 3",
+    "type": "equation",
+    "bbox": [
+      333.4002990722656,
+      472.2200012207031,
+      491.2683410644531,
+      485.8769836425781
+    ]
+  },
+  {
+    "page": 11,
+    "content": "[Bt \n2] = L,   or,  [B] = LT\n \u2212 2",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      487.2799987792969,
+      491.4483337402344,
+      500.9369812011719
+    ]
+  },
+  {
+    "page": 11,
+    "content": "or,  v = dx\ndt = 3At \n2 + 2Bt + C.",
+    "type": "equation",
+    "bbox": [
+      333.3993225097656,
+      545.9495239257812,
+      449.0622863769531,
+      566.6495361328125
+    ]
+  },
+  {
+    "page": 11,
+    "content": "= 3(1 m/s \n3) (16 s \n2) + 2(4 m/s \n2) (4 s) + (\u2212 2 m/s)\n  = (48 + 32 \u2212 2) m/s = 78 m/s.",
+    "type": "equation",
+    "bbox": [
+      333.3990478515625,
+      581.669677734375,
+      531.6357421875,
+      606.4172973632812
+    ]
+  },
+  {
+    "page": 11,
+    "content": "At t = 4 s, a = 6(1 m/s \n3) (4 s) + 2(4 m/s \n2) = 32 m/s \n2.",
+    "type": "equation",
+    "bbox": [
+      333.39996337890625,
+      647.1299438476562,
+      542.4219970703125,
+      658.8573608398438
+    ]
+  },
+  {
+    "page": 11,
+    "content": "(d) x = At \n3 + Bt \n2 + Ct + D.\nPosition at t = 0 is x = D = 5 m.\nPosition at t = 4 s is",
+    "type": "equation",
+    "bbox": [
+      333.3992614746094,
+      660.9296875,
+      471.9659729003906,
+      698.7570190429688
+    ]
+  },
+  {
+    "page": 11,
+    "content": "(1 m/s \n3) (64 s \n3) + (4 m/s \n2) (16 s \n2) \u2212 (2 m/s) (4 s) + 5 m\n   = (64 + 64 \u2212 8 + 5) m = 125 m.",
+    "type": "equation",
+    "bbox": [
+      333.3987731933594,
+      700.8296508789062,
+      554.6215209960938,
+      725.5773315429688
+    ]
+  },
+  {
+    "page": 11,
+    "content": "\u0096vman,street\nman,street\nv                = 3.0 km/h",
+    "type": "equation",
+    "bbox": [
+      108.36799621582031,
+      144.9590301513672,
+      230.41513061523438,
+      154.10919189453125
+    ]
+  },
+  {
+    "page": 11,
+    "content": "rain,street\nv               = 4.0 km/h",
+    "type": "equation",
+    "bbox": [
+      162.55299377441406,
+      195.4349822998047,
+      228.5807342529297,
+      204.5845947265625
+    ]
+  },
+  {
+    "page": 11,
+    "content": "Rest and Motion : Kinematics\n41",
+    "type": "text",
+    "bbox": [
+      249.76011657714844,
+      31.096223831176758,
+      570.5242309570312,
+      39.07622528076172
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Thus, the displacement during 0 to 4 s is\n   125 m \u2212 5 m = 120 m.",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      61.29862594604492,
+      237.6724395751953,
+      82.53861236572266
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Average velocity = 120 m\n4 s\n = 30 m/s.",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      88.05826568603516,
+      206.83541870117188,
+      108.7582778930664
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Velocity at t = 0  is  C = \u2212 2 m/s.",
+    "type": "equation",
+    "bbox": [
+      60.520599365234375,
+      129.1800079345703,
+      192.73692321777344,
+      138.33860778808594
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Velocity at t = 4 s is = 78 m/s.",
+    "type": "equation",
+    "bbox": [
+      60.52061462402344,
+      143.8583221435547,
+      190.32318115234375,
+      152.8583221435547
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Average acceleration = \nv2 \u2212 v1\nt2 \u2212 t1",
+    "type": "equation",
+    "bbox": [
+      60.5206184387207,
+      157.65892028808594,
+      184.4288787841797,
+      181.9441680908203
+    ]
+  },
+  {
+    "page": 12,
+    "content": "4. From the velocity-time graph of a particle given in figure\n(3-W1), describe the motion of the particle qualitatively\nin the interval 0 to 4 s. Find (a) the distance travelled\nduring first two seconds, (b) during the time 2 s to 4 s,\n(c) during the time 0 to 4 s, (d) displacement during\n0  to  4 s, (e) acceleration at t = 1/2 s and (f) acceleration\nat t = 2 s.",
+    "type": "equation",
+    "bbox": [
+      42.52000427246094,
+      194.8589324951172,
+      297.44140625,
+      275.8570861816406
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Solution : At t = 0, the particle is at rest, say at the origin.\nAfter that the velocity is positive, so that the particle\nmoves in the positive x direction. Its speed increases till\n1 second when it starts decreasing. The particle\ncontinues to move further in positive x direction. At\nt = 2 s, its velocity is reduced to zero, it has moved",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      429.3988952636719,
+      297.4855041503906,
+      502.8406982421875
+    ]
+  },
+  {
+    "page": 12,
+    "content": "through a maximum positive x distance. Then it changes\nits direction, velocity being negative, but increasing in\nmagnitude. At t = 3 s velocity is maximum in the\nnegative x direction and then the magnitude starts\ndecreasing. It comes to rest at t = 4 s.",
+    "type": "equation",
+    "bbox": [
+      60.51909637451172,
+      507.4604187011719,
+      297.47564697265625,
+      567.8216552734375
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(a) Distance during 0  to  2 s =  Area  of  OAB",
+    "type": "equation",
+    "bbox": [
+      60.52091979980469,
+      572.6427001953125,
+      252.0580291748047,
+      581.8013305664062
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(b) Distance during 2 to 4 s = Area of BCD = 10 m. The\nparticle has moved in negative x direction during this\nperiod.",
+    "type": "equation",
+    "bbox": [
+      60.52027893066406,
+      613.4786376953125,
+      297.4191589355469,
+      648.1592407226562
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(c) The distance travelled during 0 to 4s = 10 m + 10 m",
+    "type": "equation",
+    "bbox": [
+      60.52117919921875,
+      654.6605834960938,
+      297.4119873046875,
+      663.8192138671875
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(d) displacement during 0  to  4 s = 10 m + (\u2212 10 m) = 0.",
+    "type": "equation",
+    "bbox": [
+      60.52117919921875,
+      684.7799682617188,
+      292.7562561035156,
+      693.9385986328125
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(e) at t = 1/2 s acceleration = slope of line OA = 10 m/s\n 2.",
+    "type": "equation",
+    "bbox": [
+      60.52113342285156,
+      699.2040405273438,
+      297.4420166015625,
+      710.07861328125
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(f) at t = 2 s acceleration = slope of line ABC = \u2013 10 m/s\n 2.",
+    "type": "equation",
+    "bbox": [
+      60.51971435546875,
+      714.5641479492188,
+      297.4420166015625,
+      725.4389038085938
+    ]
+  },
+  {
+    "page": 12,
+    "content": "5. A particle starts from rest with a constant acceleration.\nAt a time t second, the speed is found to be 100 m/s and\none second later the speed becomes 150 m/s. Find (a) the\nacceleration and (b) the distance travelled during the\n(t+1)th second.",
+    "type": "text",
+    "bbox": [
+      315.3996887207031,
+      61.29887008666992,
+      570.3482666015625,
+      118.29886627197266
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Solution : (a) Velocity at time t second is",
+    "type": "text",
+    "bbox": [
+      321.3999938964844,
+      124.4189224243164,
+      502.0293273925781,
+      133.41893005371094
+    ]
+  },
+  {
+    "page": 12,
+    "content": "100 m/s = a.(t second)\n\u2026 (1)\nand velocity at time (t + 1) second is\n   150 m/s = a.(t + 1) second.\n\u2026 (2)\nSubtracting (1) from (2), a = 50 m/s\n 2",
+    "type": "equation",
+    "bbox": [
+      315.39990234375,
+      138.4803009033203,
+      567.4566650390625,
+      186.93833923339844
+    ]
+  },
+  {
+    "page": 12,
+    "content": "(b) Consider the interval t second to (t + 1) second,",
+    "type": "text",
+    "bbox": [
+      333.3999938964844,
+      191.97862243652344,
+      553.4014282226562,
+      200.97862243652344
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Thus, (150 m/s) \n2 = (100 m/s) \n2 + 2(50 m/s \n2) x",
+    "type": "equation",
+    "bbox": [
+      333.4007873535156,
+      250.10418701171875,
+      522.0394287109375,
+      260.9186096191406
+    ]
+  },
+  {
+    "page": 12,
+    "content": "6. A boy stretches a stone against the rubber tape of a\ncatapult or \u2018gulel\u2019 (a device used to detach mangoes from\nthe tree by boys in Indian villages) through a distance\nof 24 cm before leaving it. The tape returns to its normal\nposition accelerating the stone over the stretched length.\nThe stone leaves the gulel with a speed 2.2 m/s. Assuming\nthat the acceleration is constant while the stone was being\npushed by the tape, find its magnitude.",
+    "type": "text",
+    "bbox": [
+      315.3994140625,
+      290.8586120605469,
+      570.320068359375,
+      383.8564758300781
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Solution : Consider the accelerated 24 cm motion of the\nstone.\n   Initial  velocity = 0",
+    "type": "equation",
+    "bbox": [
+      321.3999938964844,
+      390.15887451171875,
+      570.2869262695312,
+      424.6585693359375
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Distance  travelled = 24 cm = 0.24 m",
+    "type": "equation",
+    "bbox": [
+      333.39990234375,
+      448.59857177734375,
+      487.739990234375,
+      461.078857421875
+    ]
+  },
+  {
+    "page": 12,
+    "content": "7. A police inspector in a jeep is chasing a pickpocket on a\nstraight road. The jeep is going at its maximum speed v\n(assumed uniform). The pickpocket rides on the\nmotorcycle of a waiting friend when the jeep is at a\ndistance d away, and the motorcycle starts with a\nconstant acceleration a. Show that the pickpocket will be\ncaught if v \u2265 \u221a\u23af\u23af\u23af\u23af\n2ad.",
+    "type": "equation",
+    "bbox": [
+      315.39996337890625,
+      522.0391845703125,
+      570.334716796875,
+      603.2777099609375
+    ]
+  },
+  {
+    "page": 12,
+    "content": "Solution : Suppose the pickpocket is caught at a time t\nafter the motorcycle starts. The distance travelled by the\nmotorcycle during this interval is",
+    "type": "text",
+    "bbox": [
+      321.3999938964844,
+      610.298828125,
+      570.32763671875,
+      643.2982177734375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "During this interval the jeep travels a distance",
+    "type": "text",
+    "bbox": [
+      60.519989013671875,
+      84.8782730102539,
+      262.9660339355469,
+      93.8782730102539
+    ]
+  },
+  {
+    "page": 13,
+    "content": "or,          t = \nv \u00b1 \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\nv \n2 \u2212 2ad\na\n \u22c5",
+    "type": "equation",
+    "bbox": [
+      60.520606994628906,
+      148.239990234375,
+      211.02999877929688,
+      175.53831481933594
+    ]
+  },
+  {
+    "page": 13,
+    "content": "The pickpocket will be caught if t is real and positive.\nThis will be possible if",
+    "type": "text",
+    "bbox": [
+      60.520294189453125,
+      180.7592010498047,
+      297.5569152832031,
+      201.75889587402344
+    ]
+  },
+  {
+    "page": 13,
+    "content": "v \n2 \u2265 2ad    or,  v \u2265 \u221a\uf8e5\uf8e5\uf8e5\uf8e5\n2ad.",
+    "type": "equation",
+    "bbox": [
+      60.52119445800781,
+      205.17283630371094,
+      223.82200622558594,
+      218.22889709472656
+    ]
+  },
+  {
+    "page": 13,
+    "content": "8. A car is moving at a constant speed of 40 km/h along a\nstraight road which heads towards a large vertical wall\nand makes a sharp 90\u00b0 turn by the side of the wall. A\nfly flying at a constant speed of 100 km/h, starts from\nthe wall towards the car at an instant when the car is\n20 km away, flies until it reaches the glasspane of the\ncar and returns to the wall at the same speed. It continues\nto fly between the car and the wall till the car makes the\n90\u00b0 turn. (a) What is the total distance the fly has\ntravelled during this period ? (b) How many trips has it\nmade between the car and the wall ?",
+    "type": "text",
+    "bbox": [
+      42.51971435546875,
+      233.5592498779297,
+      297.6597595214844,
+      364.47796630859375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Solution : (a) The time taken by the car to cover 20 km",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      371.0785827636719,
+      297.5377197265625,
+      380.0785827636719
+    ]
+  },
+  {
+    "page": 13,
+    "content": "before the turn is \n20 km\n40 km/h = 1\n2 h. The fly moves at a",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      382.87646484375,
+      297.54705810546875,
+      401.39208984375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "constant speed of 100 km/h during this time. Hence the",
+    "type": "text",
+    "bbox": [
+      60.520294189453125,
+      404.2589111328125,
+      297.6612243652344,
+      413.2589111328125
+    ]
+  },
+  {
+    "page": 13,
+    "content": "total distance coverd by it is 100 km\nh  \u00d7 1\n2 h = 50 km.",
+    "type": "equation",
+    "bbox": [
+      60.520294189453125,
+      416.05645751953125,
+      270.38201904296875,
+      434.4767150878906
+    ]
+  },
+  {
+    "page": 13,
+    "content": "(b) Suppose the car is at a distance x away (at A) when\nthe fly is at the wall (at O). The fly hits the glasspane\nat B, taking a time t. Then",
+    "type": "text",
+    "bbox": [
+      60.519989013671875,
+      437.43890380859375,
+      297.5898132324219,
+      470.43829345703125
+    ]
+  },
+  {
+    "page": 13,
+    "content": "or,       t = \nx\n140 km/h ,  or  OB = 5\n7 x.",
+    "type": "equation",
+    "bbox": [
+      60.51879119873047,
+      535.1470336914062,
+      231.2017059326172,
+      556.2386474609375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "The fly returns to the wall and during this period the\ncar moves the distance BC. The time taken by the fly\nin this return path is",
+    "type": "text",
+    "bbox": [
+      60.51847839355469,
+      664.058349609375,
+      297.68731689453125,
+      697.0577392578125
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Thus,        BC = 40 x\n140 = 2\n7 x",
+    "type": "equation",
+    "bbox": [
+      333.5193786621094,
+      90.07304382324219,
+      473.5,
+      111.15860748291016
+    ]
+  },
+  {
+    "page": 13,
+    "content": "or,          OC = OB \u2212 BC = 3\n7 x.",
+    "type": "equation",
+    "bbox": [
+      333.5202941894531,
+      117.43661499023438,
+      493.5816955566406,
+      135.8568572998047
+    ]
+  },
+  {
+    "page": 13,
+    "content": "If at the beginning of the round trip (wall to the car and",
+    "type": "text",
+    "bbox": [
+      333.5193786621094,
+      142.29832458496094,
+      570.6154174804688,
+      151.29832458496094
+    ]
+  },
+  {
+    "page": 13,
+    "content": "back) the car is at a distance x away, it is 3\n7 x away",
+    "type": "text",
+    "bbox": [
+      333.5193786621094,
+      153.7120819091797,
+      570.5380249023438,
+      172.5166473388672
+    ]
+  },
+  {
+    "page": 13,
+    "content": "when the next trip again starts.",
+    "type": "text",
+    "bbox": [
+      333.52032470703125,
+      175.47886657714844,
+      471.247314453125,
+      184.47886657714844
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Distance of the car at the beginning of the 1st\ntrip = 20 km.",
+    "type": "equation",
+    "bbox": [
+      333.52032470703125,
+      190.95884704589844,
+      570.6253662109375,
+      213.0236053466797
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Distance of the car at the beginning of the 2nd trip",
+    "type": "text",
+    "bbox": [
+      333.5202941894531,
+      219.3986053466797,
+      555.49609375,
+      228.3986053466797
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Distance of the car at the beginning of the 3rd trip",
+    "type": "text",
+    "bbox": [
+      333.51995849609375,
+      256.0583190917969,
+      554.451904296875,
+      265.0583190917969
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Distance of the car at the beginning of the 4th trip",
+    "type": "text",
+    "bbox": [
+      333.5202941894531,
+      297.818603515625,
+      570.4721069335938,
+      306.818603515625
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Distance of the car at the beginning of the nth trip",
+    "type": "text",
+    "bbox": [
+      333.5202941894531,
+      339.518310546875,
+      570.5172729492188,
+      348.518310546875
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Trips will go on till the car reaches the turn that is the\ndistance reduces to zero. This will be the case when n\nbecomes infinity. Hence the fly makes an infinite\nnumber of trips before the car takes the turn.",
+    "type": "text",
+    "bbox": [
+      333.5199890136719,
+      383.19830322265625,
+      570.6791381835938,
+      428.1973876953125
+    ]
+  },
+  {
+    "page": 13,
+    "content": "9. A ball is dropped from a height of 19.6 m above the\nground. It rebounds from the ground and raises itself up\nto the same height. Take the starting point as the origin\nand vertically downward as the positive X-axis. Draw\napproximate plots of x versus t, v versus t and a versus\nt. Neglect the small interval during which the ball was\nin contact with the ground.",
+    "type": "text",
+    "bbox": [
+      315.52001953125,
+      447.69769287109375,
+      570.6337890625,
+      532.2958984375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Solution : Since the acceleration of the ball during the\ncontact is different from \u2018g\u2019, we have to treat the\ndownward motion and the upward motion separately.",
+    "type": "text",
+    "bbox": [
+      321.5199890136719,
+      541.05859375,
+      570.6549072265625,
+      574.0579833984375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "For the downward motion : a = g = 9.8 m/s \n2,",
+    "type": "equation",
+    "bbox": [
+      333.52001953125,
+      577.05859375,
+      521.3154296875,
+      590.3636474609375
+    ]
+  },
+  {
+    "page": 13,
+    "content": "x = ut + 1\n2 at \n2 = (4.9 m/s\n 2)t \n2.",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      593.056640625,
+      447.9220275878906,
+      611.4768676757812
+    ]
+  },
+  {
+    "page": 13,
+    "content": "The ball reaches the ground when x = 19.6 m. This gives\nt = 2 s. After that it moves up, x decreases and at\nt = 4 s, x becomes zero, the ball reaching the initial point.\nWe have at t = 0,           x = 0",
+    "type": "equation",
+    "bbox": [
+      333.5196838378906,
+      613.838623046875,
+      570.6221313476562,
+      664.5570678710938
+    ]
+  },
+  {
+    "page": 13,
+    "content": "t = 3 s,         x = 4.9 m\n        t = 4 s,         x = 0.",
+    "type": "equation",
+    "bbox": [
+      333.51934814453125,
+      699.9985961914062,
+      472.6746520996094,
+      726.1173095703125
+    ]
+  },
+  {
+    "page": 13,
+    "content": "Rest and Motion : Kinematics\n43",
+    "type": "text",
+    "bbox": [
+      249.7599639892578,
+      31.096467971801758,
+      570.5240478515625,
+      39.07646942138672
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Velocity : During the first two seconds,",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      165.8785858154297,
+      236.34133911132812,
+      174.8785858154297
+    ]
+  },
+  {
+    "page": 14,
+    "content": "v = u + at = (9.8 m/s\n 2)t\nat  t = 0           v = 0",
+    "type": "equation",
+    "bbox": [
+      60.51939392089844,
+      177.87828063964844,
+      164.36769104003906,
+      203.99703979492188
+    ]
+  },
+  {
+    "page": 14,
+    "content": "at  t = 1 s,        v = 9.8 m/s",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      206.65306091308594,
+      165.8350067138672,
+      220.34361267089844
+    ]
+  },
+  {
+    "page": 14,
+    "content": "at  t = 2 s,        v = 19.6 m/s.\nDuring the next two seconds the ball goes upward,\nvelocity is negative, magnitude decreasing and at\nt = 4 s, v = 0. Thus,",
+    "type": "equation",
+    "bbox": [
+      60.51939392089844,
+      223.2383270263672,
+      297.4803771972656,
+      273.3564147949219
+    ]
+  },
+  {
+    "page": 14,
+    "content": "at t = 2 s,       v = \u2212 19.6 m/s",
+    "type": "equation",
+    "bbox": [
+      60.51940155029297,
+      276.3977355957031,
+      173.2291259765625,
+      289.5564270019531
+    ]
+  },
+  {
+    "page": 14,
+    "content": "at t = 3 s,       v = \u2212 9.8 m/s\nat t = 4 s,       v = 0.",
+    "type": "equation",
+    "bbox": [
+      60.51940155029297,
+      292.5977478027344,
+      168.2494354248047,
+      318.7164306640625
+    ]
+  },
+  {
+    "page": 14,
+    "content": "At t = 2 s there is an abrupt change in velocity from",
+    "type": "equation",
+    "bbox": [
+      60.51941680908203,
+      448.4091491699219,
+      297.42999267578125,
+      460.1361389160156
+    ]
+  },
+  {
+    "page": 14,
+    "content": "19.6 m/s to \u2013 19.6 m/s. In fact this change in velocity\ntakes place over a small interval during which the ball\nremains in contact with the ground.",
+    "type": "text",
+    "bbox": [
+      60.52031707763672,
+      463.1774597167969,
+      297.580322265625,
+      499.6571350097656
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Acceleration : The acceleration is constant 9.8 m/s \n2",
+    "type": "text",
+    "bbox": [
+      60.52031707763672,
+      500.9774169921875,
+      297.4089050292969,
+      513.5774536132812
+    ]
+  },
+  {
+    "page": 14,
+    "content": "throughout the motion (except at t = 2 s).",
+    "type": "equation",
+    "bbox": [
+      60.52000045776367,
+      516.57861328125,
+      238.71104431152344,
+      525.57861328125
+    ]
+  },
+  {
+    "page": 14,
+    "content": "10. A stone is dropped from a balloon going up with a\nuniform velocity of 5.0 m/s. If the balloon was 50 m high\nwhen the stone was dropped, find its height when the\nstone hits the ground. Take g = 10 m/s \n2.",
+    "type": "equation",
+    "bbox": [
+      42.52001953125,
+      639.459228515625,
+      297.6070556640625,
+      686.1572875976562
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Solution : At t = 0, the stone was going up with a velocity\nof 5.0 m/s. After that it moved as a freely falling particle\nwith downward acceleration g. Take vertically upward",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      692.4385986328125,
+      297.50799560546875,
+      725.4380493164062
+    ]
+  },
+  {
+    "page": 14,
+    "content": "as the positive X-axis. If it reaches the ground at\ntime t,",
+    "type": "text",
+    "bbox": [
+      333.3999938964844,
+      61.29838180541992,
+      570.2619018554688,
+      82.2980728149414
+    ]
+  },
+  {
+    "page": 14,
+    "content": "x = \u2212 50 m,    u = 5 m/s,    a = \u2212 10 m/s \n2.",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      84.99118041992188,
+      540.7420043945312,
+      97.34362030029297
+    ]
+  },
+  {
+    "page": 14,
+    "content": "We have      x = ut + 1\n2 at \n2",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      102.31661987304688,
+      464.7489013671875,
+      120.73686981201172
+    ]
+  },
+  {
+    "page": 14,
+    "content": "or,        \u2212 50 m = (5 m/s).t + 1\n2 \u00d7 (\u2212 10 m/s \n2)t \n2",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      125.33206939697266,
+      537.5888671875,
+      144.23170471191406
+    ]
+  },
+  {
+    "page": 14,
+    "content": "or,          t = 1 \u00b1 \u221a\uf8e5\uf8e5\uf8e541\n2\n s.",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      147.56973266601562,
+      465.9100341796875,
+      171.13307189941406
+    ]
+  },
+  {
+    "page": 14,
+    "content": "or,           t = \u2212 2.7 s      or,   3.7 s.",
+    "type": "equation",
+    "bbox": [
+      333.4002990722656,
+      173.65293884277344,
+      506.075439453125,
+      187.19668579101562
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Negative t has no significance in this problem. The stone\nreaches the ground at t = 3.7 s. During this time the\nballoon has moved uniformly up. The distance covered\nby it is",
+    "type": "equation",
+    "bbox": [
+      333.3990478515625,
+      192.5186004638672,
+      570.4507446289062,
+      237.51768493652344
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Hence, the height of the balloon when the stone reaches\nthe ground is 50 m + 18.5 m = 68.5 m.",
+    "type": "equation",
+    "bbox": [
+      333.4002685546875,
+      261.2189025878906,
+      569.9291381835938,
+      282.2186279296875
+    ]
+  },
+  {
+    "page": 14,
+    "content": "11. A football is kicked with a velocity of 20 m/s at an angle\nof 45\u00b0 with the horizontal. (a) Find the time taken by the\nball to strike the ground. (b) Find the maximum height\nit reaches. (c) How far away from the kick does it hit the\nground ? Take g = 10 m/s\n 2.",
+    "type": "equation",
+    "bbox": [
+      315.40020751953125,
+      297.9992370605469,
+      570.3369750976562,
+      355.9585876464844
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Solution : (a) Take the origin at the point where the ball\nis kicked, vertically upward as the Y-axis and the\nhorizontal in the plane of motion as the X-axis. The\ninitial velocity has the components",
+    "type": "text",
+    "bbox": [
+      321.3999938964844,
+      362.73858642578125,
+      570.3097534179688,
+      407.7376708984375
+    ]
+  },
+  {
+    "page": 14,
+    "content": "ux = (20 m/s) cos45\u00b0 = 10 \u221a2 m/s",
+    "type": "equation",
+    "bbox": [
+      333.4000244140625,
+      409.8912048339844,
+      508.750244140625,
+      422.7857360839844
+    ]
+  },
+  {
+    "page": 14,
+    "content": "and \nuy = (20 m/s) sin45\u00b0 = 10 \u221a2 m/s.",
+    "type": "equation",
+    "bbox": [
+      333.40057373046875,
+      426.2699890136719,
+      511.0440368652344,
+      438.68572998046875
+    ]
+  },
+  {
+    "page": 14,
+    "content": "When the ball reaches the ground, y = 0.",
+    "type": "equation",
+    "bbox": [
+      333.3992919921875,
+      443.91827392578125,
+      510.54364013671875,
+      452.91827392578125
+    ]
+  },
+  {
+    "page": 14,
+    "content": "0 = (10\u221a\uf8e5\uf8e52 m/s) t \u2212 1\n2 \u00d7 (10 m/s\n 2) \u00d7 t \n2",
+    "type": "equation",
+    "bbox": [
+      333.39971923828125,
+      478.7920837402344,
+      525.7688598632812,
+      497.59661865234375
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Thus, it takes 2.8 s for the football to fall on the ground.",
+    "type": "text",
+    "bbox": [
+      333.3999938964844,
+      519.0380249023438,
+      570.2647094726562,
+      531.518310546875
+    ]
+  },
+  {
+    "page": 14,
+    "content": "(b) At the highest point vy = 0. Using the equation",
+    "type": "equation",
+    "bbox": [
+      333.39996337890625,
+      534.9299926757812,
+      548.6259765625,
+      547.345703125
+    ]
+  },
+  {
+    "page": 14,
+    "content": "0 = (10\u221a\uf8e5\uf8e52 m/s)\n 2 \u2212 2 \u00d7 (10 m/s \n2) H",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      567.8111572265625,
+      512.556396484375,
+      580.1636352539062
+    ]
+  },
+  {
+    "page": 14,
+    "content": "Thus, the maximum height reached is 10 m.",
+    "type": "text",
+    "bbox": [
+      333.4002990722656,
+      600.5189208984375,
+      523.4532470703125,
+      609.5189208984375
+    ]
+  },
+  {
+    "page": 14,
+    "content": "(c) The horizontal distance travelled before falling to the\nground is x = uxt",
+    "type": "equation",
+    "bbox": [
+      333.4002990722656,
+      614.7991943359375,
+      569.7400512695312,
+      637.4942016601562
+    ]
+  },
+  {
+    "page": 14,
+    "content": "= (10\u221a\uf8e5\uf8e52 m/s) (2\u221a\uf8e5\uf8e52 s) = 40 m.",
+    "type": "equation",
+    "bbox": [
+      333.4002990722656,
+      640.8893432617188,
+      501.30364990234375,
+      652.6170043945312
+    ]
+  },
+  {
+    "page": 14,
+    "content": "12. A helicopter on flood relief mission, flying horizontally\nwith a speed u at an altitude H, has to drop a food packet\nfor a victim standing on the ground. At what distance\nfrom the victim should the packet be dropped ? The victim\nstands in the vertical plane of the helicopter\u2019s motion.",
+    "type": "text",
+    "bbox": [
+      315.399658203125,
+      668.439208984375,
+      570.8827514648438,
+      725.4380493164062
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Solution : The velocity of the food packet at the time of\nrelease is u and is horizontal. The vertical velocity at\nthe time of release is zero.",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      61.29862594604492,
+      297.6907043457031,
+      94.29801177978516
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Vertical motion : If t be the time taken by the packet\nto reach the victim, we have for vertical motion,",
+    "type": "text",
+    "bbox": [
+      60.52000427246094,
+      216.93833923339844,
+      297.52593994140625,
+      237.9380340576172
+    ]
+  },
+  {
+    "page": 15,
+    "content": "H = 1\n2 gt \n2  or,   t = \u221a\uf8e5\uf8e5\n2H\ng  \u22c5\n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      42.52001190185547,
+      239.83738708496094,
+      294.5680236816406,
+      270.40576171875
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Horizontal motion : If D be the horizontal distance\ntravelled by the packet, we have D = ut. Putting t from\n(i),",
+    "type": "equation",
+    "bbox": [
+      60.519378662109375,
+      274.2991943359375,
+      297.5865478515625,
+      307.298583984375
+    ]
+  },
+  {
+    "page": 15,
+    "content": "The distance between the victim and the packet at the\ntime of release is",
+    "type": "text",
+    "bbox": [
+      60.51940155029297,
+      341.4991760253906,
+      297.6243896484375,
+      362.4988708496094
+    ]
+  },
+  {
+    "page": 15,
+    "content": "\u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\nD \n2 + H \n2 = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\n2u 2H\ng\n + H \n2 .",
+    "type": "equation",
+    "bbox": [
+      60.51940155029297,
+      363.7490234375,
+      224.48199462890625,
+      398.9300231933594
+    ]
+  },
+  {
+    "page": 15,
+    "content": "13. A particle is projected horizontally with a speed u from\nthe top of a plane inclined at an angle \u03b8 with the\nhorizontal. How far from the point of projection will the\nparticle strike the plane ?",
+    "type": "equation",
+    "bbox": [
+      42.519989013671875,
+      413.0188903808594,
+      297.6248779296875,
+      458.2582702636719
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Solution : Take X,Y-axes as shown in figure (3-W8).\nSuppose that the particle strikes the plane at a point P\nwith coordinates (x, y). Consider the motion between A\nand P.",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      464.55859375,
+      297.5548095703125,
+      509.55767822265625
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Motion in x-direction :\n          Initial velocity = u\n           Acceleration = 0",
+    "type": "equation",
+    "bbox": [
+      60.519100189208984,
+      610.05712890625,
+      202.332275390625,
+      644.93701171875
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Motion in y-direction :\n         Initial velocity = 0\n           Acceleration = g",
+    "type": "equation",
+    "bbox": [
+      60.519100189208984,
+      663.0983276367188,
+      195.45086669921875,
+      698.123779296875
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Eliminating t from (i) and (ii)",
+    "type": "text",
+    "bbox": [
+      333.5194091796875,
+      61.29832077026367,
+      460.686767578125,
+      70.2983169555664
+    ]
+  },
+  {
+    "page": 15,
+    "content": "2u \n2 = x tan\u03b8 giving x = 0, or, 2u \n2tan\u03b8\ng\n \u22c5",
+    "type": "equation",
+    "bbox": [
+      361.29998779296875,
+      116.55001831054688,
+      529.0297241210938,
+      141.0386199951172
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Clearly the point P corresponds to x = 2u \n2 tan\u03b8\ng\n ,",
+    "type": "equation",
+    "bbox": [
+      333.52001953125,
+      144.71923828125,
+      541.5817260742188,
+      168.4270782470703
+    ]
+  },
+  {
+    "page": 15,
+    "content": "then y = x tan\u03b8 = 2u \n2 tan \n2\u03b8\ng\n \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.51971435546875,
+      172.17001342773438,
+      453.60968017578125,
+      195.63951110839844
+    ]
+  },
+  {
+    "page": 15,
+    "content": "The distance AP = l = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\uf8e5\nx \n2 + y \n2",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      198.760009765625,
+      462.2288818359375,
+      214.39601135253906
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Alternatively : Take \nthe \naxes \nas \nshown \nin\nfigure 3-W9. Consider the motion between A and P.",
+    "type": "text",
+    "bbox": [
+      333.5202941894531,
+      272.3791809082031,
+      570.5956420898438,
+      293.3788757324219
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Thus, AP = (u cos \u03b8) t + 1\n2 (g sin \u03b8) t \n2.\n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      315.51922607421875,
+      468.6166076660156,
+      567.5679321289062,
+      487.036865234375
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Thus,       0 = \u2212 ut sin\u03b8 + 1\n2 gt \n2cos\u03b8",
+    "type": "equation",
+    "bbox": [
+      315.51904296875,
+      548.1766357421875,
+      502.3689880371094,
+      566.5968627929688
+    ]
+  },
+  {
+    "page": 15,
+    "content": "or,          t = 0,    2u sin\u03b8\ng cos\u03b8  \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      568.7099609375,
+      471.7900085449219,
+      593.0970458984375
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Clearly, the point P corresponds to t = 2u sin\u03b8\ng cos\u03b8 \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.52032470703125,
+      596.1902465820312,
+      533.22998046875,
+      620.57763671875
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Putting this value of t in (i),",
+    "type": "text",
+    "bbox": [
+      333.51995849609375,
+      625.4786376953125,
+      456.0342712402344,
+      634.4786376953125
+    ]
+  },
+  {
+    "page": 15,
+    "content": "= 2u \n2 sin\u03b8\ng\n + 2u \n2 sin\u03b8 tan\n2 \u03b8\ng",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      670.3499755859375,
+      490.2486877441406,
+      693.8195190429688
+    ]
+  },
+  {
+    "page": 15,
+    "content": "Rest and Motion : Kinematics\n45",
+    "type": "text",
+    "bbox": [
+      249.75965881347656,
+      31.096712112426758,
+      570.5238037109375,
+      39.07671356201172
+    ]
+  },
+  {
+    "page": 16,
+    "content": "14. A projectile is fired with a speed u at an angle \u03b8 with\nthe horizontal. Find its speed when its direction of motion\nmakes an angle \u03b1 with the horizontal.",
+    "type": "equation",
+    "bbox": [
+      42.52000045776367,
+      59.49001693725586,
+      297.4206848144531,
+      95.45670318603516
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Solution : Let the speed be v when it makes an angle \u03b1\nwith the horizontal. As the horizontal component of\nvelocity remains constant,",
+    "type": "equation",
+    "bbox": [
+      48.52000045776367,
+      99.69003295898438,
+      297.4386901855469,
+      135.4589080810547
+    ]
+  },
+  {
+    "page": 16,
+    "content": "or,             v = u cos\u03b8 sec\u03b1.",
+    "type": "equation",
+    "bbox": [
+      60.52001953125,
+      155.06997680664062,
+      216.6820068359375,
+      166.79733276367188
+    ]
+  },
+  {
+    "page": 16,
+    "content": "15. A bullet is fired horizontally aiming at an object which\nstarts falling at the instant the bullet is fired. Show that\nthe bullet will hit the object.",
+    "type": "text",
+    "bbox": [
+      42.52030944824219,
+      187.7788543701172,
+      297.94921875,
+      220.7782440185547
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Solution : The situation is shown in figure (3-W10). The\nobject starts falling from the point B. Draw a vertical\nline BC through B. Suppose the bullet reaches the line\nBC at a point D and it takes a time t in doing so.",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      228.93858337402344,
+      297.5196838378906,
+      273.9385681152344
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Consider the vertical motion of the bullet. The initial\nvertical velocity = 0. The distance travelled vertically",
+    "type": "equation",
+    "bbox": [
+      60.519989013671875,
+      409.1788635253906,
+      297.4989013671875,
+      430.1785583496094
+    ]
+  },
+  {
+    "page": 16,
+    "content": "= BD = 1\n2 gt \n2\u22c5 In time t the object also travels a distance",
+    "type": "equation",
+    "bbox": [
+      60.519989013671875,
+      432.97662353515625,
+      297.4755554199219,
+      451.3968811035156
+    ]
+  },
+  {
+    "page": 16,
+    "content": "1\n2 gt \n2 = BD. Hence at time t, the object will also be at",
+    "type": "equation",
+    "bbox": [
+      61.0,
+      454.1566162109375,
+      297.4383239746094,
+      472.5768737792969
+    ]
+  },
+  {
+    "page": 16,
+    "content": "the same point D. Thus, the bullet hits the object at\npoint D.",
+    "type": "text",
+    "bbox": [
+      60.51971435546875,
+      475.5389099121094,
+      297.51129150390625,
+      496.5386047363281
+    ]
+  },
+  {
+    "page": 16,
+    "content": "16. A man can swim in still water at a speed of 3 km/h. He\nwants to cross a river that flows at 2 km/h and reach\nthe point directly opposite to his starting point. (a) In\nwhich direction should he try to swim (that is, find the\nangle his body makes with the river flow) ? (b) How much\ntime will he take to cross the river if the river is 500 m\nwide ?",
+    "type": "text",
+    "bbox": [
+      42.52061462402344,
+      517.538330078125,
+      297.4545593261719,
+      598.5374145507812
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Solution : (a) The situation is shown in figure (3-W11).\nThe X-axis is chosen along the river flow and the origin\nat the starting position of the man. The direction of the\nvelocity of man with respect to ground is along the Y-axis\n(perpendicular to the river). We have to find the\ndirection of velocity of the man with respect to water.",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      606.6986083984375,
+      297.5619201660156,
+      675.6970825195312
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Let  v\n\u2192\nr, g = velocity of the river with respect to the \n        ground",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      674.36279296875,
+      280.65997314453125,
+      703.658935546875
+    ]
+  },
+  {
+    "page": 16,
+    "content": "v\n\u2192\nm, r = velocity of the man with respect to the river",
+    "type": "equation",
+    "bbox": [
+      333.4000244140625,
+      164.7827911376953,
+      570.3908081054688,
+      182.18020629882812
+    ]
+  },
+  {
+    "page": 16,
+    "content": "= 3 km/h making an angle \u03b8 with the Y-axis",
+    "type": "equation",
+    "bbox": [
+      333.4002685546875,
+      185.30996704101562,
+      563.5240478515625,
+      197.03701782226562
+    ]
+  },
+  {
+    "page": 16,
+    "content": "and v\n\u2192\nm, g = velocity of the man with respect to the    \n       ground along the Y-axis.",
+    "type": "equation",
+    "bbox": [
+      333.4002685546875,
+      195.4428253173828,
+      566.2147827148438,
+      224.7389373779297
+    ]
+  },
+  {
+    "page": 16,
+    "content": "We have\n      v\n\u2192\nm, g = v\n\u2192\nm, r + v\n\u2192\nr, g . \n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      315.4002685546875,
+      229.71861267089844,
+      568.5463256835938,
+      253.58016967773438
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Taking components along the X-axis",
+    "type": "text",
+    "bbox": [
+      333.40057373046875,
+      257.6183166503906,
+      490.5144958496094,
+      266.6183166503906
+    ]
+  },
+  {
+    "page": 16,
+    "content": "(b) Taking components in equation (i) along the Y-axis,",
+    "type": "text",
+    "bbox": [
+      333.399658203125,
+      312.3392028808594,
+      570.2822875976562,
+      321.3392028808594
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Time = Displacement in y direction\nVelocity in y direction",
+    "type": "equation",
+    "bbox": [
+      333.3999938964844,
+      357.3130798339844,
+      533.1190185546875,
+      378.4930419921875
+    ]
+  },
+  {
+    "page": 16,
+    "content": "17. A man can swim at a speed of 3 km/h in still water. He\nwants to cross a 500 m wide river flowing at 2 km/h. He\nkeeps himself always at an angle of 120\u00b0 with the river\nflow while swimming.\n(a) Find the time he takes to cross the river. (b) At what\npoint on the opposite bank will he arrive ?",
+    "type": "text",
+    "bbox": [
+      315.3999938964844,
+      422.85919189453125,
+      570.856201171875,
+      492.81768798828125
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Solution : The situation is shown in figure (3-W12).",
+    "type": "text",
+    "bbox": [
+      321.3999938964844,
+      499.1785888671875,
+      546.4329223632812,
+      508.1785888671875
+    ]
+  },
+  {
+    "page": 16,
+    "content": "Here v\n\u2192\nr, g = velocity of the river with respect to the ground",
+    "type": "equation",
+    "bbox": [
+      333.4002990722656,
+      677.4227905273438,
+      570.3311767578125,
+      694.8202514648438
+    ]
+  },
+  {
+    "page": 16,
+    "content": "v\n\u2192\nm, r =  velocity of the man with respect to the river",
+    "type": "equation",
+    "bbox": [
+      333.399658203125,
+      693.385009765625,
+      570.3939208984375,
+      711.2601318359375
+    ]
+  },
+  {
+    "page": 16,
+    "content": "v\n\u2192\nm, g =  velocity of the man with respect to the ground.",
+    "type": "equation",
+    "bbox": [
+      333.3996887207031,
+      709.0449829101562,
+      570.355224609375,
+      726.9201049804688
+    ]
+  },
+  {
+    "page": 17,
+    "content": "(a) We have,\n             v\n\u2192\nm, g = v\n\u2192\nm, r + v\n\u2192\nr, g\n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      42.52000045776367,
+      61.29862594604492,
+      294.6139221191406,
+      86.1202163696289
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Hence, the velocity with respect to the ground is along\nAC. Taking y-components in equation (i),",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      90.3386001586914,
+      297.669921875,
+      111.3392105102539
+    ]
+  },
+  {
+    "page": 17,
+    "content": "v\n\u2192\nm, g sin\u03b8 = 3 km/h cos30\u00b0 + 2 km/h cos90\u00b0 = 3\u221a3\n2  km/h.",
+    "type": "equation",
+    "bbox": [
+      60.51910400390625,
+      113.91122436523438,
+      282.6700134277344,
+      137.8585662841797
+    ]
+  },
+  {
+    "page": 17,
+    "content": "= displacement along the Y\u2212axis\nvelocity along the Y\u2212axis",
+    "type": "equation",
+    "bbox": [
+      60.52030944824219,
+      152.46702575683594,
+      242.1219940185547,
+      174.7930450439453
+    ]
+  },
+  {
+    "page": 17,
+    "content": "= \n1/2 km\n3\u221a3/2 km/h = 1\n3/3 h.",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      177.69798278808594,
+      198.03121948242188,
+      199.31668090820312
+    ]
+  },
+  {
+    "page": 17,
+    "content": "(b) Taking x-components in equation (i),",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      204.2786102294922,
+      231.89170837402344,
+      213.2786102294922
+    ]
+  },
+  {
+    "page": 17,
+    "content": "v\n\u2192\nm, g cos\u03b8 = \u2212 3 km/h sin30\u00b0 + 2 km/h",
+    "type": "equation",
+    "bbox": [
+      60.52000427246094,
+      211.5227813720703,
+      235.85499572753906,
+      228.82550048828125
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Displacement along the X-axis as the man crosses the\nriver\n      = (velocity along the X\u2212axis) \u22c5 (time)",
+    "type": "equation",
+    "bbox": [
+      60.520294189453125,
+      257.4385681152344,
+      297.4246826171875,
+      291.35699462890625
+    ]
+  },
+  {
+    "page": 17,
+    "content": "18. A man standing on a road has to hold his umbrella at\n30\u00b0 with the vertical to keep the rain away. He throws\nthe umbrella and starts running at 10 km/h. He finds\nthat raindrops are hitting his head vertically. Find the\nspeed of raindrops with respect to (a) the road, (b) the\nmoving man.",
+    "type": "text",
+    "bbox": [
+      42.520294189453125,
+      333.57861328125,
+      297.5955810546875,
+      402.8173828125
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Solution : When the man is at rest with respect to the\nground, the rain comes to him at an angle 30\u00b0 with the\nvertical. This is the direction of the velocity of raindrops\nwith respect to the ground. The situation when the man\nruns is shown in the figure (3-W13b).",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      408.99859619140625,
+      297.68170166015625,
+      466.9576721191406
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Here v\n\u2192\nr, g = velocity of the rain with respect to the ground",
+    "type": "equation",
+    "bbox": [
+      60.51969909667969,
+      604.642822265625,
+      297.6968994140625,
+      622.0142211914062
+    ]
+  },
+  {
+    "page": 17,
+    "content": "v\n\u2192\nm, g  = velocity of the man with respect to the ground",
+    "type": "equation",
+    "bbox": [
+      60.519996643066406,
+      619.9428100585938,
+      293.4879455566406,
+      637.314208984375
+    ]
+  },
+  {
+    "page": 17,
+    "content": "and v\n\u2192\nr, m = velocity of the rain with respect to the man.",
+    "type": "equation",
+    "bbox": [
+      60.520294189453125,
+      635.2427978515625,
+      297.6849365234375,
+      652.6141967773438
+    ]
+  },
+  {
+    "page": 17,
+    "content": "We have,      v\n\u2192\nr, g = v\n\u2192\nr, m + v\n\u2192\nm, g .\n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      42.51969909667969,
+      649.8828125,
+      294.5680236816406,
+      667.2802124023438
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Taking horizontal components, equation (i) gives",
+    "type": "text",
+    "bbox": [
+      60.520294189453125,
+      671.1383056640625,
+      268.5282897949219,
+      680.1383056640625
+    ]
+  },
+  {
+    "page": 17,
+    "content": "or, vr, g = 10 km/h\nsin30\u00b0  = 20 km/h,",
+    "type": "equation",
+    "bbox": [
+      60.519691467285156,
+      698.2930908203125,
+      179.40101623535156,
+      720.2973022460938
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Taking vertical components, equation (i) gives",
+    "type": "text",
+    "bbox": [
+      333.51971435546875,
+      61.29825973510742,
+      530.16064453125,
+      70.29825592041016
+    ]
+  },
+  {
+    "page": 17,
+    "content": "or,            vr, m = (20 km/h) \u221a3\n2",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      88.88973999023438,
+      497.6433410644531,
+      112.35831451416016
+    ]
+  },
+  {
+    "page": 17,
+    "content": "19. A man running on a horizontal road at 8 km/h finds the\nrain falling vertically. He increases his speed to 12 km/h\nand finds that the drops make angle 30\u00b0 with the vertical.\nFind the speed and direction of the rain with respect to\nthe road.",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      140.7385711669922,
+      570.6157836914062,
+      198.6976776123047
+    ]
+  },
+  {
+    "page": 17,
+    "content": "We have    v\n\u2192\nrain, road = v\n\u2192\nrain, man + v\n\u2192\nman, road\n\u2026 (i)",
+    "type": "equation",
+    "bbox": [
+      315.52001953125,
+      211.76502990722656,
+      567.5679321289062,
+      229.54547119140625
+    ]
+  },
+  {
+    "page": 17,
+    "content": "The two situations given in the problem may be\nrepresented by the following figure.",
+    "type": "text",
+    "bbox": [
+      333.520263671875,
+      233.4983367919922,
+      570.6162109375,
+      254.49803161621094
+    ]
+  },
+  {
+    "page": 17,
+    "content": "vrain, road is same in magnitude and direction in both the\nfigures.",
+    "type": "text",
+    "bbox": [
+      333.5196838378906,
+      400.5986022949219,
+      570.6578979492188,
+      422.9789123535156
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Taking horizontal components in equation (i) for figure\n(3-W14a),\n             vrain, road sin\u03b1 = 8 km/h.\n\u2026 (ii)",
+    "type": "equation",
+    "bbox": [
+      315.5196838378906,
+      427.8992004394531,
+      570.5707397460938,
+      463.48553466796875
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Now \nconsider \nfigure \n(3-W14b). \nDraw \na \nline\nOA \u22a5 vrain, man as shown.",
+    "type": "text",
+    "bbox": [
+      333.52001953125,
+      467.49859619140625,
+      570.5440673828125,
+      490.1255187988281
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Taking components in equation (i) along the line OA.\n      vrain, road sin(30\u00b0 + \u03b1) = 12 km/h cos30\u00b0.\n\u2026 (iii)",
+    "type": "equation",
+    "bbox": [
+      315.52001953125,
+      494.9783020019531,
+      567.5446166992188,
+      518.6255493164062
+    ]
+  },
+  {
+    "page": 17,
+    "content": "sin(30\u00b0 + \u03b1)\nsin\u03b1\n = 12 \u00d7 \u221a3\n8 \u00d7 2",
+    "type": "equation",
+    "bbox": [
+      333.520263671875,
+      532.291259765625,
+      507.9639587402344,
+      557.3036499023438
+    ]
+  },
+  {
+    "page": 17,
+    "content": "or,       sin30\u00b0cos\u03b1 + cos30\u00b0sin\u03b1\nsin\u03b1\n = 3\u221a3\n4",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      560.3099975585938,
+      493.14398193359375,
+      584.697021484375
+    ]
+  },
+  {
+    "page": 17,
+    "content": "or,             1\n2 cot\u03b1 + \u221a3\n2  = 3\u221a3\n4",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      587.3111572265625,
+      493.1440124511719,
+      611.35302734375
+    ]
+  },
+  {
+    "page": 17,
+    "content": "or,                  cot\u03b1 = \u221a3\n2",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      614.3696899414062,
+      490.2820129394531,
+      637.8383178710938
+    ]
+  },
+  {
+    "page": 17,
+    "content": "or,                    \u03b1 = cot\n\u2212 1 \u221a3\n2  \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.52001953125,
+      640.8896484375,
+      514.6296997070312,
+      664.3582763671875
+    ]
+  },
+  {
+    "page": 17,
+    "content": "From (ii),           vrain, road = 8 km/h\nsin\u03b1  = 4\u221a7 km/h.",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      669.2783203125,
+      558.3674926757812,
+      690.8970336914062
+    ]
+  },
+  {
+    "page": 17,
+    "content": "20. Three particles A, B and C are situated at the vertices\nof an equilateral triangle ABC of side d at t = 0. Each",
+    "type": "equation",
+    "bbox": [
+      315.52056884765625,
+      704.4385986328125,
+      570.6793823242188,
+      725.4382934570312
+    ]
+  },
+  {
+    "page": 17,
+    "content": "(a)                                  (b)                                    (c)",
+    "type": "text",
+    "bbox": [
+      83.14099884033203,
+      574.5446166992188,
+      269.30743408203125,
+      582.6426391601562
+    ]
+  },
+  {
+    "page": 17,
+    "content": "Rest and Motion : Kinematics\n47",
+    "type": "text",
+    "bbox": [
+      249.7596893310547,
+      31.096345901489258,
+      570.5238037109375,
+      39.07634735107422
+    ]
+  },
+  {
+    "page": 18,
+    "content": "of the particles moves with constant speed v. A always\nhas its velocity along AB, B along BC and C along CA.\nAt what time will the particles meet each other ?",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      61.29862594604492,
+      297.4090576171875,
+      96.7586441040039
+    ]
+  },
+  {
+    "page": 18,
+    "content": "Solution : The motion of the particles is roughly sketched\nin figure (3-W15). By symmetry they will meet at the",
+    "type": "text",
+    "bbox": [
+      48.52000045776367,
+      102.8185806274414,
+      297.48101806640625,
+      135.99888610839844
+    ]
+  },
+  {
+    "page": 18,
+    "content": "centroid O of the triangle. At any instant the particles\nwill form an equilateral triangle ABC with the same\ncentriod O. Concentrate on the motion of any one",
+    "type": "text",
+    "bbox": [
+      60.519989013671875,
+      316.6585693359375,
+      297.5736999511719,
+      349.8388671875
+    ]
+  },
+  {
+    "page": 18,
+    "content": "particle, say A. At any instant its velocity makes angle\n30\u00b0 with AO.\nThe component of this velocity along AO is v cos30\u00b0. This\ncomponent is the rate of decrease of the distance AO.\nInitially,",
+    "type": "text",
+    "bbox": [
+      333.3999938964844,
+      61.29887008666992,
+      570.3097534179688,
+      119.7376480102539
+    ]
+  },
+  {
+    "page": 18,
+    "content": "Therefore, the time taken for AO to become zero",
+    "type": "text",
+    "bbox": [
+      333.39996337890625,
+      173.19859313964844,
+      542.3196411132812,
+      182.19859313964844
+    ]
+  },
+  {
+    "page": 18,
+    "content": "= d/\u221a3\nv cos30\u00b0 = \n2d\n\u221a3 v \u00d7 \u221a3 = 2d\n3v \u22c5",
+    "type": "equation",
+    "bbox": [
+      333.39996337890625,
+      184.71096801757812,
+      504.0696716308594,
+      209.72373962402344
+    ]
+  },
+  {
+    "page": 18,
+    "content": "Alternative : Velocity of A is v along AB. The velocity\nof B is along BC. Its component along BA is v cos 60\u00b0\n= v/2. Thus, the separation AB decreases at the rate",
+    "type": "equation",
+    "bbox": [
+      333.3990478515625,
+      214.4192352294922,
+      570.2799072265625,
+      247.6598358154297
+    ]
+  },
+  {
+    "page": 18,
+    "content": "Since this rate is constant, the time taken in reducing\nthe separation AB from d to zero is",
+    "type": "text",
+    "bbox": [
+      333.39971923828125,
+      277.9588928222656,
+      570.1174926757812,
+      298.9585876464844
+    ]
+  },
+  {
+    "page": 18,
+    "content": "1. Galileo was punished by the Church for teaching that\nthe sun is stationary and the earth moves around it. His\nopponents held the view that the earth is stationary and\nthe sun moves around it. If the absolute motion has no\nmeaning, are the two viewpoints not equally correct or\nequally wrong ?\n 2. When a particle moves with constant velocity, its\naverage velocity, its instantaneous velocity and its speed\nare all equal. Comment on this statement.\n 3. A car travels at a speed of 60 km/hr due north and the\nother at a speed of 60 km/hr due east. Are the velocities\nequal ? If no, which one is greater ? If you find any of\nthe questions irrelevant, explain.\n 4. A ball is thrown vertically upward with a speed of 20\nm/s. Draw a graph showing the velocity of the ball as a\nfunction of time as it goes up and then comes back.\n 5. The velocity of a particle is towards west at an instant.\nIts acceleration is not towards west, not towards east,\nnot towards north and not towards south. Give an\nexample of this type of motion. \n 6. At which point on its path a projectile has the smallest\nspeed ?\n 7. Two particles A and B start from rest and move for equal\ntime on a straight line. The particle A has an\nacceleration a for the first half of the total time and 2a\nfor the second half. The particle B has an acceleration",
+    "type": "text",
+    "bbox": [
+      42.51969909667969,
+      431.91888427734375,
+      297.7867126464844,
+      725.4412841796875
+    ]
+  },
+  {
+    "page": 18,
+    "content": "2a for the first half and a for the second half. Which\nparticle has covered larger distance ?",
+    "type": "text",
+    "bbox": [
+      333.39788818359375,
+      431.9215393066406,
+      570.3562622070312,
+      451.7215270996094
+    ]
+  },
+  {
+    "page": 18,
+    "content": "8. If a particle is accelerating, it is either speeding up or\nspeeding down. Do you agree with this statement ?",
+    "type": "text",
+    "bbox": [
+      315.39788818359375,
+      456.5815124511719,
+      570.3948364257812,
+      476.3815002441406
+    ]
+  },
+  {
+    "page": 18,
+    "content": "9. A food packet is dropped from a plane going at an\naltitude of 100 m. What is the path of the packet as\nseen from the plane ? What is the path as seen from the\nground ? If someone asks \u201cwhat is the actual path\u201d, what\nwill you answer ?",
+    "type": "text",
+    "bbox": [
+      315.39788818359375,
+      482.5617980957031,
+      570.4849853515625,
+      534.7617797851562
+    ]
+  },
+  {
+    "page": 18,
+    "content": "10. Give examples where (a) the velocity of a particle is zero\nbut its acceleration is not zero, (b) the velocity is opposite\nin direction to the acceleration, (c) the velocity is\nperpendicular to the acceleration.",
+    "type": "text",
+    "bbox": [
+      315.39788818359375,
+      540.8817749023438,
+      570.5117797851562,
+      582.2817993164062
+    ]
+  },
+  {
+    "page": 18,
+    "content": "11. Figure (3-Q1) shows the x coordinate of a particle as a\nfunction of time. Find the signs of vx and ax at t = t1 ,\nt = t2  and  t = t3.",
+    "type": "equation",
+    "bbox": [
+      315.39788818359375,
+      588.4017944335938,
+      570.322021484375,
+      621.8037109375
+    ]
+  },
+  {
+    "page": 19,
+    "content": "12. A player hits a baseball at some angle. The ball goes\nhigh up in space. The player runs and catches the ball\nbefore it hits the ground. Which of the two (the player\nor the ball) has greater displacement ?\n13. The increase in the speed of a car is proportional to the\nadditional petrol put into the engine. Is it possible to",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      61.29862594604492,
+      297.8948974609375,
+      126.09854888916016
+    ]
+  },
+  {
+    "page": 19,
+    "content": "accelerate a car without putting more petrol or less\npetrol into the engine ?",
+    "type": "text",
+    "bbox": [
+      333.5196838378906,
+      61.29856491088867,
+      570.4446411132812,
+      81.63858795166016
+    ]
+  },
+  {
+    "page": 19,
+    "content": "14. Rain is falling vertically. A man running on the road\nkeeps his umbrella tilted but a man standing on the\nstreet keeps his umbrella vertical to protect himself from\nthe rain. But both of them keep their umbrella vertical\nto avoid the vertical sun-rays. Explain.",
+    "type": "text",
+    "bbox": [
+      315.5196838378906,
+      86.25919342041016,
+      570.3907470703125,
+      140.6193084716797
+    ]
+  },
+  {
+    "page": 19,
+    "content": "1. A motor car is going due north at a speed of 50 km/h.\nIt makes a 90\u00b0 left turn without changing the speed.\nThe change in the velocity of the car is about\n(a) 50 km/h towards west\n(b) 70 km/h towards south-west\n(c) 70 km/h towards north-west \n(d) zero.",
+    "type": "text",
+    "bbox": [
+      42.51910400390625,
+      214.0602264404297,
+      297.71142578125,
+      288.8204650878906
+    ]
+  },
+  {
+    "page": 19,
+    "content": "2. Figure (3-Q2) shows the displacement-time graph of a\nparticle moving on the X-axis.",
+    "type": "text",
+    "bbox": [
+      42.51910400390625,
+      293.5004577636719,
+      297.5340881347656,
+      313.3004455566406
+    ]
+  },
+  {
+    "page": 19,
+    "content": "(a) the particle is continuously going in positive x\ndirection\n(b) the particle is at rest\n(c) the velocity increases up to a time t0, and then\nbecomes constant\n(d) the particle moves at a constant velocity up to a time\nt0 , and then stops.",
+    "type": "text",
+    "bbox": [
+      42.51910400390625,
+      425.500732421875,
+      297.5469665527344,
+      501.623779296875
+    ]
+  },
+  {
+    "page": 19,
+    "content": "3. A particle has a velocity u towards east at t = 0. Its\nacceleration is towards west and is constant. Let xA and\nxB be the magnitude of displacements in the first 10\nseconds and the next 10 seconds\n(a) xA < xB     (b) xA = xB      (c) xA > xB\n(d) the information is insufficient to decide the relation\nof xA with xB.",
+    "type": "equation",
+    "bbox": [
+      42.51969909667969,
+      507.3992004394531,
+      297.5440368652344,
+      584.5437622070312
+    ]
+  },
+  {
+    "page": 19,
+    "content": "4. A person travelling on a straight line moves with a\nuniform velocity v1 for some time and with uniform\nvelocity v2   for the next equal time. The average velocity\nv is given by",
+    "type": "text",
+    "bbox": [
+      42.520301818847656,
+      589.2989501953125,
+      297.594970703125,
+      630.6986083984375
+    ]
+  },
+  {
+    "page": 19,
+    "content": "(a) v = v1 + v2\n2\n          (b) v = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\nv1v2",
+    "type": "equation",
+    "bbox": [
+      60.51969528198242,
+      630.6900024414062,
+      230.47576904296875,
+      654.57861328125
+    ]
+  },
+  {
+    "page": 19,
+    "content": "5. A person travelling on a straight line moves with a\nuniform velocity v1 for a distance x and with a uniform\nvelocity v2 for the next equal distance. The average\nvelocity v is given by",
+    "type": "text",
+    "bbox": [
+      42.51969909667969,
+      684.0389404296875,
+      297.4988098144531,
+      725.4385986328125
+    ]
+  },
+  {
+    "page": 19,
+    "content": "(a) v = v1 + v2\n2\n        (b) v = \u221a\uf8e5\uf8e5\uf8e5\uf8e5\nv1v2",
+    "type": "equation",
+    "bbox": [
+      333.5199890136719,
+      212.25003051757812,
+      490.2757568359375,
+      236.1385955810547
+    ]
+  },
+  {
+    "page": 19,
+    "content": "6. A stone is released from an elevator going up with an\nacceleration a. The acceleration of the stone after the\nrelease is\n(a) a upward         (b) (g \u2212 a) upward\n(c) (g \u2212 a) downward    (d) g downward.",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      263.9789123535156,
+      570.597900390625,
+      318.0578918457031
+    ]
+  },
+  {
+    "page": 19,
+    "content": "7. A person standing near the edge of the top of a building\nthrows two balls A and B. The ball A is thrown vertically\nupward and B is thrown vertically downward with the\nsame speed. The ball A hits the ground with a speed vA\nand the ball B hits the ground with a speed vB. We have\n(a) vA > vB, (b) vA  < vB (c) vA = vB \n(d) the relation between vA and vB depends on height of\nthe building above the ground.",
+    "type": "equation",
+    "bbox": [
+      315.516357421875,
+      322.83978271484375,
+      570.5675048828125,
+      407.4385681152344
+    ]
+  },
+  {
+    "page": 19,
+    "content": "8. In a projectile motion the velocity\n(a) is always perpendicular to the acceleration\n(b) is never perpendicular to the acceleration\n(c) is perpendicular to the acceleration for one instant\nonly\n(d) is perpendicular to the acceleration for two instants.",
+    "type": "text",
+    "bbox": [
+      315.5196838378906,
+      412.2391662597656,
+      570.6155395507812,
+      475.2391052246094
+    ]
+  },
+  {
+    "page": 19,
+    "content": "9. Two bullets are fired simultaneously, horizontally and\nwith different speeds from the same place. Which bullet\nwill hit the ground first ?\n(a)  the faster one         (b) the slower one\n(c) both will reach simultaneously \n(d) depends on the masses.",
+    "type": "text",
+    "bbox": [
+      315.5196838378906,
+      479.9794006347656,
+      570.642578125,
+      542.9793701171875
+    ]
+  },
+  {
+    "page": 19,
+    "content": "10. The range of a projectile fired at an angle of 15\u00b0 is\n50 m. If it is fired with the same speed at an angle of\n45\u00b0, its range will be\n(a) 25 m     (b) 37 m     (c) 50 m     (d) 100 m.",
+    "type": "text",
+    "bbox": [
+      315.5196838378906,
+      545.9707641601562,
+      570.5409545898438,
+      589.65966796875
+    ]
+  },
+  {
+    "page": 19,
+    "content": "11. Two projectiles A and B are projected with angle of\nprojection 15\u00b0 for the projectile A and 45\u00b0 for the\nprojectile B. If RA and RB be the horizontal range for the\ntwo projectiles, then\n(a) RA < RB (b) RA = RB (c) RA > RB\n(d) the information is insufficient to decide the relation\nof RA with RB .",
+    "type": "equation",
+    "bbox": [
+      315.5196533203125,
+      594.3999633789062,
+      570.5709838867188,
+      669.5037231445312
+    ]
+  },
+  {
+    "page": 19,
+    "content": "12. A river is flowing from west to east at a speed of 5\nmetres per minute. A man on the south bank of the\nriver, capable of swimming at 10 metres per minute in\nstill water, wants to swim across the river in the shortest\ntime. He should swim in a direction",
+    "type": "text",
+    "bbox": [
+      315.5202941894531,
+      673.2391967773438,
+      570.8052978515625,
+      725.439208984375
+    ]
+  },
+  {
+    "page": 19,
+    "content": "Rest and Motion : Kinematics\n49",
+    "type": "text",
+    "bbox": [
+      249.75994873046875,
+      31.096467971801758,
+      570.5240478515625,
+      39.07646942138672
+    ]
+  },
+  {
+    "page": 20,
+    "content": "(a) due north        (b) 30\u00b0 east of north\n(c) 30\u00b0 north of west   (d) 60\u00b0 east of north.\n13. In the arrangement shown in figure (3-Q3), the ends P\nand Q of an inextensible string move downwards with\nuniform speed u. Pulleys A and B are fixed. The mass\nM moves upwards with a speed\n(a) 2u cos\u03b8   (b) u/cos\u03b8   (c) 2u/cos\u03b8   (d) ucos\u03b8.",
+    "type": "equation",
+    "bbox": [
+      42.52000427246094,
+      59.49001693725586,
+      297.5889892578125,
+      139.01754760742188
+    ]
+  },
+  {
+    "page": 20,
+    "content": "1. Consider the motion of the tip of the minute hand of a\nclock. In one hour\n(a) the displacement is zero\n(b) the distance covered is zero\n(c) the average speed is zero\n(d) the average velocity is zero\n 2. A particle moves along the X-axis as\n       x = u(t \u2013 2 s) + a(t \u2013 2 s) \n2.\n(a) the initial velocity of the particle is u\n(b) the acceleration of the particle is a\n(c) the acceleration of the particle is 2a\n(d) at t = 2 s particle is at the origin.\n 3. Pick the correct statements :\n(a) Average speed of a particle in a given time is never\nless than the magnitude of the average velocity.",
+    "type": "equation",
+    "bbox": [
+      42.5200080871582,
+      228.4597625732422,
+      297.39093017578125,
+      395.2591247558594
+    ]
+  },
+  {
+    "page": 20,
+    "content": "(b) It is possible to have a situation in which \n\uf8f4\n\uf8f4\n\uf8f4\ndv\n\u2192",
+    "type": "text",
+    "bbox": [
+      60.5200080871582,
+      394.5827941894531,
+      277.44873046875,
+      424.3181457519531
+    ]
+  },
+  {
+    "page": 20,
+    "content": "(c) The average velocity of a particle is zero in a time\ninterval. It is possible that the instantaneous velocity is\nnever zero in the interval.",
+    "type": "text",
+    "bbox": [
+      60.520301818847656,
+      451.1182861328125,
+      297.58929443359375,
+      484.11767578125
+    ]
+  },
+  {
+    "page": 20,
+    "content": "(d) The average velocity of a particle moving on a\nstraight line is zero in a time interval. It is possible that\nthe instantaneous velocity is never zero in the interval.\n(Infinite accelerations are not allowed.)",
+    "type": "text",
+    "bbox": [
+      60.520301818847656,
+      489.3376770019531,
+      297.5802307128906,
+      534.3367919921875
+    ]
+  },
+  {
+    "page": 20,
+    "content": "4. An object may have\n(a) varying speed without having varying velocity\n(b) varying velocity without having varying speed\n(c) nonzero acceleration without having varying velocity\n(d) nonzero acceleration without having varying speed.\n 5. Mark the correct statements for a particle going on a\nstraight line :\n(a) If the velocity and acceleration have opposite sign,\nthe object is slowing down.\n(b) If the position and velocity have opposite sign, the\nparticle is moving towards the origin.\n(c) If the velocity is zero at an instant, the acceleration\nshould also be zero at that instant.\n(d) If the velocity is zero for a time interval, the\nacceleration is zero at any instant within the time\ninterval.",
+    "type": "text",
+    "bbox": [
+      42.520301818847656,
+      539.73681640625,
+      297.5442810058594,
+      725.4346923828125
+    ]
+  },
+  {
+    "page": 20,
+    "content": "6. The velocity of a particle is zero at t = 0.\n(a) The acceleration at t = 0 must be zero.\n(b) The acceleration at t = 0 may be zero.\n(c) If the acceleration is zero from t = 0 to t = 10 s, the\nspeed is also zero in this interval.\n(d) If the speed is zero from t = 0 to t = 10 s the\nacceleration is also zero in this interval.",
+    "type": "equation",
+    "bbox": [
+      315.4002990722656,
+      228.45469665527344,
+      570.2874145507812,
+      305.975341796875
+    ]
+  },
+  {
+    "page": 20,
+    "content": "7. Mark the correct statements :\n(a) The magnitude of the velocity of a particle is equal\nto its speed.\n(b) The magnitude of average velocity in an interval is\nequal to its average speed in that interval.\n(c) It is possible to have a situation in which the speed\nof a particle is always zero but the average speed is not\nzero.\n(d) It is possible to have a situation in which the speed\nof the particle is never zero but the average speed in an\ninterval is zero.",
+    "type": "text",
+    "bbox": [
+      315.40118408203125,
+      310.71563720703125,
+      570.3710327148438,
+      433.89678955078125
+    ]
+  },
+  {
+    "page": 20,
+    "content": "8. The velocity-time plot for a particle moving on a straight\nline is shown in the figure (3-Q4).",
+    "type": "text",
+    "bbox": [
+      315.40118408203125,
+      439.8367919921875,
+      570.3621215820312,
+      460.2370910644531
+    ]
+  },
+  {
+    "page": 20,
+    "content": "(a) The particle has a constant acceleration.\n(b) The particle has never turned around.\n(c) The particle has zero displacement.\n(d) The average speed in the interval 0 to 10 s is the\nsame as the average speed in the interval 10 s to 20 s.",
+    "type": "text",
+    "bbox": [
+      315.40118408203125,
+      587.317138671875,
+      570.2810668945312,
+      642.037109375
+    ]
+  },
+  {
+    "page": 20,
+    "content": "9. Figure (3-Q5) shows the position of a particle moving on\nthe X-axis as a function of time.\n(a) The particle has come to rest 6 times.\n(b) The maximum speed is at t = 6 s.\n(c) The velocity remains positive for t = 0 to t = 6 s.\n(d) The average velocity for the total period shown is\nnegative.",
+    "type": "equation",
+    "bbox": [
+      315.40118408203125,
+      647.9168090820312,
+      570.3531494140625,
+      725.4374389648438
+    ]
+  },
+  {
+    "page": 21,
+    "content": "10. The accelerations of a particle as seen from two frames\nS1 and S2 have equal magnitude 4 m/s\n 2.\n(a) The frames must be at rest with respect to each\nother.\n(b) The frames may be moving with respect to each other\nbut neither should be accelerated with respect to the\nother.\n(c) The acceleration of S2 with respect to S1 may either\nbe zero or 8 m/s\n 2.\n(d) The acceleration of S2 with respect to S1 may be\nanything between zero and 8 m/s\n2.",
+    "type": "text",
+    "bbox": [
+      315.5196838378906,
+      61.29893112182617,
+      570.5930786132812,
+      187.17857360839844
+    ]
+  },
+  {
+    "page": 21,
+    "content": "1. A man has to go 50 m due north, 40 m due east and\n20 m due south to reach a field. (a) What distance he\nhas to walk to reach the field ? (b) What is his\ndisplacement from his house to the field ?\n 2. A particle starts from the origin, goes along the X-axis\nto the point (20 m, 0) and then returns along the same\nline to the point (\u201320 m, 0). Find the distance and\ndisplacement of the particle during the trip.",
+    "type": "text",
+    "bbox": [
+      42.52032470703125,
+      260.6194763183594,
+      297.55322265625,
+      347.61968994140625
+    ]
+  },
+  {
+    "page": 21,
+    "content": "3. It is 260 km from Patna to Ranchi by air and 320 km\nby road. An aeroplane takes 30 minutes to go from Patna\nto Ranchi whereas a delux bus takes 8 hours. (a) Find\nthe average speed of the plane. (b) Find the average\nspeed of the bus. (c) Find the average velocity of the\nplane. (d) Find the average velocity of the bus.",
+    "type": "text",
+    "bbox": [
+      42.52033233642578,
+      352.47967529296875,
+      297.6729736328125,
+      415.4796142578125
+    ]
+  },
+  {
+    "page": 21,
+    "content": "4. When a person leaves his home for sightseeing by his\ncar, the meter reads 12352 km. When he returns home\nafter two hours the reading is 12416 km. (a) What is the\naverage speed of the car during this period ? (b) What\nis the average velocity ?",
+    "type": "text",
+    "bbox": [
+      42.52033996582031,
+      420.339599609375,
+      297.56951904296875,
+      472.53955078125
+    ]
+  },
+  {
+    "page": 21,
+    "content": "5. An athelete takes 2.0 s to reach his maximum speed of\n18.0 km/h. What is the magnitude of his average\nacceleration ?",
+    "type": "text",
+    "bbox": [
+      42.52033996582031,
+      473.7995300292969,
+      297.517333984375,
+      507.99951171875
+    ]
+  },
+  {
+    "page": 21,
+    "content": "6. The speed of a car as a function of time is shown in\nfigure (3-E1). Find the distance travelled by the car in\n8 seconds and its acceleration.",
+    "type": "text",
+    "bbox": [
+      42.52033996582031,
+      512.8594970703125,
+      297.5785217285156,
+      543.4595336914062
+    ]
+  },
+  {
+    "page": 21,
+    "content": "7. The acceleration of a cart started at t \uf03d 0, varies with\ntime as shown in figure (3-E2). Find the distance\ntravelled in 30 seconds and draw the position-time graph.",
+    "type": "text",
+    "bbox": [
+      42.52033996582031,
+      667.419921875,
+      297.6380615234375,
+      700.779541015625
+    ]
+  },
+  {
+    "page": 21,
+    "content": "8. Figure (3-E3) shows the graph of velocity versus time\nfor a particle going along the X-axis. Find (a) the",
+    "type": "text",
+    "bbox": [
+      42.520362854003906,
+      705.6395263671875,
+      297.5416564941406,
+      725.4395141601562
+    ]
+  },
+  {
+    "page": 21,
+    "content": "acceleration, (b) the distance travelled in 0 to 10 s and\n(c) the displacement in 0 to 10 s.",
+    "type": "text",
+    "bbox": [
+      333.5200500488281,
+      374.9794921875,
+      570.53564453125,
+      394.77947998046875
+    ]
+  },
+  {
+    "page": 21,
+    "content": "9. Figure (3-E4) shows the graph of the x-coordinate of a\nparticle going along the X-axis as a function of time.\nFind (a) the average velocity during 0 to 10 s,\n(b) instantaneous velocity at 2, 5, 8 and 12s.",
+    "type": "text",
+    "bbox": [
+      315.5200500488281,
+      524.2598266601562,
+      570.6402587890625,
+      565.6598510742188
+    ]
+  },
+  {
+    "page": 21,
+    "content": "10. From the velocity\u2013time plot shown in figure (3-E5), find\nthe distance travelled by the particle during the first 40",
+    "type": "text",
+    "bbox": [
+      315.52001953125,
+      705.6404418945312,
+      570.5675048828125,
+      725.4404296875
+    ]
+  },
+  {
+    "page": 21,
+    "content": "\u0003\u0004\n\u000b\u000e\u0002 \u0003\n\u000f \u0010 \b\n\u0011 \u0006 \u0010 \u0012 \u0006 \r \u0011 \u0013 \u0014 \u0012 \u0015",
+    "type": "text",
+    "bbox": [
+      129.04798889160156,
+      604.767822265625,
+      218.7862548828125,
+      621.397705078125
+    ]
+  },
+  {
+    "page": 21,
+    "content": "\u0002 \u0003\n\u0004 \u0003\n\u001c \u0003\n\u000f \u0010 \b\n\u0011 \u0006 \u0010 \u0012 \u0006 \r \u0011 \u0013 \u0014 \u0012 \u0015",
+    "type": "text",
+    "bbox": [
+      408.6877136230469,
+      298.9993896484375,
+      553.1383056640625,
+      305.9136047363281
+    ]
+  },
+  {
+    "page": 21,
+    "content": "\u0013 \u0013 \u0011 \u001e \u0011 \u001f  \f \u0010 \u0014 \u0012 \u0006 \u0010 \u0012 \u0006 ! \f \u0018 \r \u0004",
+    "type": "text",
+    "bbox": [
+      345.3330078125,
+      271.06390380859375,
+      355.112548828125,
+      327.8384094238281
+    ]
+  },
+  {
+    "page": 21,
+    "content": "Rest and Motion : Kinematics\n51",
+    "type": "text",
+    "bbox": [
+      249.75967407226562,
+      31.097139358520508,
+      570.5692749023438,
+      39.07714080810547
+    ]
+  },
+  {
+    "page": 22,
+    "content": "seconds. Also find the average velocity during this\nperiod.",
+    "type": "text",
+    "bbox": [
+      60.52000045776367,
+      61.29862594604492,
+      297.6070556640625,
+      81.0986099243164
+    ]
+  },
+  {
+    "page": 22,
+    "content": "11. Figure (3-E6) shows x-t graph of a particle. Find the\ntime t such that the average velocity of the particle\nduring the period 0 to t is zero.",
+    "type": "text",
+    "bbox": [
+      42.52000045776367,
+      203.91893005371094,
+      297.4657287597656,
+      234.51890563964844
+    ]
+  },
+  {
+    "page": 22,
+    "content": "12. A particle starts from a point A and travels along the\nsolid curve shown in figure (3-E7). Find approximately\nthe position B of the particle such that the average\nvelocity between the positions A and B has the same\ndirection as the instantaneous velocity at B.",
+    "type": "text",
+    "bbox": [
+      42.520912170410156,
+      366.03948974609375,
+      297.4603271484375,
+      418.23944091796875
+    ]
+  },
+  {
+    "page": 22,
+    "content": "13. An object having a velocity 4.0 m/s is accelerated at the\nrate of 1.2 m/s\n2 for 5.0 s. Find the distance travelled\nduring the period of acceleration.\n14. A person travelling at 43.2 km/h applies the brake giving\na deceleration of 6.0 m/s\n 2 to his scooter. How far will it\ntravel before stopping ?\n15. A train starts from rest and moves with a constant\nacceleration of 2.0 m/s\n 2 for half a minute. The brakes\nare then applied and the train comes to rest in one\nminute. Find (a) the total distance moved by the train,\n(b) the maximum speed attained by the train and (c) the\nposition(s) of the train at half the maximum speed.\n16. A bullet travelling with a velocity of 16 m/s penetrates\na tree trunk and comes to rest in 0.4 m. Find the time\ntaken during the retardation.",
+    "type": "text",
+    "bbox": [
+      42.51940155029297,
+      554.73974609375,
+      297.53521728515625,
+      725.439208984375
+    ]
+  },
+  {
+    "page": 22,
+    "content": "17. A bullet going with speed 350 m/s enters a concrete wall\nand penetrates a distance of 5.0 cm before coming to\nrest. Find the deceleration.",
+    "type": "text",
+    "bbox": [
+      315.4002990722656,
+      61.29954147338867,
+      570.46044921875,
+      91.8995132446289
+    ]
+  },
+  {
+    "page": 22,
+    "content": "18. A particle starting from rest moves with constant\nacceleration. If it takes 5.0 s to reach the speed 18.0\nkm/h find (a) the average velocity during this period,\nand (b) the distance travelled by the particle during this\nperiod.",
+    "type": "text",
+    "bbox": [
+      315.4002990722656,
+      97.7801284790039,
+      570.4053955078125,
+      149.98008728027344
+    ]
+  },
+  {
+    "page": 22,
+    "content": "19. A driver takes 0.20 s to apply the brakes after he sees\na need for it. This is called the reaction time of the\ndriver. If he is driving a car at a speed of 54 km/h and\nthe brakes cause a deceleration of 6.0 m/s\n 2, find the\ndistance travelled by the car after he sees the need to\nput the brakes on.",
+    "type": "text",
+    "bbox": [
+      315.3993835449219,
+      152.6800994873047,
+      570.3873291015625,
+      219.27854919433594
+    ]
+  },
+  {
+    "page": 22,
+    "content": "20. Complete the following table :",
+    "type": "text",
+    "bbox": [
+      315.39971923828125,
+      225.6388397216797,
+      462.2436828613281,
+      234.6388397216797
+    ]
+  },
+  {
+    "page": 22,
+    "content": "Car Model\n    Driver X\nReaction time 0.20 s\n   Driver Y\nReaction time 0.30 s",
+    "type": "text",
+    "bbox": [
+      320.6199951171875,
+      246.69052124023438,
+      563.4059448242188,
+      263.71673583984375
+    ]
+  },
+  {
+    "page": 22,
+    "content": "A (deceleration\non hard braking\n= 6.0 m/s\n 2)",
+    "type": "equation",
+    "bbox": [
+      320.61920166015625,
+      269.3106994628906,
+      382.3683166503906,
+      295.336669921875
+    ]
+  },
+  {
+    "page": 22,
+    "content": "Speed = 54 km/h\nBraking distance\na = ............................\nTotal stopping\ndistance       \nb = ............................",
+    "type": "equation",
+    "bbox": [
+      400.42022705078125,
+      269.3569641113281,
+      478.6515197753906,
+      322.3362121582031
+    ]
+  },
+  {
+    "page": 22,
+    "content": "Speed = 72 km/h\nBraking distance\nc = ...........................\nTotal stopping\ndistance      \nd = ...........................\n.",
+    "type": "equation",
+    "bbox": [
+      488.8003234863281,
+      269.3561706542969,
+      565.1132202148438,
+      331.33526611328125
+    ]
+  },
+  {
+    "page": 22,
+    "content": "B (deceleration\non hard braking\n= 7.5 m/s\n 2)",
+    "type": "equation",
+    "bbox": [
+      320.6202392578125,
+      336.869384765625,
+      382.3693542480469,
+      362.8966369628906
+    ]
+  },
+  {
+    "page": 22,
+    "content": "Speed = 54 km/h\nBraking distance\ne = ............................\nTotal stopping\ndistance      \nf = ............................",
+    "type": "equation",
+    "bbox": [
+      400.4198913574219,
+      336.91693115234375,
+      477.6313171386719,
+      389.89617919921875
+    ]
+  },
+  {
+    "page": 22,
+    "content": "Speed = 72km/h\nBraking distance\ng = ...........................\nTotal stopping\ndistance      \nh = ..........................",
+    "type": "equation",
+    "bbox": [
+      488.79998779296875,
+      336.9161376953125,
+      564.5127563476562,
+      389.8953857421875
+    ]
+  },
+  {
+    "page": 22,
+    "content": "21. A police jeep is chasing a culprit going on a motorbike.\nThe motorbike crosses a turning at a speed of 72 km/h.\nThe jeep follows it at a speed of 90 km/h, crossing the\nturning ten seconds later than the bike. Assuming that\nthey travel at constant speeds, how far from the turning\nwill the jeep catch up with the bike ?",
+    "type": "text",
+    "bbox": [
+      315.3999938964844,
+      402.1585998535156,
+      570.6398315429688,
+      465.1585388183594
+    ]
+  },
+  {
+    "page": 22,
+    "content": "22. A car travelling at 60 km/h overtakes another car\ntravelling at 42 km/h. Assuming each car to be 5.0 m\nlong, find the time taken during the overtake and the\ntotal road distance used for the overtake.",
+    "type": "text",
+    "bbox": [
+      315.3999938964844,
+      471.5188293457031,
+      570.2943115234375,
+      512.9188232421875
+    ]
+  },
+  {
+    "page": 22,
+    "content": "23. A ball is projected vertically upward with a speed of\n50 m/s. Find (a) the maximum height, (b) the time to\nreach the maximum height, (c) the speed at half the\nmaximum height. Take g = 10 m/s\n 2.",
+    "type": "equation",
+    "bbox": [
+      315.3990478515625,
+      519.2188110351562,
+      570.4063110351562,
+      560.61865234375
+    ]
+  },
+  {
+    "page": 22,
+    "content": "24. A ball is dropped from a balloon going up at a speed of\n7 m/s. If the balloon was at a height 60 m at the time\nof dropping the ball, how long will the ball take in\nreaching the ground ?",
+    "type": "text",
+    "bbox": [
+      315.4000244140625,
+      566.9789428710938,
+      570.40576171875,
+      608.37890625
+    ]
+  },
+  {
+    "page": 22,
+    "content": "25. A stone is thrown vertically upward with a speed of\n28 m/s. (a) Find the maximum height reached by the\nstone. (b) Find its velocity one second before it reaches\nthe maximum height. (c) Does the answer of part\n(b) change if the initial speed is more than 28 m/s such\nas 40 m/s or 80 m/s ?",
+    "type": "text",
+    "bbox": [
+      315.4000244140625,
+      614.678955078125,
+      570.4420166015625,
+      677.678955078125
+    ]
+  },
+  {
+    "page": 22,
+    "content": "26. A person sitting on the top of a tall building is dropping\nballs at regular intervals of one second. Find the\npositions of the 3rd, 4th and 5th ball when the 6th ball\nis being dropped.",
+    "type": "text",
+    "bbox": [
+      315.4000244140625,
+      684.0392456054688,
+      570.4780883789062,
+      725.4392700195312
+    ]
+  },
+  {
+    "page": 23,
+    "content": "27. A healthy youngman standing at a distance of 7 m from\na 11.8 m high building sees a kid slipping from the top\nfloor. With what speed (assumed uniform) should he run\nto catch the kid at the arms height (1.8 m) ?\n28. An NCC parade is going at a uniform speed of 6 km/h\nthrough a place under a berry tree on which a bird is\nsitting at a height of 12.1 m. At a particular instant the\nbird drops a berry. Which cadet (give the distance from\nthe tree at the instant) will receive the berry on his\nuniform ?\n29. A ball is dropped from a height. If it takes 0.200 s to\ncross the last 6.00 m before hitting the ground, find the\nheight from which it was dropped. Take g = 10 m/s\n 2.\n30. A ball is dropped from a height of 5 m onto a sandy floor\nand penetrates the sand up to 10 cm before coming to\nrest. Find the retardation of the ball in sand assuming\nit to be uniform.\n31. An elevator is descending with uniform acceleration. To\nmeasure the acceleration, a person in the elevator drops\na coin at the moment the elevator starts. The coin is 6\nft above the floor of the elevator at the time it is dropped.\nThe person observes that the coin strikes the floor in 1\nsecond. Calculate from these data the acceleration of the\nelevator.\n32. A ball is thrown horizontally from a point 100 m above\nthe ground with a speed of 20 m/s. Find (a) the time it\ntakes to reach the ground, (b) the horizontal distance it\ntravels before reaching the ground, (c) the velocity\n(direction and magnitude) with which it strikes the\nground.",
+    "type": "equation",
+    "bbox": [
+      42.51969909667969,
+      61.29887008666992,
+      297.5799560546875,
+      395.67901611328125
+    ]
+  },
+  {
+    "page": 23,
+    "content": "33. A ball is thrown at a speed of 40 m/s at an angle of 60\uf0b0\nwith the horizontal. Find (a) the maximum height\nreached and (b) the range of the ball. Take g = 10 m/s\n 2.\n34. In a soccer practice session the football is kept at the\ncentre of the field 40 yards from the 10 ft high goalposts.\nA goal is attempted by kicking the football at a speed\nof 64 ft/s at an angle of 45\uf0b0 to the horizontal. Will the\nball reach the goal post ?\n35. A popular game in Indian villages is goli which is played\nwith small glass balls called golis. The goli of one player\nis situated at a distance of 2.0 m from the goli of the\nsecond player. This second player has to project his goli\nby keeping the thumb of the left hand at the place of\nhis goli, holding the goli between his two middle fingers\nand making the throw. If the projected goli hits the goli\nof the first player, the second player wins. If the height\nfrom which the goli is projected is 19.6 cm from the\nground and the goli is to be projected horizontally, with\nwhat speed should it be projected so that it directly hits\nthe stationary goli without falling on the ground earlier ?\n36. Figure (3-E8) shows a 11.7 ft wide ditch with the\napproach roads at an angle of 15\uf0b0 with the horizontal.\nWith what minimum speed should a motorbike be\nmoving on the road so that it safely crosses the ditch ?",
+    "type": "equation",
+    "bbox": [
+      42.51969909667969,
+      398.1997375488281,
+      297.64300537109375,
+      665.67919921875
+    ]
+  },
+  {
+    "page": 23,
+    "content": "Assume that the length of the bike is 5 ft, and it leaves\nthe road when the front part runs out of the approach\nroad.\n37. A person standing on the top of a cliff 171 ft high has\nto throw a packet to his friend standing on the ground\n228 ft horizontally away. If he throws the packet directly\naiming at the friend with a speed of 15.0 ft/s, how short\nwill the packet fall ?",
+    "type": "text",
+    "bbox": [
+      315.51971435546875,
+      61.29948043823242,
+      570.5931396484375,
+      148.3600311279297
+    ]
+  },
+  {
+    "page": 23,
+    "content": "38. A ball is projected from a point on the floor with a speed\nof 15 m/s at an angle of 60\uf0b0 with the horizontal. Will it\nhit a vertical wall 5 m away from the point of projection\nand perpendicular to the plane of projection without\nhitting the floor ? Will the answer differ if the wall is\n22 m away ?",
+    "type": "text",
+    "bbox": [
+      315.51971435546875,
+      153.2803192138672,
+      570.5823364257812,
+      216.5205535888672
+    ]
+  },
+  {
+    "page": 23,
+    "content": "39. Find the average velocity of a projectile between the\ninstants it crosses half the maximum height. It is\nprojected with a speed u at an angle \uf071 with the\nhorizontal.",
+    "type": "text",
+    "bbox": [
+      315.51971435546875,
+      221.4408416748047,
+      570.575927734375,
+      263.0810852050781
+    ]
+  },
+  {
+    "page": 23,
+    "content": "40. A bomb is dropped from a plane flying horizontally with\nuniform speed. Show that the bomb will explode\nvertically below the plane. Is the statement true if the\nplane flies with uniform speed but not horizontally ?",
+    "type": "text",
+    "bbox": [
+      315.5205993652344,
+      268.0013732910156,
+      570.55712890625,
+      309.4013366699219
+    ]
+  },
+  {
+    "page": 23,
+    "content": "41. A boy standing on a long railroad car throws a ball\nstraight upwards. The car is moving on the horizontal\nroad with an acceleration of 1 m/s\n 2 and the projection\nvelocity in the vertical direction is 9.8 m/s. How far\nbehind the boy will the ball fall on the car ?",
+    "type": "text",
+    "bbox": [
+      315.5205993652344,
+      314.3216247558594,
+      570.596435546875,
+      366.5185546875
+    ]
+  },
+  {
+    "page": 23,
+    "content": "42. A staircase contains three steps each 10 cm high and\n20 cm wide (figure 3-E9). What should be the minimum\nhorizontal velocity of a ball rolling off the uppermost\nplane so as to hit directly the lowest plane ?",
+    "type": "text",
+    "bbox": [
+      315.5202941894531,
+      371.4388427734375,
+      570.5513916015625,
+      412.83880615234375
+    ]
+  },
+  {
+    "page": 23,
+    "content": "43. A person is standing on a truck moving with a constant\nvelocity of 14.7 m/s on a horizontal road. The man throws\na ball in such a way that it returns to the truck after\nthe truck has moved 58.8 m. Find the speed and the\nangle of projection (a) as seen from the truck, (b) as seen\nfrom the road.",
+    "type": "text",
+    "bbox": [
+      315.5202941894531,
+      515.5594482421875,
+      570.5982666015625,
+      578.5594482421875
+    ]
+  },
+  {
+    "page": 23,
+    "content": "44. The benches of a gallery in a cricket stadium are 1 m\nwide and 1 m high. A batsman strikes the ball at a level\none metre above the ground and hits a mammoth sixer.\nThe ball starts at 35 m/s at an angle of 53\uf0b0 with the\nhorizontal. The benches are perpendicular to the plane\nof motion and the first bench is 110 m from the batsman.\nOn which bench will the ball hit ?",
+    "type": "text",
+    "bbox": [
+      315.520263671875,
+      583.479736328125,
+      570.59375,
+      657.5200805664062
+    ]
+  },
+  {
+    "page": 23,
+    "content": "45. A man is sitting on the shore of a river. He is in the\nline of a 1.0 m long boat and is 5.5 m away from the\ncentre of the boat. He wishes to throw an apple into the\nboat. If he can throw the apple only with a speed of 10\nm/s, find the minimum and maximum angles of\nprojection for successful shot. Assume that the point of",
+    "type": "text",
+    "bbox": [
+      315.520263671875,
+      662.4403686523438,
+      570.5701293945312,
+      725.4403686523438
+    ]
+  },
+  {
+    "page": 23,
+    "content": "Rest and Motion : Kinematics\n53",
+    "type": "text",
+    "bbox": [
+      249.7598114013672,
+      31.096773147583008,
+      570.5694580078125,
+      39.07677459716797
+    ]
+  },
+  {
+    "page": 24,
+    "content": "projection and the edge of the boat are in the same\nhorizontal level.\n46. A river 400 m wide is flowing at a rate of 2.0 m/s. A\nboat is sailing at a velocity of 10 m/s with respect to the\nwater, in a direction perpendicular to the river. (a) Find\nthe time taken by the boat to reach the opposite bank.\n(b) How far from the point directly opposite to the\nstarting point does the boat reach the opposite bank ?\n47. A swimmer wishes to cross a 500 m wide river flowing\nat 5 km/h. His speed with respect to water is 3 km/h.\n(a) If he heads in a direction making an angle \u03b8 with\nthe flow, find the time he takes to cross the river.\n(b) Find the shortest possible time to cross the river.\n48. Consider the situation of the previous problem. The man\nhas to reach the other shore at the point directly\nopposite to his starting point. If he reaches the other\nshore somewhere else, he has to walk down to this point.\nFind the minimum distance that he has to walk.\n49. An aeroplane has to go from a point A to another point\nB, 500 km away due 30\u00b0 east of north. A wind is blowing\ndue north at a speed of 20 m/s. The air-speed of the\nplane is 150 m/s. (a) Find the direction in which the",
+    "type": "equation",
+    "bbox": [
+      42.51997375488281,
+      61.29862594604492,
+      297.55303955078125,
+      306.69964599609375
+    ]
+  },
+  {
+    "page": 24,
+    "content": "pilot should head the plane to reach the point B. (b) Find\nthe time taken by the plane to go from A to B.",
+    "type": "text",
+    "bbox": [
+      333.3999938964844,
+      61.29935836791992,
+      570.2530517578125,
+      81.6393814086914
+    ]
+  },
+  {
+    "page": 24,
+    "content": "50. Two friends A and B are standing a distance x apart in\nan open field and wind is blowing from A to B. A beats\na drum and B hears the sound t1 time after he sees the\nevent. A and B interchange their positions and the\nexperiment is repeated. This time B hears the drum t2\ntime after he sees the event. Calculate the velocity of\nsound in still air v and the velocity of wind u. Neglect\nthe time light takes in travelling between the friends.",
+    "type": "text",
+    "bbox": [
+      315.39996337890625,
+      86.31937408447266,
+      570.3367309570312,
+      174.93894958496094
+    ]
+  },
+  {
+    "page": 24,
+    "content": "51. Suppose A and B in the previous problem change their\npositions in such a way that the line joining them\nbecomes perpendicular to the direction of wind while\nmaintaining the separation x. What will be the time lag\nB finds between seeing and hearing the drum beating\nby A ?",
+    "type": "text",
+    "bbox": [
+      315.4000549316406,
+      180.6395721435547,
+      570.7109985351562,
+      246.52061462402344
+    ]
+  },
+  {
+    "page": 24,
+    "content": "52. Six particles situated at the corners of a regular hexagon\nof side a move at a constant speed v. Each particle\nmaintains a direction towards the particle at the next\ncorner. Calculate the time the particles will take to meet\neach other.",
+    "type": "text",
+    "bbox": [
+      315.398193359375,
+      252.2212371826172,
+      570.4583740234375,
+      306.70184326171875
+    ]
+  },
+  {
+    "page": 24,
+    "content": "1. (b)\n 2. (d)\n 3. (d)\n 4. (a)\n 5. (c)\n 6. (d)\n 7. (c)\n 8. (c)\n 9. (c)\n10. (d)\n11. (d)\n12. (a)\n13. (b)",
+    "type": "text",
+    "bbox": [
+      42.52058410644531,
+      420.9977111816406,
+      282.0286560058594,
+      455.6180114746094
+    ]
+  },
+  {
+    "page": 24,
+    "content": "1. (a), (d)\n 2. (c), (d)\n 3. (a), (b), (c)\n 4. (b), (d)\n 5. (a), (b), (d)\n 6. (b), (c), (d)\n 7. (a)\n 8. (a), (d)\n 9. (a)\n10. (d)",
+    "type": "text",
+    "bbox": [
+      42.520591735839844,
+      482.9779968261719,
+      273.06463623046875,
+      524.3779907226562
+    ]
+  },
+  {
+    "page": 24,
+    "content": "1. (a) 110 m\n(b) 50 m, tan \n\u2212 1 3/4 north to east\n 2. 60 m, 20 m in the negative direction\n 3. (a) 520 km/h\n(b) 40 km/h\n   (c) 520 km/h Patna to Ranchi\n   (d) 32.5 km/h Patna to Ranchi\n 4. 32 km/h\n(b) zero\n 5. 2.5 m/s\n 2",
+    "type": "text",
+    "bbox": [
+      42.51881790161133,
+      549.9199829101562,
+      268.7950744628906,
+      635.7392578125
+    ]
+  },
+  {
+    "page": 24,
+    "content": "7. 1000 ft\n 8. (a) 0.6 m/s\n 2\n(b) 50 m\n(c) 50 m\n 9. (a) 10 m/s\n(b) 20 m/s, zero, 20 m/s, \u2013 20 m/s\n10. 100 m, zero\n11. 12 s\n12. x = 5 m, y = 3 m",
+    "type": "equation",
+    "bbox": [
+      42.519996643066406,
+      652.358642578125,
+      267.8440246582031,
+      725.439208984375
+    ]
+  },
+  {
+    "page": 24,
+    "content": "13. 35 m\n14. 12 m\n15. (a) 2.7 km\n(b) 60 m/s     (c) 225 m and 2.25 km\n16. 0.05 s\n17. 12.2 \u00d7 10\n 5 m/s\n 2",
+    "type": "text",
+    "bbox": [
+      315.3990173339844,
+      401.97918701171875,
+      571.7281494140625,
+      464.483642578125
+    ]
+  },
+  {
+    "page": 24,
+    "content": "18. (a) 2.5 m/s\n(b) 12.5 m\n19. 22 m\n20. (a) 19 m     (b) 22 m    (c) 33 m    (d) 39 m\n   (e) 15 m    (f) 18 m    (g) 27 m     (h) 33 m\n21. 1.0 km\n22. 2 s, 38 m\n23. (a) 125 m\n(b) 5 s\n(c) 35 m/s\n24. 4.3 s\n25. (a) 40 m\n(b) 9.8 m/s\n(c) No\n26. 44.1 m, 19.6 m and 4.9 m below the top\n27. 4.9 m/s\n28. 2.62 m\n29. 48 m\n30. 490 m/s\n 2",
+    "type": "text",
+    "bbox": [
+      315.3989562988281,
+      464.85858154296875,
+      546.8428955078125,
+      645.5768432617188
+    ]
+  },
+  {
+    "page": 24,
+    "content": "32. (a) 4.5 s  (b) 90 m  (c) 49 m/s, \u03b8 = 66\u00b0 with horizontal",
+    "type": "equation",
+    "bbox": [
+      315.3999938964844,
+      659.4385986328125,
+      567.3577270507812,
+      672.8636474609375
+    ]
+  },
+  {
+    "page": 24,
+    "content": "33. (a) 60 m   (b) 80\u221a3 m\n34. Yes\n35. 10 m/s\n36. 32 ft/s",
+    "type": "text",
+    "bbox": [
+      315.3999938964844,
+      675.0902709960938,
+      422.81500244140625,
+      725.4382934570312
+    ]
+  },
+  {
+    "page": 25,
+    "content": "37. 192 ft\n38. Yes, Yes\n39. u cos\u03b8, horizontal in the plane of projection",
+    "type": "equation",
+    "bbox": [
+      42.52000045776367,
+      61.29862594604492,
+      244.0779571533203,
+      97.49698638916016
+    ]
+  },
+  {
+    "page": 25,
+    "content": "41. 2 m\n42. 2 m/s\n43. (a) 19.6 m/s upward\n   (b) 24.5 m/s at 53\u00b0 with horizontal\n44. Sixth\n45. Minimum angle 15\u00b0, maximum angle 75\u00b0 but there is\nan interval of 53\u00b0 between 15\u00b0 and 75\u00b0, which is not\nallowed for successful shot",
+    "type": "text",
+    "bbox": [
+      42.5193977355957,
+      101.6785659790039,
+      297.5884094238281,
+      196.29917907714844
+    ]
+  },
+  {
+    "page": 25,
+    "content": "47. (a) 10 minutes\nsin\u03b8\n(b) 10 minutes",
+    "type": "equation",
+    "bbox": [
+      315.5191345214844,
+      74.59306335449219,
+      463.803955078125,
+      96.5970230102539
+    ]
+  },
+  {
+    "page": 25,
+    "content": "49. (a) sin\n \u2013 1 (1/15) east of the line AB  (b) 50 min",
+    "type": "text",
+    "bbox": [
+      315.5199890136719,
+      113.06378173828125,
+      537.0430297851562,
+      123.9385757446289
+    ]
+  },
+  {
+    "page": 25,
+    "content": "Rest and Motion : Kinematics\n55",
+    "type": "text",
+    "bbox": [
+      249.75999450683594,
+      31.096651077270508,
+      570.5241088867188,
+      39.07665252685547
+    ]
+  }
+]

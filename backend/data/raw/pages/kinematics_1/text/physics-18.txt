@@ -1,0 +1,119 @@
+48
+
+Concepts of Physics
+
+of the particles moves with constant speed v. A always
+has its velocity along AB, B along BC and C along CA.
+At what time will the particles meet each other ?
+
+Solution : The motion of the particles is roughly sketched
+
+in figure (8-W15). By symmetry they will meet at the
+
+Figure 3-W15
+
+centroid O of the triangle. At any instant the particles
+will form an equilateral triangle ABC with the same
+centriod O. Concentrate on the motion of any one
+
+particle, say A. At any instant its velocity makes angle
+30° with AO.
+
+The component of this velocity along AO is v cos30°. This
+component is the rate of decrease of the distance AO.
+Initially,
+
+2
+z 2_(d) _d |
+40-3V" -(3| vB
+
+Therefore, the time taken for AO to become zero
+
+d/v3 __ 2d ad
+~ vy. cos30° V3uxVv3 3u
+Alternative : Velocity of A is v along AB. The velocity
+of B is along BC. Its component along BA is v cos 60°
+= v/2. Thus, the separation AB decreases at the rate
+
+v 38v
+v+—=—:
+
+2 2
+
+Since this rate is constant, the time taken in reducing
+the separation AB from d to zero is
+
+/_d 2d.
+~ Bu Bu
+2
+
+QUESTIONS FOR SHORT ANSWER
+
+. Galileo was punished by the Church for teaching that
+
+the sun is stationary and the earth moves around it. His
+opponents held the view that the earth is stationary and
+the sun moves around it. If the absolute motion has no
+meaning, are the two viewpoints not equally correct or
+equally wrong ?
+
+. When a particle moves with constant velocity, its
+
+average velocity, its instantaneous velocity and its speed
+are all equal. Comment on this statement.
+
+. Acar travels at a speed of 60 km/hr due north and the
+
+other at a speed of 60 km/hr due east. Are the velocities
+equal ? If no, which one is greater ? If you find any of
+the questions irrelevant, explain.
+
+. A ball is thrown vertically upward with a speed of 20
+
+m/s. Draw a graph showing the velocity of the ball as a
+function of time as it goes up and then comes back.
+
+The velocity of a particle is towards west at an instant.
+Its acceleration is not towards west, not towards east,
+not towards north and not towards south. Give an
+example of this type of motion.
+
+. At which point on its path a projectile has the smallest
+
+speed ?
+
+Two particles A and B start from rest and move for equal
+time on a straight line. The particle A has an
+acceleration a for the first half of the total time and 2a
+for the second half. The particle B has an acceleration
+
+10.
+
+11.
+
+2a for the first half and a for the second half. Which
+particle has covered larger distance ?
+
+If a particle is accelerating, it is either speeding up or
+speeding down. Do you agree with this statement ?
+
+. A food packet is dropped from a plane going at an
+
+altitude of 100 m. What is the path of the packet as
+seen from the plane ? What is the path as seen from the
+ground ? If someone asks “what is the actual path”, what
+will you answer ?
+
+Give examples where (a) the velocity of a particle is zero
+but its acceleration is not zero, (b) the velocity is opposite
+in direction to the acceleration, (c) the velocity is
+perpendicular to the acceleration.
+
+Figure (3-Q1) shows the x coordinate of a particle as a
+function of time. Find the signs of v, and a, at t = t,,
+
+t=t, and t =t;.
+
+t ty tg
+
+Figure 3-Q1

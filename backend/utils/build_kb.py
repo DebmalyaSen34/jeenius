@@ -3,9 +3,29 @@ import os
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.documents import Document
+from langchain_community.document_loaders import UnstructuredMarkdownLoader
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 JSON_PATH = "theory_corpus.json"
-DB_PATH = "faiss_index"
+MD_PATH = "data/processed/hc_verma_full_textbook.md"
+DB_PATH = "faiss_index_md"
+
+def load_markdown():
+    print(f"Loading markdown data from {MD_PATH}...")
+
+    loader = UnstructuredMarkdownLoader(MD_PATH)
+    documents = loader.load()
+
+    text_splitter = RecursiveCharacterTextSplitter(
+        chunk_size=1000,
+        chunk_overlap=200,
+        length_function=len
+    )
+
+    split_docs = text_splitter.split_documents(documents)
+
+    print(f"Loaded and split {len(split_docs)} documents.")
+    return split_docs
 
 def load_data():
 
@@ -46,5 +66,5 @@ def build_vector_store(documents):
     print("Vector store saved successfully.")
 
 if __name__ == "__main__":
-    docs = load_data()
+    docs = load_markdown()
     build_vector_store(docs)

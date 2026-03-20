@@ -1,0 +1,133 @@
+36 Concepts of Physics
+
+Solution : (a) We have,
+
+x=ut+ sat °
+= (25 m/s) (2s) + 5 (0°50 m/s ”) (2 s)”
+
+=50m+10m=60m.
+
+Since the particle does not turn back it is also the
+distance travelled.
+
+(b) We have,
+
+v=u+at
+or, 7°5 m/s = 2°5 m/s + (0°50 m/s’) t
+_ 75 m/s — 2°5 m/s
+050 m/s”
+
+or, =10s
+
+(c) We have,
+2 2
+VU =u +2ax
+
+or, (7°5 m/s) * = (2°5 m/s) * + 2(0°50 m/s ”)x
+
+= (UD mls) * = (25 m/s) *
+
+- 50
+2 x 0°50 m/s” m
+
+or,
+
+Example 3.6
+
+A particle having initial velocity u moves with a constant
+acceleration a for a time t. (a) Find the displacement of
+the particle in the last 1 second. (b) Evaluate it for
+u=5m/s,a=2m/s’ and t=10s.
+
+Solution : (a) The position at time ¢ is
+S=ut+ 1 at”
+- 2
+The position at time (¢- 1s) is
+
+s' =u(t-1s)+5a(t-15)”
+
+=ut—u(1 s) + Sat" atl 3) +Fa(1 s)”
+
+Thus, the displacement in the last 1s is
+
+S,=s-s'
+
+=u(1s)+at(1 s)-5a(1 gs)”
+
+or, s,=u(1 s)+5(2t-1s)(1 s). .. Gi)
+
+(b) Putting the given values in (i)
+
+s0(5] 9+ 9 (2 a] ex s-19 08
+
+5m (125) (198) (15
+
+=5m+19m=24m.
+
+Sometimes, we are not careful in writing the units
+appearing with the numerical values of physical
+quantities. If we forget to write the unit of second in
+equation (i), we get,
+
+a
+s=Uuts (2t- 1).
+
+This equation is often used to calculate the displacement
+in the “tth second”. However, as you can verify, different
+terms in this equation have different dimensions and
+hence the above equation is dimensionally incorrect.
+Equation (i) is the correct form which was used to solve
+part (b).
+
+Also note that this equation gives the displacement of
+the particle in the last 1 second and not necessarily the
+distance covered in that second.
+
+Freely Falling Bodies
+
+A common example of motion in a straight line
+with constant acceleration is free fall of a body near
+the earth’s surface. If air resistance is neglected and
+a body is dropped near the surface of the earth, it falls
+along a vertical straight line. The acceleration is in the
+vertically downward direction and its magnitude is
+almost constant if the height is small as compared with
+the radius of the earth (6400 km). This magnitude is
+approximately equal to 9°8 m/s” or 32 ft/s” and is
+denoted by the letter g.
+
+If we take vertically upward as the positive Y-axis,
+acceleration is along the negative Y-axis and we write
+a = —g. The equation (3.12) to (3.14) may be written
+in this case as
+
+v=u-gt
+
+1 2
+y=ul—~ 5st
+v =u’ — 2Qgy.
+
+Here y is the y-coordinate (that is the height above
+the origin) at time ¢, u is the velocity in y direction at
+t = 0 and vu is the velocity in y direction at time t. The
+position of the particle at t = 0 is y = 0.
+
+Sometimes it is convenient to choose vertically
+downward as the positive Y-axis. Then a = g and the
+equations (3.12) to (3.14) become
+
+v=u+gt
+
+1 2
+yaul+ 5st
+v =u’ +2Qgy.
+
+Example 3.7
+
+A ball is thrown up at a speed of 4:0 m/s. Find the
+maximum height reached by the ball. Take g = 10 m/s”.
+
+Solution : Let us take vertically upward direction as the
+positive Y-axis. We have u = 4:0 m/s and a = -10 m/s’.
+At the highest point the velocity becomes zero. Using
+the formula.

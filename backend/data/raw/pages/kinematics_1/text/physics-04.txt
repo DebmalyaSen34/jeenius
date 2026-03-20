@@ -1,0 +1,146 @@
+34 Concepts of Physics
+
+The average velocity of a particle in the time interval
+t, to t, can be written as
+
+> ro -Ty
+Uj) =~ ... (8.4)
+av t, —t,
+
+Note that only the positions of the particle at time
+t =t, and t =f, are used in calculating the average
+velocity. The positions in between ¢, and ¢, are not
+needed, hence the actual path taken in going from A
+to B is not important in calculating the average
+velocity.
+
+Example 3.4
+
+A table clock has its minute hand 4:0 cm long. Find the
+average velocity of the tip of the minute hand (a) between
+6:00 a.m. to 6°30 a.m. and (b) between 6:00 a.m. to
+6°30 p.m.
+
+Solution : At 6°00 a.m. the tip of the minute hand is at
+12 mark and at 6°30 a.m. or 6°30 p.m. it is 180° away.
+Thus, the straight line distance between the initial and
+final position of the tip is equal to the diameter of the
+clock.
+
+Displacement = 2 R = 2 x 40cm = 80cm.
+
+The displacement is from the 12 mark to the 6 mark on
+the clock panel. This is also the direction of the average
+velocity in both cases.
+
+(a) The time taken from 6:00 a.m. to 6°30 a.m. is 30
+minutes = 1800s. The average velocity is
+
+Displacement
+Yau =
+
+_ 8:0 cm
+time ~ 1800s
+
+(b) The time taken from 6:00 a.m. to 6°30 p.m. is 12
+hours and 30 minutes = 45000 s. The average velocity
+
+=4:4x 10°’ cm/s.
+
+18
+
+Displacement
+Vav =
+
+_ 8:0 cm
+~ 45000 s
+
+=18~x10 ‘ems.
+time
+
+The instantaneous velocity of a particle at a time
+t is defined as follows. Let the average velocity of the
+particle in a short time interval ¢t tot + tbe Vav This
+average velocity can be written as
+oor
+Vav = t
+where r is the displacement in the time interval t.
+We now make tft vanishingly small and find the
+
+limiting value of —. This value is instantaneous
+
+t
+
+velocity v of the particle at time t.
+pe lim 72. 35
+"rot dt 9)
+
+For very small intervals the displacement r is along
+the line of motion of the particle. Thus, the length
+
+r equals the distances travelled in that interval. So
+the magnitude of the velocity is
+
+dr| \dri| ds
+U=| al" ap 7 dt (3.6)
+which is the instantaneous speed at time t.
+
+Instantaneous velocity is also called the “velocity”.
+
+3.5 AVERAGE ACCELERATION AND
+INSTANTANEOUS ACCELERATION
+
+If the velocity of a particle remains constant as
+time passes, we say that it is moving with uniform
+velocity. If the velocity changes with time, it is said to
+be accelerated. The acceleration is the rate of change
+of velocity. Velocity is a vector quantity hence a change
+in its magnitude or direction or both will change the
+velocity.
+
+Suppose the velocity of a particle at time ft, is v,
+and at time ¢, it is v,. The change produced in time
+
+interval ¢, to t. is vy—v,. We define the average
+
+acceleration op as the change in velocity divided by
+the time interval. Thus,
+
+> Ug — Vy
+a4) =~: (3.7)
+av ty _ ty
+
+Again the average acceleration depends only on the
+velocities at time ¢, and t,. How the velocity changed
+in between ¢, and f, is not important in defining the
+average acceleration.
+
+Instantaneous acceleration of a particle at time t
+is defined as
+
+- lim _v_dv
+a= 1m 7 dt (3.8)
+
+where v is the change in velocity between the time t
+and ¢ + ¢t. At time ¢ the velocity is v and at time
+
+. > > D, .
+t+ tit becomes u+ uv. a is the average acceleration
+
+of the particle in the interval ¢. As ¢ approaches zero,
+this average acceleration becomes the instantaneous
+acceleration. Instantaneous acceleration is also called
+“acceleration”.
+
+The dimension of acceleration is LT . and its SI
+unit is metre/second abbreviated as m/s‘.
+
+3.6 MOTION IN A STRAIGHT LINE
+
+When a particle is constrained to move on a
+straight line, the description becomes fairly simple. We
+choose the line as the X-axis and a suitable time
+instant as t = 0. Generally the origin is taken at the
+point where the particle is situated at t = 0. The
+position of the particle at time ¢ is given by its
+coordinate x at that time. The velocity is

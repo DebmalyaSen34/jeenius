@@ -1,0 +1,138 @@
+18.
+
+Rest and Motion :
+
+(a) We have,
+
+Um, = Um,r + Up, g .. (i)
+Hence, the velocity with respect to the ground is along
+AC. Taking y-components in equation (i),
+
+> 3Vv3
+Um,g 8in® = 3 km/h cos30° + 2 km/h cos90° = a km/h.
+
+Time taken to cross the river
+displacement along the Y-axis
+
+velocity along the Y-axis
+__W2km 1,
+~ 8V3/2 km/h 3/3
+
+(b) Taking x-components in equation (i),
+Um, g COSO = - 3 km/h sin30° + 2 km/h
+
+= 5 km/h.
+
+Displacement along the X-axis as the man crosses the
+river
+= (velocity along the X-axis) - (time)
+
+1km 1 1
+= h| =~ km.
+Cor )* tas | 6v3
+A man standing on a road has to hold his umbrella at
+30° with the vertical to keep the rain away. He throws
+the umbrella and starts running at 10 km/h. He finds
+that raindrops are hitting his head vertically. Find the
+
+speed of raindrops with respect to (a) the road, (b) the
+moving man.
+
+Solution : When the man is at rest with respect to the
+
+ground, the rain comes to him at an angle 30° with the
+vertical. This is the direction of the velocity of raindrops
+with respect to the ground. The situation when the man
+runs is shown in the figure (3-W13b).
+
+\ \ 30°
+\. ‘ ‘ y ’ 30°
+; Y
+Vr,m Vr, g
+(a) (b) (c)
+Figure 3-W13
+
+Here Uv, g = velocity of the rain with respect to the ground
+Um, g = velocity of the man with respect to the ground
+
+and Ur m = velocity of the rain with respect to the man.
+We have, Ug =Ur.m +t Umeg + .. ()
+Taking horizontal components, equation (i) gives
+U,,g 8in30° =v, g = 10 km/h
+
+_ 10 km/h
+"8 sin30°
+
+= 20 km/h,
+
+or, U
+
+19.
+
+Kinematics 47
+
+Taking vertical components, equation (i) gives
+U;, g COS80° = U,.
+
+v3
+
+2
+
+= 10V3 km/h.
+
+or, Uy, m = (20 km/h)
+
+A man running on a horizontal road at 8 km/h finds the
+rain falling vertically. He increases his speed to 12 km/h
+and finds that the drops make angle 30° with the vertical.
+Find the speed and direction of the rain with respect to
+the road.
+
+Solution :
+
+20.
+
+Vrain, man
+
+=> =>
+
+We have
+
+The two situations given in the problem may be
+represented by the following figure.
+
+Vrain, road — Vrain, man + Uman, road ee (i)
+
+Vman, road a O “man, road = 12 km/h
+J —,
+‘Vrain, road 39° oN é&
+. < Vv
+Figure 3-W14
+
+Uyain, road 18 SAMe in magnitude and direction in both the
+figures.
+
+Taking horizontal components in equation (i) for figure
+(3-W14a),
+
+Vrain, road Sino = 8 km/h. (ii)
+Now consider figure (3-W14b). Draw a_ line
+OA L Vyain, man 28 Shown.
+Taking components in equation (i) along the line OA.
+Vrain, road Sin(30° + a) = 12 km/h cos30°. ... (iii)
+From (ii) and (iii),
+sin(30°+a) 12xv3
+sina ~ 8x2
+or, sin30* cosa + cos30°sina _ 3v3
+sina 4
+or i cota + v3 = 3v8
+, 2 2 4
+or cota = v8
+, 2
+or a =cot v8
+, 2
+From (ii), Urain. road = 8 km/h = 4V7 km/h
+, sina
+
+Three particles A, B and C are situated at the vertices
+of an equilateral triangle ABC of side d at t = 0. Each

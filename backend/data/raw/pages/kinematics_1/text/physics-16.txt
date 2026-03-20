@@ -1,0 +1,137 @@
+46
+
+Concepts of Physics
+
+14. A projectile is fired with a speed u at an angle 0 with
+
+the horizontal. Find its speed when its direction of motion
+makes an angle a with the horizontal.
+
+Solution : Let the speed be v when it makes an angle a
+
+with the horizontal. As the horizontal component of
+velocity remains constant,
+
+UV cosa = u cosO
+
+or, v =u cos seca.
+
+15. A bullet is fired horizontally aiming at an object which
+
+starts falling at the instant the bullet is fired. Show that
+the bullet will hit the object.
+
+Solution : The situation is shown in figure (38-W10). The
+
+object starts falling from the point B. Draw a vertical
+line BC through B. Suppose the bullet reaches the line
+BC at a point D and it takes a time ¢ in doing so.
+
+Figure 3-W10
+
+Consider the vertical motion of the bullet. The initial
+vertical velocity = 0. The distance travelled vertically
+
+= BD= Sat *. In time t the object also travels a distance
+
+5 gt” =BD. Hence at time t, the object will also be at
+
+the same point D. Thus, the bullet hits the object at
+point D.
+
+16. A man can swim in still water at a speed of 3 km/h. He
+
+wants to cross a river that flows at 2 km/h and reach
+the point directly opposite to his starting point. (a) In
+which direction should he try to swim (that is, find the
+angle his body makes with the river flow) ? (6) How much
+time will he take to cross the river if the river is 500 m
+wide ?
+
+Solution : (a) The situation is shown in figure (3-W11).
+
+The X-axis is chosen along the river flow and the origin
+at the starting position of the man. The direction of the
+velocity of man with respect to ground is along the Y-axis
+(perpendicular to the river). We have to find the
+direction of velocity of the man with respect to water.
+
+Let v,
+
+rg = Velocity of the river with respect to the
+
+ground
+= 2 km/h along the X-axis
+
+17.
+
+Vm, g
+
+Vm, r= 3 km/h
+
+~ X
+Vi g= 2 km/h
+
+Figure 3-W11
+
+Un. r = velocity of the man with respect to the river
+
+= 3 knv/h making an angle 0 with the Y-axis
+
+and Un, g= velocity of the man with respect to the
+ground along the Y-axis.
+We have
+Ung = Um. t Up g .. i)
+
+TakingcomponentsalongtheX-axis
+0 = - (3 km/h)sin0 + 2 km/h
+
+. 2
+0=—-:
+or, sin 3
+
+(b) Taking components in equation (i) along the Y-axis,
+Um,g = (3 km/h) cos6 + 0
+or, Um, ¢ = V5 km/h.
+
+Displacement in y direction
+
+Time =
+ume Velocity in y direction
+_ O05km | v5
+v5 km/h 10 ~
+
+A man can swim at a speed of 3 km/h in still water. He
+wants to cross a 500 m wide river flowing at 2 km/h. He
+keeps himself always at an angle of 120° with the river
+flow while swimming.
+
+(a) Find the time he takes to cross the river. (b) At what
+point on the opposite bank will he arrive ?
+
+Solution : The situation is shown in figure (3-W12).
+
+Y
+B Cc
+/
+E \
+fo)
++ -
+ee) s&
+ae 30°
+€
+7
+8 \
+Vi g=2kmih
+A x
+Figure 3-W12
+
+Here v,, g = velocity of the river with respect to the ground
+
+>
+
+Um,r = Velocity of the man with respect to the river
+
+>
+
+m,g = Velocity of the man with respect to the ground.

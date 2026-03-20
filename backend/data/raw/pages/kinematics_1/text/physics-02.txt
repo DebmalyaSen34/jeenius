@@ -1,0 +1,128 @@
+32 Concepts of Physics
+
+During the time interval ¢t, to t, the particle moves
+along the path ACB. The length of the path ACB is
+called the distance travelled during the time interval
+t, to t,. If we connect the initial position A with the
+final position B by a straight line, we get the
+displacement of the particle. The magnitude of the
+displacement is the length of the straight line joining
+the initial and the final position. The direction is from
+the initial to the final position. The displacement has
+both the magnitude as well as the direction. Further
+the displacements add according to the triangle rule
+of vector addition. Suppose a particle kept on a table
+is displaced on the table and at the same time the
+table is also displaced in the room. The net
+displacement of the particle in the room is obtained by
+the vector sum of the two displacements. Thus,
+displacement is a vector quantity. In contrast the
+distance covered has only a magnitude and is thus, a
+scalar quantity.
+
+Example 3.1
+
+An old person moves on a semi-circular track of radius
+40:0 m during a morning walk. If he starts at one end
+of the track and reaches at the other end, find the
+distance covered and the displacement of the person.
+
+Solution : The distance covered by the person equals the
+length of the track. It is equal to nmR=xnx40'0m
+= 126m.
+
+The displacement is equal to the diameter of the
+semi-circular track joining the two ends. It is 2R=2
+
+x 40°0 m=80m. The direction of this displacement is
+from the initial point to the final point.
+
+3.3 AVERAGE SPEED AND
+INSTANTANEOUS SPEED
+
+The average speed of a particle in a time interval
+is defined as the distance travelled by the particle
+divided by the time interval. If the particle travels a
+distance s in time ft, to t,, the average speed is defined
+as
+
+v..= Ss
+av t, —ty
+
+(3.1)
+
+The average speed gives the overall “rapidity” with which
+the particle moves in this interval. In a one-day cricket
+match, the average run rate is quoted as the total runs
+divided by the total number of overs used to make these
+runs. Some of the overs may be expensive and some may
+be economical. Similarly, the average speed gives the
+total effect in the given interval. The rapidity or slowness
+may vary from instant to instant. When an athelete
+starts running, he or she runs slowly and gradually
+
+(— ~~)
+
+INDIA 210/4
+
+Overs 42
+
+Average Run rate 5.00
+Runs in prev. over:16
+
+a
+
+= UT
+Figure 3.3
+
+J
+
+increases the rate. We define the instantaneous speed
+at a time ¢ as follows.
+
+Let As be the distance travelled in the time interval
+t to t+ At. The average speed in this time interval is
+_ As
+Vav = At °
+Now make At vanishingly small and look for the value
+
+of om Remember As is the distance travelled in the
+
+chosen time interval At. As At approaches 0, the
+
+distance As also approaches zero but the ratio ~ has
+
+a finite limit.
+The instantaneous speed at a time ¢ is defined as
+
+As ds
+
+v ~ ato0 At dt (3.2)
+
+where s is the distance travelled in time t. The average
+speed is defined for a time interval and _ the
+instantaneous speed is defined at a particular instant.
+Instantaneous speed is also called “speed”.
+
+Example 3.2
+
+The distance travelled by a particle in time t is given
+
+by s=(25 m/s*)t* Find (a) the average speed of the
+particle during the time 0 to 50s, and (b) the
+instantaneous speed at t = 50s.
+
+Solution : (a) The distance travelled during time 0 to
+5'0s is
+s = (2°5 m/s”) (5:0 s) *=62°5 m.
+The average speed during this time is
+
+Vay = oe = 125 mis.
+5s
+(b) s=(25 m/s”) t”
+or, a = (2°5 m/s”) (2 t) = (5:0 m/s’) t.
+At t = 5:0s the speed is
+v= “ = (5:0 m/s *) (50 s) = 25 m/s.
+
+If we plot the distance s as a function of time
+(figure 3.4), the speed at a time ¢ equals the slope of
